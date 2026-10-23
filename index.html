@@ -4,4 +4,68 @@
 'use strict';const KEY='radar-fisio-v1';let jobs=[];try{const saved=JSON.parse(localStorage.getItem(KEY)||'[]');jobs=Array.isArray(saved)?saved:[]}catch{};const $=id=>document.getElementById(id);const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));const validUrl=s=>{try{let u=new URL(s);return ['http:','https:'].includes(u.protocol)?u.href:null}catch{return null}};const today=()=>new Date().toLocaleDateString('en-CA');const future=j=>j.deadline&&j.deadline>=today();const save=()=>{localStorage.setItem(KEY,JSON.stringify(jobs));render()};const id=()=>globalThis.crypto?.randomUUID?.()||'v'+Date.now()+Math.random().toString(36).slice(2);function render(){ $('nall').textContent=jobs.length;$('nopen').textContent=jobs.filter(future).length;$('nsaved').textContent=jobs.filter(j=>j.favorite).length;$('napplied').textContent=jobs.filter(j=>j.stage==='Enviada').length;const countries=[...new Set(jobs.map(j=>j.country).filter(Boolean))].sort();const selected=$('country').value;$('country').innerHTML='<option value="">Todos os países</option>'+countries.map(c=>`<option value="${esc(c)}">${esc(c)}</option>`).join('');$('country').value=countries.includes(selected)?selected:'';const q=$('q').value.toLowerCase(),country=$('country').value,mode=$('mode').value,filter=$('statusfilter').value;const filtered=jobs.filter(j=>(!q||[j.title,j.institution,j.country,j.notes,j.type].join(' ').toLowerCase().includes(q))&&(!country||j.country===country)&&(!mode||j.mode===mode)&&(!filter||(filter==='open'&&future(j))||(filter==='favorite'&&j.favorite)||(filter==='applied'&&j.stage==='Enviada'))).sort((a,b)=>(b.favorite?1:0)-(a.favorite?1:0)||(a.deadline||'9999').localeCompare(b.deadline||'9999'));$('joblist').innerHTML=filtered.length?filtered.map(card).join(''):'<div class="empty">Nenhuma oportunidade cadastrada com estes filtros. Adicione uma vaga ou importe um catálogo JSON.</div>';$('applicationlist').innerHTML=jobs.filter(j=>j.stage&&j.stage!=='Não iniciada').length?jobs.filter(j=>j.stage&&j.stage!=='Não iniciada').map(card).join(''):'<div class="empty">Ainda não há candidaturas em acompanhamento.</div>'}
 function card(j){const url=validUrl(j.url);return `<article class="job"><div class="row"><span class="meta">${esc(j.institution)} · ${esc(j.country)}</span><span class="tag">${j.deadline?(future(j)?'Prazo informado futuro':'Prazo vencido ou hoje'):'Prazo não informado'}</span></div><h3>${esc(j.title)}</h3><div class="badges"><span class="tag">${esc(j.type)}</span><span class="tag">${esc(j.mode)}</span><span class="tag">${esc(j.language)}</span>${j.favorite?'<span class="tag">★ Favorita</span>':''}</div><p class="meta">Prazo: ${esc(j.deadline||'A confirmar')} · Remuneração: ${esc(j.salary||'A confirmar')} · Situação: ${esc(j.stage||'Não iniciada')}</p>${j.notes?`<p>${esc(j.notes)}</p>`:''}<div class="actions">${url?`<a class="btn" href="${esc(url)}" target="_blank" rel="noopener noreferrer">Abrir edital ↗</a>`:''}<button class="btn" data-action="fav" data-id="${esc(j.id)}">${j.favorite?'Remover favorita':'☆ Favoritar'}</button><button class="btn" data-action="stage" data-id="${esc(j.id)}">Atualizar situação</button><button class="btn" data-action="remove" data-id="${esc(j.id)}">Excluir</button></div></article>`}
 document.querySelectorAll('[data-tab]').forEach(b=>b.addEventListener('click',()=>{document.querySelectorAll('[data-tab]').forEach(x=>x.classList.toggle('active',x===b));['jobs','applications','new','resources'].forEach(x=>$(x).classList.toggle('hidden',x!==b.dataset.tab))}));['q','country','mode','statusfilter'].forEach(x=>$(x).addEventListener(x==='q'?'input':'change',render));document.addEventListener('click',e=>{let b=e.target.closest('[data-action]');if(!b)return;let j=jobs.find(x=>x.id===b.dataset.id);if(!j)return;if(b.dataset.action==='fav')j.favorite=!j.favorite;if(b.dataset.action==='stage'){const opts=['Não iniciada','Preparando documentos','Enviada','Entrevista','Aprovada','Não selecionada','Desistência'];const v=prompt('Situação da candidatura:\n'+opts.map((x,i)=>`${i+1}. ${x}`).join('\n')+'\nDigite o número:',String(Math.max(0,opts.indexOf(j.stage||'Não iniciada'))+1));if(v===null)return;const n=Number(v);if(!Number.isInteger(n)||n<1||n>opts.length){alert('Opção inválida');return}j.stage=opts[n-1]}if(b.dataset.action==='remove'){if(!confirm('Excluir esta oportunidade?'))return;jobs=jobs.filter(x=>x.id!==j.id)}save()});$('jobform').addEventListener('submit',e=>{e.preventDefault();let data=Object.fromEntries(new FormData(e.target));if(!validUrl(data.url)){alert('Informe um link HTTP ou HTTPS válido.');return}jobs.push({...data,id:id(),favorite:false,stage:'Não iniciada'});e.target.reset();save();document.querySelector('[data-tab="jobs"]').click()});$('export').addEventListener('click',()=>{let blob=new Blob([JSON.stringify(jobs,null,2)],{type:'application/json'}),a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='radar-academico-backup-'+today()+'.json';a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000)});$('import').addEventListener('change',async e=>{let f=e.target.files[0];if(!f)return;try{if(f.size>2e6)throw Error('Arquivo muito grande');let d=JSON.parse(await f.text());if(!Array.isArray(d)||d.length>3000)throw Error('Formato inválido');let count=0;for(let j of d){if(!j||typeof j!=='object'||typeof j.title!=='string'||typeof j.institution!=='string'||typeof j.country!=='string'||!validUrl(j.url))continue;const clean={id:String(j.id||id()).slice(0,100),title:j.title.slice(0,180),institution:j.institution.slice(0,160),country:j.country.slice(0,80),url:validUrl(j.url),mode:String(j.mode||'Presencial').slice(0,50),type:String(j.type||'Outro').slice(0,80),language:String(j.language||'A confirmar').slice(0,80),deadline:/^\d{4}-\d{2}-\d{2}$/.test(j.deadline)?j.deadline:'',salary:String(j.salary||'').slice(0,120),notes:String(j.notes||'').slice(0,2000),favorite:!!j.favorite,stage:String(j.stage||'Não iniciada').slice(0,60)};const ix=jobs.findIndex(x=>x.id===clean.id);if(ix>=0)jobs[ix]=clean;else jobs.push(clean);count++}save();alert(count+' registros válidos importados.')}catch(err){alert('Não foi possível importar: '+err.message)}e.target.value=''});render();
+  
+async function sincronizarVagas() {
+  try {
+    const resposta = await fetch(
+      './vagas.json?t=' + Date.now(),
+      { cache: 'no-store' }
+    );
+
+    if (!resposta.ok) {
+      throw new Error('Falha ao carregar vagas');
+    }
+
+    const vagas = await resposta.json();
+
+    if (!Array.isArray(vagas)) {
+      throw new Error('Formato de dados inválido');
+    }
+
+    let adicionadas = 0;
+
+    for (const vaga of vagas) {
+      if (!vaga.titulo || !vaga.url) continue;
+
+      const url = validUrl(vaga.url);
+      if (!url) continue;
+
+      const existente = jobs.find(j => j.url === url);
+      if (existente) continue;
+
+      jobs.push({
+        id: 'auto-' + url,
+        title: vaga.titulo,
+        institution: vaga.instituicao || 'Não informada',
+        country: vaga.pais || 'Não informado',
+        mode: vaga.modalidade === 'Remoto'
+          ? 'Remoto/EAD' : 'Presencial',
+        type: vaga.categoria || 'Pesquisador',
+        language: 'Outro / confirmar',
+        deadline: /^\d{4}-\d{2}-\d{2}$/.test(vaga.prazo || '')
+          ? vaga.prazo : '',
+        salary: vaga.remuneracao || 'Não informada',
+        notes: 'Vaga não verificada. Confirme os requisitos, o prazo e a remuneração na fonte oficial.',
+        url: url,
+        favorite: false,
+        stage: 'Não iniciada'
+      });
+
+      adicionadas++;
+    }
+
+    if (adicionadas > 0) {
+      save();
+      render();
+    }
+
+    console.log('Vagas importadas:', adicionadas);
+
+  } catch (erro) {
+    console.error('Erro na sincronização:', erro);
+  }
+}
+
+sincronizarVagas();
+
 </script></body></html>
