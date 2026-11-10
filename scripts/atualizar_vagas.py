@@ -12,6 +12,7 @@ from urllib.parse import urljoin, urlsplit, urlunsplit, parse_qsl, urlencode
 from urllib.request import Request, urlopen
 from zoneinfo import ZoneInfo
 import noticias
+from avaliacao import apply_reviews, documentary_status
 
 ROOT = Path(__file__).resolve().parent.parent
 FIELDS = ['graduacao','doutorado','idioma','nacionalidade','residencia','autorizacao_profissional','trabalho_do_brasil']
@@ -75,6 +76,8 @@ def review_state(item,today=None):
     today=today or datetime.now(ZoneInfo('America/Sao_Paulo')).date()
     item.setdefault('verificacao',{})
     for field in FIELDS:item['verificacao'].setdefault(field,{'valor':'Não informado','evidencia':''})
+    reviewed=documentary_status(item,today)
+    if reviewed:item['status']=reviewed;return item
     deadline=item.get('prazo','')
     valid_date=False
     try:
@@ -92,14 +95,23 @@ def review_state(item,today=None):
 def check_institution(inst):
     now=datetime.now(timezone.utc).isoformat(); result={**inst,'ultima_consulta':now,'status':'Falha','candidatos_encontrados':0};items=[]
     try:
-        final,page,text=fetch(inst['url']);result['url_final']=final
+        attempts=[]
+        for source in [inst['url']]+inst.get('urls_adicionais',[]):
+            try:
+                final,page,text=fetch(source)
+                if page is not None and len(' '.join(text.split()))<300:raise ValueError('Resposta incompleta ou redirecionamento dependente de script')
+                attempts.append({'url':source,'status':'HTTP OK'});break
+            except Exception as exc:attempts.append({'url':source,'status':'Falha','erro':str(exc)[:200]})
+        else:raise RuntimeError('; '.join(a['erro'] for a in attempts))
+        result['tentativas']=attempts;result['url_final']=final
         if page is None:result['status']='Revisão documental necessária';return result,items
+        if len(' '.join(text.split()))<300:result['limitacao']='Resposta curta ou redirecionamento dependente de script; conteúdo de editais não confirmado.'
         links=[]
         for href,title in page.links:
             url=urljoin(final,href); title=' '.join(title.split())
             host=urlsplit(url).hostname or ''
             allowed=host==urlsplit(final).hostname or host.endswith('.'+(urlsplit(final).hostname or '').removeprefix('www.'))
-            if allowed and url.startswith('https://') and candidate(title):links.append((canonical(url),title))
+            if allowed and url.startswith('https://') and (candidate(title) or (re.search(r'/editais-(temporario|efetivo)',url) and 'edital' in norm(title))):links.append((canonical(url),title))
         # Follow up to three recruitment/index pages, including institutional ATS links.
         navigation=[]
         for href,title in page.links:
@@ -121,16 +133,25 @@ def check_institution(inst):
         # An HTTP 200 is not evidence that a JS job board was parsed successfully.
         result['status']='Consultada: candidatos a revisar' if items else 'Consulta parcial: nenhum link acadêmico extraído'
         result['candidatos_encontrados']=len(items)
+        if not items and re.search(r'nenhuma vaga no momento|no vacancies|no current vacancies',norm(text)):
+            result['status']='Consultada: portal informa nenhuma vaga'
+        if inst.get('limitacao'):result['limitacao']=inst['limitacao']
         result['resumo_sha256']=hashlib.sha256(text.encode()).hexdigest()
     except Exception as e:result['erro']=str(e)[:240]
     return result,items
 
 def inspect_document(item):
-    if item.get('fonte')!='Institucional direta':return item
+    if item.get('fonte') not in ['Institucional direta','Edital institucional revisado']:return item
     item['consulta_documental_em']=datetime.now(timezone.utc).isoformat()
     try:
         final,page,text=fetch(item['url']);item['url_documento']=final
         item['documento_sha256']=hashlib.sha256(text.encode()).hexdigest()
+        if item.get('documentos_obrigatorios'):
+            item['anexos_sha256']={};item['falhas_anexos']=[]
+            for attachment in item['documentos_obrigatorios']:
+                try:
+                    _,_,body=fetch(attachment);item['anexos_sha256'][attachment]=hashlib.sha256(body.encode()).hexdigest()
+                except Exception as exc:item['falhas_anexos'].append({'url':attachment,'erro':str(exc)[:200]})
         patterns={'graduacao':r'gradua|bacharel|bachelor|degree', 'doutorado':r'doutor|doctor|phd|ph.d', 'idioma':r'idioma|ingles|english|espanhol|portugues|language', 'nacionalidade':r'nacionalidade|nationality|citizen', 'residencia':r'residencia|residen|domicilio', 'autorizacao_profissional':r'crefito|conselho profissional|licen[cs]|registration', 'trabalho_do_brasil':r'remoto|remote|brasil|brazil|home office', 'prazo':r'inscric|deadline|closing date', 'remuneracao':r'remunera|salario|salary|stipend|bolsa|r\$|€|£'}
         sentences=re.split(r'[\n.!?;]+',text)
         item['indicios_documentais']={key:[' '.join(t.split())[:450] for t in sentences if re.search(pattern,norm(t))][:3] for key,pattern in patterns.items()}
@@ -145,7 +166,7 @@ def merge(previous, incoming):
         key=canonical(item['url'])
         if key in byurl:
             old=byurl[key];old['ultima_deteccao']=item.get('ultima_deteccao',item.get('data_coleta'))
-            for field in ['consulta_documental_em','url_documento','documento_sha256','indicios_documentais','resultado_documental']:
+            for field in ['consulta_documental_em','url_documento','documento_sha256','indicios_documentais','resultado_documental','anexos_sha256','falhas_anexos']:
                 if field in item:old[field]=item[field]
             continue
         records.append(item);byurl[key]=item
@@ -169,11 +190,14 @@ def main():
                 title=a.findtext('title') or '';url=a.findtext('link') or ''
                 if not noticias.relevante(title) or not url:continue
                 incoming.append({'titulo':title,'url':url,'instituicao':a.findtext('source') or 'Não informada','pais':noticias.identificar_pais(title),'categoria':category(title),'fonte':'Google Notícias RSS','data_coleta':datetime.now(timezone.utc).date().isoformat(),'status':'Não verificado'})
+    incoming+=load('oportunidades_curadas.json',[])
     with futures.ThreadPoolExecutor(max_workers=6) as pool:
         incoming=list(pool.map(inspect_document,incoming))
     records=merge(previous,incoming)
+    records=apply_reviews(records,load('revisoes.json',{}),norm,datetime.now(ZoneInfo('America/Sao_Paulo')).date())
+    records=[review_state(x) for x in records]
     write('vagas.json',records)
-    write('monitoramento.json',{'atualizado_em':datetime.now(timezone.utc).isoformat(),'instituicoes':checks,'noticias':news,'total':len(records),'validadas':sum(x['status']=='Validada' for x in records),'encerradas':sum(x['status']=='Encerrada' for x in records),'falhas':sum(x['status']=='Falha' for x in checks)})
+    write('monitoramento.json',{'atualizado_em':datetime.now(timezone.utc).isoformat(),'instituicoes':checks,'noticias':news,'total':len(records),'validadas':sum(x['status']=='Validada' for x in records),'encerradas':sum(x['status']=='Encerrada' for x in records),'anuncios_verificados':sum(x['status']=='Anúncio verificado' for x in records),'triagem':{k:sum(x.get('triagem')==k for x in records) for k in sorted(set(x.get('triagem','Candidato') for x in records))},'falhas':sum(x['status']=='Falha' for x in checks)})
     print(f'{len(previous)} anteriores preservados; {len(records)} registros; {len(checks)} instituições consultadas')
     if checks and all(x['status']=='Falha' for x in checks):raise RuntimeError('Todas as fontes institucionais falharam; consulte monitoramento.json')
 

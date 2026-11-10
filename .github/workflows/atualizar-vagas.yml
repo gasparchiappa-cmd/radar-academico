@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['scripts/**', 'tests/**', 'instituicoes.json', 'index.html', '.github/workflows/**']
+    paths: ['scripts/**', 'tests/**', 'instituicoes.json', 'revisoes.json', 'oportunidades_curadas.json', 'index.html', '.github/workflows/**']
 permissions:
   contents: write
   pages: write
@@ -26,6 +26,8 @@ jobs:
         run: pip install pypdf==6.1.1
       - name: Testar regras de integridade
         run: python -m unittest discover -s tests -v
+      - name: Testar sincronização e preservação de candidaturas
+        run: node tests/test_catalogo.cjs
       - name: Buscar oportunidades
         run: python scripts/atualizar_vagas.py
       - name: Salvar atualizações

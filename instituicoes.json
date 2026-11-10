@@ -13,7 +13,11 @@
     "url": "https://www2.faccat.br/portal/?q=node/4105",
     "pais": "Brasil",
     "regiao": "RS",
-    "enabled": true
+    "enabled": true,
+    "urls_adicionais": [
+      "https://www2.faccat.br/portal/"
+    ],
+    "limitacao": "Página inclui resultados históricos. Publicação de edital atual depende de link público extraível."
   },
   {
     "id": "3",
@@ -29,7 +33,8 @@
     "url": "https://www.ucs.br/site/trabalhe-na-ucs/",
     "pais": "Brasil",
     "regiao": "RS",
-    "enabled": true
+    "enabled": true,
+    "limitacao": "Página pública consultada é voltada a técnico-administrativos. Cobertura docente não demonstrada; não interpretar como ausência de vagas docentes."
   },
   {
     "id": "5",
@@ -50,18 +55,22 @@
   {
     "id": "7",
     "nome": "Feevale",
-    "url": "https://editais.feevale.br/editais/",
+    "url": "https://www.feevale.br/todas-as-oportunidades/editais",
     "pais": "Brasil",
     "regiao": "RS",
-    "enabled": true
+    "enabled": true,
+    "urls_adicionais": [
+      "https://editais.feevale.br/"
+    ]
   },
   {
     "id": "8",
     "nome": "Ulbra",
-    "url": "https://www.ulbra.br/trabalheconosco",
+    "url": "https://www.ulbra.br/carreiras/aelbra",
     "pais": "Brasil",
     "regiao": "RS",
-    "enabled": true
+    "enabled": true,
+    "urls_adicionais": []
   },
   {
     "id": "9",
@@ -74,10 +83,11 @@
   {
     "id": "10",
     "nome": "URI",
-    "url": "https://reitoria.uri.br/pt",
+    "url": "https://www.reitoria.uri.br/pt/editais",
     "pais": "Brasil",
     "regiao": "RS",
-    "enabled": true
+    "enabled": true,
+    "urls_adicionais": []
   },
   {
     "id": "11",
@@ -85,7 +95,8 @@
     "url": "https://www.ufrgs.br/progesp/",
     "pais": "Brasil",
     "regiao": "RS",
-    "enabled": true
+    "enabled": true,
+    "limitacao": "Acesso de rede externo pode falhar. Falha não indica ausência de edital."
   },
   {
     "id": "12",
@@ -130,10 +141,11 @@
   {
     "id": "17",
     "nome": "UnB",
-    "url": "https://www.concursos.unb.br/",
+    "url": "https://concursos.unb.br/",
     "pais": "Brasil",
     "regiao": "Expansão",
-    "enabled": true
+    "enabled": true,
+    "urls_adicionais": []
   },
   {
     "id": "18",
@@ -170,10 +182,11 @@
   {
     "id": "22",
     "nome": "Universidade do Porto",
-    "url": "https://sigarra.up.pt/up/pt/web_base.gera_pagina?p_pagina=concursos",
+    "url": "https://noticias.up.pt/oportunidades/",
     "pais": "Portugal",
     "regiao": "Expansão",
-    "enabled": true
+    "enabled": true,
+    "urls_adicionais": []
   },
   {
     "id": "23",
@@ -186,9 +199,69 @@
   {
     "id": "24",
     "nome": "University of Melbourne",
-    "url": "https://jobs.unimelb.edu.au/",
+    "url": "https://about.unimelb.edu.au/careers",
     "pais": "Austrália",
     "regiao": "Expansão",
+    "enabled": true,
+    "urls_adicionais": [
+      "https://about.unimelb.edu.au/careers/erecruitment"
+    ]
+  },
+  {
+    "id": "25",
+    "nome": "UFCSPA",
+    "url": "https://ufcspa.edu.br/trabalhe-na-ufcspa/docentes",
+    "pais": "Brasil",
+    "regiao": "RS",
     "enabled": true
+  },
+  {
+    "id": "26",
+    "nome": "UNIFESP",
+    "url": "https://phpu.unifesp.br/concurso/inscricao/",
+    "pais": "Brasil",
+    "regiao": "Expansão",
+    "enabled": true
+  },
+  {
+    "id": "27",
+    "nome": "UNIFAL-MG",
+    "url": "https://www.unifal-mg.edu.br/dips/professor-substituto/",
+    "pais": "Brasil",
+    "regiao": "Expansão",
+    "enabled": true
+  },
+  {
+    "id": "28",
+    "nome": "UFG",
+    "url": "https://sistemas.ufg.br/CONCURSOS_WEB/",
+    "pais": "Brasil",
+    "regiao": "Expansão",
+    "enabled": true
+  },
+  {
+    "id": "29",
+    "nome": "UDESC",
+    "url": "https://www.udesc.br/processoseletivo",
+    "pais": "Brasil",
+    "regiao": "Expansão",
+    "enabled": true
+  },
+  {
+    "id": "30",
+    "nome": "UFJF",
+    "url": "https://www2.ufjf.br/concursos/",
+    "pais": "Brasil",
+    "regiao": "Expansão",
+    "enabled": true
+  },
+  {
+    "id": "31",
+    "nome": "UNINTER",
+    "url": "https://www.uninter.com/trabalhe-conosco/",
+    "pais": "Brasil",
+    "regiao": "Expansão EAD",
+    "enabled": true,
+    "limitacao": "Docência EAD não implica teletrabalho integral; verificar edital, local de gravação/aulas e titulação mínima e máxima."
   }
 ]

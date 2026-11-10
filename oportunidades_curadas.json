@@ -1,0 +1,29 @@
+[
+  {
+    "id": "curado-unifesp-755-2026",
+    "titulo": "UNIFESP 755/2026: Professor substituto de Fisioterapia em Saúde da Mulher",
+    "instituicao": "UNIFESP",
+    "pais": "Brasil",
+    "url": "https://phpu.unifesp.br/concurso/inscricao/editais/edital755-2026.htm",
+    "fonte": "Edital institucional revisado",
+    "data_coleta": "2026-11-10",
+    "categoria": "Professor substituto",
+    "modalidade": "Presencial"
+  },
+  {
+    "id": "curado-ufcspa-118-2026",
+    "titulo": "UFCSPA 118/2026: Professor efetivo em Fisioterapia Comunitária ou Fisiologia Humana",
+    "instituicao": "UFCSPA",
+    "pais": "Brasil",
+    "url": "https://ufcspa.edu.br/trabalhe-na-ufcspa/docentes/7872-edital-118-2026-progesp",
+    "fonte": "Edital institucional revisado",
+    "data_coleta": "2026-11-10",
+    "categoria": "Professor efetivo",
+    "modalidade": "Presencial",
+    "documentos_obrigatorios": [
+      "https://ufcspa.edu.br/documentos/EDITAL_118.pdf",
+      "https://ufcspa.edu.br/documentos/ANEXOS_118.pdf",
+      "https://ufcspa.edu.br/documentos/Retificacao_27_de_outubro_1.pdf"
+    ]
+  }
+]
