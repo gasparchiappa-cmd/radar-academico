@@ -1002,11 +1002,11 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/November2026/8w3gzofs9w0qFzTEtA1V.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.057972+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.544461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2026-11-18",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
     "consulta_documental_em": "2026-11-10T21:45:15.370060+00:00",
@@ -1071,8 +1071,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -1082,9 +1082,10 @@
       "evidencia": "Edital Nº 83 / 2026 - PRAC/UCPEL - Seleção Docente - Serviço Social Questão Social, Trabalho, Educação, Sociabilidades e Resistências Políticas (1 vaga) - Abertura",
       "fonte": "https://ucpel.edu.br/laravel/public/storage/editais/November2026/8w3gzofs9w0qFzTEtA1V.pdf",
       "documento_consultado": true,
-      "documento_sha256": "31f139dd216981eacf82bdcdfd6b2d9c8b33b00770dfddbb82535ffc1fd0c2dd",
+      "documento_sha256": "9e0095507be2e97bd2f98fc1cfe2185f4f5caec270548b7dbd0cdd9895182ab9",
       "prazo": "2026-11-18",
-      "evidencia_prazo": "Período para inscrição: 29/10/2026 até 18/11/2026"
+      "evidencia_prazo": "Período para inscrição: 29/10/2026 até 18/11/2026",
+      "desatualizada": true
     }
   },
   {
@@ -1095,12 +1096,12 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2026/7cReCjBsgKdt3t3XFLPA.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.057972+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.544461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2026-11-05",
-    "status": "Encerrada",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
+    "status": "Não verificado",
     "prioridade": "Aderência a revisar",
     "consulta_documental_em": "2026-11-10T21:45:15.370286+00:00",
     "url_documento": "https://ucpel.edu.br/laravel/public/storage/editais/October2026/7cReCjBsgKdt3t3XFLPA.pdf",
@@ -1167,8 +1168,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -1178,9 +1179,10 @@
       "evidencia": "Edital Nº 81 / 2026 - PRAC/UCPEL - Seleção Docente - Medicina - Oftalmologia (3 vagas) -",
       "fonte": "https://ucpel.edu.br/laravel/public/storage/editais/October2026/7cReCjBsgKdt3t3XFLPA.pdf",
       "documento_consultado": true,
-      "documento_sha256": "2495d5c3bb09c51e2a2506315ed10ee141009a930acba8cafe7f0a966aa8276c",
+      "documento_sha256": "330d792b5da73c98c5a41557afd2c670a8fa21fd0b095d498ade388285fa0f1f",
       "prazo": "2026-11-05",
-      "evidencia_prazo": "Período para inscrição: 23/10/2026 à 05/11/2026"
+      "evidencia_prazo": "Período para inscrição: 23/10/2026 à 05/11/2026",
+      "desatualizada": true
     }
   },
   {
@@ -1191,12 +1193,12 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2026/cYUBknT6puOFwqRYBPlC.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.057972+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.544461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2026-10-30",
-    "status": "Encerrada",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
+    "status": "Não verificado",
     "prioridade": "Aderência a revisar",
     "consulta_documental_em": "2026-11-10T21:45:15.370491+00:00",
     "url_documento": "https://ucpel.edu.br/laravel/public/storage/editais/October2026/cYUBknT6puOFwqRYBPlC.pdf",
@@ -1263,8 +1265,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -1274,9 +1276,10 @@
       "evidencia": "Edital Nº 80 / 2026 - PRAC/UCPEL - Seleção Docente - Medicina - Radiologia (2 vagas) -",
       "fonte": "https://ucpel.edu.br/laravel/public/storage/editais/October2026/cYUBknT6puOFwqRYBPlC.pdf",
       "documento_consultado": true,
-      "documento_sha256": "23bd6e9688a50bd3387fb5fec05b434e35727d9fad259f37935043991afe4dea",
+      "documento_sha256": "6384294b0a4bca17b93d7ed315b8f8fd10ed62d8146b8b3f46a10a6138ed212f",
       "prazo": "2026-10-30",
-      "evidencia_prazo": "Período para inscrição: 23/10/2026 à 30/10/2026"
+      "evidencia_prazo": "Período para inscrição: 23/10/2026 à 30/10/2026",
+      "desatualizada": true
     }
   },
   {
@@ -1287,16 +1290,16 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2026/xBSsHy0DqWP58jGBmCy5.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.057972+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.544461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "2026-11-12",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:15.370701+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:50.598497+00:00",
     "url_documento": "https://ucpel.edu.br/laravel/public/storage/editais/October2026/xBSsHy0DqWP58jGBmCy5.pdf",
-    "documento_sha256": "b00ca5c2d71f31318f8628564b7554169c98495cab6b28a31b2318a4d40105d2",
+    "documento_sha256": "5d3ed7b40ddd8bc94908a86ee04b9430a2a526f193330a2495426a39db612d1b",
     "indicios_documentais": {
       "graduacao": [
         "2026 - Cirurgia (5 vagas) Requisitos: a) Graduação em Medicina",
@@ -1370,7 +1373,7 @@
       "evidencia": "Edital Nº 79 / 2026 - PRAC/UCPEL - Seleção Docente - Medicina - Cirurgia (5 vagas) -",
       "fonte": "https://ucpel.edu.br/laravel/public/storage/editais/October2026/xBSsHy0DqWP58jGBmCy5.pdf",
       "documento_consultado": true,
-      "documento_sha256": "b00ca5c2d71f31318f8628564b7554169c98495cab6b28a31b2318a4d40105d2",
+      "documento_sha256": "5d3ed7b40ddd8bc94908a86ee04b9430a2a526f193330a2495426a39db612d1b",
       "prazo": "2026-11-12",
       "evidencia_prazo": "Período para inscrição: 23/10/2026 à 12/11/2026"
     }
@@ -1383,12 +1386,12 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2026/Nf16JQBkmlIferySmyAR.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.057972+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.544461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2026-10-28",
-    "status": "Encerrada",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
+    "status": "Não verificado",
     "prioridade": "Aderência a revisar",
     "consulta_documental_em": "2026-11-10T21:45:15.370893+00:00",
     "url_documento": "https://ucpel.edu.br/laravel/public/storage/editais/October2026/Nf16JQBkmlIferySmyAR.pdf",
@@ -1452,8 +1455,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -1463,9 +1466,10 @@
       "evidencia": "Edital Nº 74 / 2026 - PRAC/UCPEL - Edital Nº 50 / 2026 - PRAC/UCPEL - Seleção Docente - Serviço Social - Estado, Direitos Sociais e Política Social (1 vaga) - Abertura",
       "fonte": "https://ucpel.edu.br/laravel/public/storage/editais/October2026/Nf16JQBkmlIferySmyAR.pdf",
       "documento_consultado": true,
-      "documento_sha256": "5573c690ad504f59f825656742dad5676591bc12517931c99adfe24e70bdf3b4",
+      "documento_sha256": "8d6915e3d536b8e10b5b162c2aea03ed546cfa876367d20a2891f15e2c636844",
       "prazo": "2026-10-28",
-      "evidencia_prazo": "Período para inscrição: 14/10/2026 até 28/10/2026"
+      "evidencia_prazo": "Período para inscrição: 14/10/2026 até 28/10/2026",
+      "desatualizada": true
     }
   },
   {
@@ -1476,12 +1480,12 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/July2026/PwZ8gsC2qFSefqgQiYn7.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.057972+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.544461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2026-08-13",
-    "status": "Encerrada",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
+    "status": "Não verificado",
     "prioridade": "Aderência a revisar",
     "consulta_documental_em": "2026-11-10T21:45:15.371074+00:00",
     "url_documento": "https://ucpel.edu.br/laravel/public/storage/editais/July2026/PwZ8gsC2qFSefqgQiYn7.pdf",
@@ -1548,8 +1552,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -1559,9 +1563,10 @@
       "evidencia": "Edital Nº 50 / 2026 - PRAC/UCPEL - Seleção Docente - Ginecologia e Obstetrícia (5 vagas) - Abertura",
       "fonte": "https://ucpel.edu.br/laravel/public/storage/editais/July2026/PwZ8gsC2qFSefqgQiYn7.pdf",
       "documento_consultado": true,
-      "documento_sha256": "7317bdfb4826743c92b667e0f4e645d22c7033f73a150be2b0995e32e4523eb5",
+      "documento_sha256": "3b4c39c4675e5b43fcdc6076766a6e44882385f181618c16322e5e1b914c6838",
       "prazo": "2026-08-13",
-      "evidencia_prazo": "Período para inscrição: 31/07/2026 à 13/08/2026"
+      "evidencia_prazo": "Período para inscrição: 31/07/2026 à 13/08/2026",
+      "desatualizada": true
     }
   },
   {
@@ -1572,12 +1577,12 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/July2026/KhD8KrIoanu9YdcSaEol.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.057972+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.544461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2026-08-09",
-    "status": "Encerrada",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
+    "status": "Não verificado",
     "prioridade": "Aderência a revisar",
     "consulta_documental_em": "2026-11-10T21:45:16.938734+00:00",
     "url_documento": "https://ucpel.edu.br/laravel/public/storage/editais/July2026/KhD8KrIoanu9YdcSaEol.pdf",
@@ -1644,8 +1649,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -1655,9 +1660,10 @@
       "evidencia": "Edital Nº 45 / 2026 - PRAC/UCPEL - Seleção Docente - Pediatria (5 vagas) - Retificação de Edital",
       "fonte": "https://ucpel.edu.br/laravel/public/storage/editais/July2026/KhD8KrIoanu9YdcSaEol.pdf",
       "documento_consultado": true,
-      "documento_sha256": "216d05139af3ace56892a69d0e64088846b0fac622ee9398a998f26026b21395",
+      "documento_sha256": "90f80e51991fffcecd0aae5931f3509ef97508f904ef673b0050abf941e9e8da",
       "prazo": "2026-08-09",
-      "evidencia_prazo": "Período para inscrição: 10/07/2026 à 09/08/2026"
+      "evidencia_prazo": "Período para inscrição: 10/07/2026 à 09/08/2026",
+      "desatualizada": true
     }
   },
   {
@@ -1668,12 +1674,12 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/July2026/rkm26VWeS4p81WeRmkbd.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.057972+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.544461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2026-08-02",
-    "status": "Encerrada",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
+    "status": "Não verificado",
     "prioridade": "Aderência a revisar",
     "consulta_documental_em": "2026-11-10T21:45:17.968432+00:00",
     "url_documento": "https://ucpel.edu.br/laravel/public/storage/editais/July2026/rkm26VWeS4p81WeRmkbd.pdf",
@@ -1740,8 +1746,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -1751,9 +1757,10 @@
       "evidencia": "Edital Nº 45 / 2026 - PRAC/UCPEL - Seleção Docente - Pediatria (5 vagas) - Abertura",
       "fonte": "https://ucpel.edu.br/laravel/public/storage/editais/July2026/rkm26VWeS4p81WeRmkbd.pdf",
       "documento_consultado": true,
-      "documento_sha256": "0a3b6a9077a407a7a1568c92c051051ad88ce0d1226cede6c3d77db3a4b07225",
+      "documento_sha256": "60e9c355aac23460acd5f4f6ea7371c5865acded6d0ed1c988b597ee8af1878b",
       "prazo": "2026-08-02",
-      "evidencia_prazo": "Período para inscrição: 10/07/2026 à 02/08/2026"
+      "evidencia_prazo": "Período para inscrição: 10/07/2026 à 02/08/2026",
+      "desatualizada": true
     }
   },
   {
@@ -1764,12 +1771,12 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/May2026/QlcHODyypSmxDBtZosKf.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.057972+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.544461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2026-05-16",
-    "status": "Encerrada",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
+    "status": "Não verificado",
     "prioridade": "Aderência a revisar",
     "consulta_documental_em": "2026-11-10T21:45:17.978333+00:00",
     "url_documento": "https://ucpel.edu.br/laravel/public/storage/editais/May2026/QlcHODyypSmxDBtZosKf.pdf",
@@ -1832,8 +1839,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -1843,9 +1850,10 @@
       "evidencia": "Edital Nº 39 / 2026 - PRAC/UCPEL - PROCESSO SELETIVO PARA DOCENTE DO CENTRO DE CIÊNCIAS SOCIAIS E TECNOLÓGICAS - Abertura",
       "fonte": "https://ucpel.edu.br/laravel/public/storage/editais/May2026/QlcHODyypSmxDBtZosKf.pdf",
       "documento_consultado": true,
-      "documento_sha256": "87f7595fa2fb60039b23e68d50bc2172a02b59afaf105775afea262c4dc9ab08",
+      "documento_sha256": "6d407a95a7bdf210a2b939873404fe415bb090b4a0dcf07dfb93a6bc3010519c",
       "prazo": "2026-05-16",
-      "evidencia_prazo": "Período para inscrição: 06/05/2026 até 16/05/2026"
+      "evidencia_prazo": "Período para inscrição: 06/05/2026 até 16/05/2026",
+      "desatualizada": true
     }
   },
   {
@@ -1856,12 +1864,12 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/November2025/DgXiX15BuAVOcAXlo7U3.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.057972+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.544461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2025-11-27",
-    "status": "Encerrada",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
+    "status": "Não verificado",
     "prioridade": "Aderência a revisar",
     "consulta_documental_em": "2026-11-10T21:45:18.181782+00:00",
     "url_documento": "https://ucpel.edu.br/laravel/public/storage/editais/November2025/DgXiX15BuAVOcAXlo7U3.pdf",
@@ -1928,8 +1936,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -1939,9 +1947,10 @@
       "evidencia": "Edital Nº 97 / 2025 - PRAC/UCPEL - Seleção Docente - Clínica Médica (4 vagas) - Abertura",
       "fonte": "https://ucpel.edu.br/laravel/public/storage/editais/November2025/DgXiX15BuAVOcAXlo7U3.pdf",
       "documento_consultado": true,
-      "documento_sha256": "605221a37339ce3864eb2170a2faef96a7d1e32b04e1f672ef866554fa746b52",
+      "documento_sha256": "4d03b970137fddb2686bf1f9b7d24ea620fc110e627b334e58fe7166ca8560f1",
       "prazo": "2025-11-27",
-      "evidencia_prazo": "Período para inscrição: 24/11/2025 à 27/11/2025"
+      "evidencia_prazo": "Período para inscrição: 24/11/2025 à 27/11/2025",
+      "desatualizada": true
     }
   },
   {
@@ -1952,12 +1961,12 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/November2025/8c7Vk9Vb2Y1riW9Nv0oi.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.057972+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.544461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2025-12-02",
-    "status": "Encerrada",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
+    "status": "Não verificado",
     "prioridade": "Aderência a revisar",
     "consulta_documental_em": "2026-11-10T21:45:18.232646+00:00",
     "url_documento": "https://ucpel.edu.br/laravel/public/storage/editais/November2025/8c7Vk9Vb2Y1riW9Nv0oi.pdf",
@@ -2023,8 +2032,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -2034,9 +2043,10 @@
       "evidencia": "Edital Nº 93 / 2025 - PRAC/UCPEL - Seleção Docente - Psiquiatria- (3 vagas) -",
       "fonte": "https://ucpel.edu.br/laravel/public/storage/editais/November2025/8c7Vk9Vb2Y1riW9Nv0oi.pdf",
       "documento_consultado": true,
-      "documento_sha256": "d6893d5053a8665e038f2a32b12600e5c105052a9a5da672f46f961a38dd13a2",
+      "documento_sha256": "02634097c67f7d28f285a43bf1ad06e5db198283e9d7f57fb9e97df393229aca",
       "prazo": "2025-12-02",
-      "evidencia_prazo": "Período para inscrição: 18/11/2025 à 02/12/2025"
+      "evidencia_prazo": "Período para inscrição: 18/11/2025 à 02/12/2025",
+      "desatualizada": true
     }
   },
   {
@@ -2047,12 +2057,12 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/TNLMoX2VpNv2yM3xQo2g.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.057972+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.544461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2025-11-11",
-    "status": "Encerrada",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
+    "status": "Não verificado",
     "prioridade": "Aderência a revisar",
     "consulta_documental_em": "2026-11-10T21:45:18.292505+00:00",
     "url_documento": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/TNLMoX2VpNv2yM3xQo2g.pdf",
@@ -2115,8 +2125,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -2126,9 +2136,10 @@
       "evidencia": "Edital Nº 74 / 2025 - PRAC/UCPEL - Seleção Docente - Engenharia Elétrica - Sistemas Elétricos de Potência e Máquinas Elétricas e Acionamentos (1 vaga) -",
       "fonte": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/TNLMoX2VpNv2yM3xQo2g.pdf",
       "documento_consultado": true,
-      "documento_sha256": "7dbe9344ec319983f23ef56fd6dc05f0ae8feeda99117e0e9e4f8bfcdad1282a",
+      "documento_sha256": "e7dd8ce7cac6ce63c0360865db11a95dba890c791c369f60e79193d8cc3fc6f8",
       "prazo": "2025-11-11",
-      "evidencia_prazo": "Período para inscrição: 28/10/2025 à 11/11/2025"
+      "evidencia_prazo": "Período para inscrição: 28/10/2025 à 11/11/2025",
+      "desatualizada": true
     }
   },
   {
@@ -2139,12 +2150,12 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/z7TtqugKhpXAjeskiHOU.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.057972+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.544461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2025-11-08",
-    "status": "Encerrada",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
+    "status": "Não verificado",
     "prioridade": "Fisioterapia",
     "consulta_documental_em": "2026-11-10T21:45:18.782174+00:00",
     "url_documento": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/z7TtqugKhpXAjeskiHOU.pdf",
@@ -2207,8 +2218,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -2218,9 +2229,10 @@
       "evidencia": "Edital Nº 92 / 2025 - PRAC/UCPEL - Seleção Docente - Fisioterapia - Terapia Intensiva (1 vaga) -",
       "fonte": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/z7TtqugKhpXAjeskiHOU.pdf",
       "documento_consultado": true,
-      "documento_sha256": "680563d6797408799db8432aa76fb428f67dabfe4249b4639b28840bd24aaf2f",
+      "documento_sha256": "e5b0cd27f17e4c046629b93b65aa2a95a334894e74f740a88eb97e443fab189a",
       "prazo": "2025-11-08",
-      "evidencia_prazo": "Período para inscrição: 25/10/2025 à 08/11/2025"
+      "evidencia_prazo": "Período para inscrição: 25/10/2025 à 08/11/2025",
+      "desatualizada": true
     }
   },
   {
@@ -2231,12 +2243,12 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/VIyXGP1qph3jkB401kGE.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.057972+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.544461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2025-10-31",
-    "status": "Encerrada",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
+    "status": "Não verificado",
     "prioridade": "Aderência a revisar",
     "consulta_documental_em": "2026-11-10T21:45:20.062192+00:00",
     "url_documento": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/VIyXGP1qph3jkB401kGE.pdf",
@@ -2299,8 +2311,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -2310,9 +2322,10 @@
       "evidencia": "Edital Nº 91 / 2025 - PRAC/UCPEL - Seleção Docente - Biomedicina - Imaginologia (1 vaga) -",
       "fonte": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/VIyXGP1qph3jkB401kGE.pdf",
       "documento_consultado": true,
-      "documento_sha256": "eaaa241bb337ad66af8de1bec636661c51cb473c14fb181032d2c4876a3c2ece",
+      "documento_sha256": "7b995e3563f352f51a31c94365a7f143a8a9975bc7d4c8ef3e5a405f6ee678f3",
       "prazo": "2025-10-31",
-      "evidencia_prazo": "Período para inscrição: 24/10/2025 à 31/10/2025"
+      "evidencia_prazo": "Período para inscrição: 24/10/2025 à 31/10/2025",
+      "desatualizada": true
     }
   },
   {
@@ -2323,12 +2336,12 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/7hJsn7ifALkBdJRjeGEY.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.057972+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.544461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2025-10-31",
-    "status": "Encerrada",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
+    "status": "Não verificado",
     "prioridade": "Aderência a revisar",
     "consulta_documental_em": "2026-11-10T21:45:20.145738+00:00",
     "url_documento": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/7hJsn7ifALkBdJRjeGEY.pdf",
@@ -2391,8 +2404,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -2402,9 +2415,10 @@
       "evidencia": "Edital Nº 90 / 2025 - PRAC/UCPEL - Seleção Docente - Biomedicina - Estética(1 vaga) -",
       "fonte": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/7hJsn7ifALkBdJRjeGEY.pdf",
       "documento_consultado": true,
-      "documento_sha256": "6330aa8684e32cb8e5c70ac63d5518dc624cb5995db11d332bded1fc4f71d6c6",
+      "documento_sha256": "a59b52da382a24b0788b20267e19200aa729e2af9895da315fa4e6f13af8df45",
       "prazo": "2025-10-31",
-      "evidencia_prazo": "Período para inscrição: 24/10/2025 à 31/10/2025"
+      "evidencia_prazo": "Período para inscrição: 24/10/2025 à 31/10/2025",
+      "desatualizada": true
     }
   },
   {
@@ -2415,12 +2429,12 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/Y6rcuzsIMW1p8swMfTSy.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.057972+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.544461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2025-11-07",
-    "status": "Encerrada",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
+    "status": "Não verificado",
     "prioridade": "Aderência a revisar",
     "consulta_documental_em": "2026-11-10T21:45:20.161622+00:00",
     "url_documento": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/Y6rcuzsIMW1p8swMfTSy.pdf",
@@ -2485,8 +2499,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -2496,9 +2510,10 @@
       "evidencia": "Edital Nº 89 / 2025 - PRAC/UCPEL - Seleção Docente - Mestrado em Engenharia Eletrônica e Computação (2 vagas) -",
       "fonte": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/Y6rcuzsIMW1p8swMfTSy.pdf",
       "documento_consultado": true,
-      "documento_sha256": "cdcf8b06e91ce115c6f4c828483179aad745b5743f6652a0d7a499d52a507985",
+      "documento_sha256": "3de86be4cb25241ae1afa698eb35a143e4a13a6e8c34311e8e4694b05930f1c1",
       "prazo": "2025-11-07",
-      "evidencia_prazo": "Período para inscrição: 24/10/2025 à 07/11/2025"
+      "evidencia_prazo": "Período para inscrição: 24/10/2025 à 07/11/2025",
+      "desatualizada": true
     }
   },
   {
@@ -2509,12 +2524,12 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/3WsyW3rFnR1q41VydjZv.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.057972+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.544461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2025-10-31",
-    "status": "Encerrada",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
+    "status": "Não verificado",
     "prioridade": "Aderência a revisar",
     "consulta_documental_em": "2026-11-10T21:45:20.664746+00:00",
     "url_documento": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/3WsyW3rFnR1q41VydjZv.pdf",
@@ -2577,8 +2592,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -2588,9 +2603,10 @@
       "evidencia": "Edital Nº 87 / 2025 - PRAC/UCPEL - Seleção Docente - Engenharia Civil (1 vaga) -",
       "fonte": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/3WsyW3rFnR1q41VydjZv.pdf",
       "documento_consultado": true,
-      "documento_sha256": "164c6557d460ac12151aa64a640ce46662e44c0bc1368ab4907cc6f763960ba2",
+      "documento_sha256": "cc589d8ce650a8c95910275ba9132df942ef250f179ae277a10632993d48b548",
       "prazo": "2025-10-31",
-      "evidencia_prazo": "Período para inscrição: 17/10/2025 à 31/10/2025"
+      "evidencia_prazo": "Período para inscrição: 17/10/2025 à 31/10/2025",
+      "desatualizada": true
     }
   },
   {
@@ -2601,12 +2617,12 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/SdxSzvBZUrV1rbaFp1XY.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.057972+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.544461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2025-10-25",
-    "status": "Encerrada",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
+    "status": "Não verificado",
     "prioridade": "Aderência a revisar",
     "consulta_documental_em": "2026-11-10T21:45:20.741363+00:00",
     "url_documento": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/SdxSzvBZUrV1rbaFp1XY.pdf",
@@ -2673,8 +2689,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -2684,9 +2700,10 @@
       "evidencia": "Edital Nº 73 / 2025 - PRAC/UCPEL - Seleção Docente - Medicina - Núcleo de Saúde Coletiva (3 vagas) -",
       "fonte": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/SdxSzvBZUrV1rbaFp1XY.pdf",
       "documento_consultado": true,
-      "documento_sha256": "5114c27a47b8647f33f3f33b39e2d2e03d2fffb6ca7b92f6f3e66a1b0140cbf1",
+      "documento_sha256": "520773585c4f26b5dfa6cf2abfc531ba09e1cec584dbc19336595dbe6ef3b913",
       "prazo": "2025-10-25",
-      "evidencia_prazo": "Período para inscrição: 11/10/2025 à 25/10/2025"
+      "evidencia_prazo": "Período para inscrição: 11/10/2025 à 25/10/2025",
+      "desatualizada": true
     }
   },
   {
@@ -2697,12 +2714,12 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/KmhCxcZbtAqQDSYWZN7Q.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.057972+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.544461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2025-10-12",
-    "status": "Encerrada",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
+    "status": "Não verificado",
     "prioridade": "Aderência a revisar",
     "consulta_documental_em": "2026-11-10T21:45:20.925015+00:00",
     "url_documento": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/KmhCxcZbtAqQDSYWZN7Q.pdf",
@@ -2767,8 +2784,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -2778,9 +2795,10 @@
       "evidencia": "Edital Nº 71 / 2025 - PRAC/UCPEL - Seleção Docente - Saúde Coletiva (2 vagas) -",
       "fonte": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/KmhCxcZbtAqQDSYWZN7Q.pdf",
       "documento_consultado": true,
-      "documento_sha256": "8c78e78f5ddf646b91e8ffd453b9a78dcfae40d29d9fd3fdb7a7eb9307ffd450",
+      "documento_sha256": "b3d5e42b90c6d2aad32ed42e84d252656458b520344bf8b308f66deb6128658b",
       "prazo": "2025-10-12",
-      "evidencia_prazo": "Período para inscrição: 02/10/2025 à 12/10/2025"
+      "evidencia_prazo": "Período para inscrição: 02/10/2025 à 12/10/2025",
+      "desatualizada": true
     }
   },
   {
@@ -2791,12 +2809,12 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/September2025/PGfU44itHjuiIuyPwbh6.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.057972+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.544461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2025-10-06",
-    "status": "Encerrada",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
+    "status": "Não verificado",
     "prioridade": "Aderência a revisar",
     "consulta_documental_em": "2026-11-10T21:45:22.076194+00:00",
     "url_documento": "https://ucpel.edu.br/laravel/public/storage/editais/September2025/PGfU44itHjuiIuyPwbh6.pdf",
@@ -2860,8 +2878,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -2871,9 +2889,10 @@
       "evidencia": "Edital Nº 69 / 2025 - PRAC/UCPEL - Seleção Docente - Direitos Humanos, Segurança e Acesso à Justiça (1 vaga) -",
       "fonte": "https://ucpel.edu.br/laravel/public/storage/editais/September2025/PGfU44itHjuiIuyPwbh6.pdf",
       "documento_consultado": true,
-      "documento_sha256": "850677d1a237881b24b41de7f33eea3177690edf0aab1d09b3a82123410add79",
+      "documento_sha256": "3107fce182c5834303fa532c20a6a63ffe7d4f3d91927b76a1584cd6b32b309b",
       "prazo": "2025-10-06",
-      "evidencia_prazo": "Período para inscrição: 23/09/2025 à 06/10/2025"
+      "evidencia_prazo": "Período para inscrição: 23/09/2025 à 06/10/2025",
+      "desatualizada": true
     }
   },
   {
@@ -2884,12 +2903,12 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/September2025/iP265kPo6eAzajuoUs9S.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.057972+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.544461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2025-09-18",
-    "status": "Encerrada",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
+    "status": "Não verificado",
     "prioridade": "Aderência a revisar",
     "consulta_documental_em": "2026-11-10T21:45:22.369762+00:00",
     "url_documento": "https://ucpel.edu.br/laravel/public/storage/editais/September2025/iP265kPo6eAzajuoUs9S.pdf",
@@ -2952,8 +2971,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -2963,9 +2982,10 @@
       "evidencia": "Edital Nº 67 / 2025 - PRAC/UCPEL - Seleção Docente - Química e Bioquímica (1 vaga) -",
       "fonte": "https://ucpel.edu.br/laravel/public/storage/editais/September2025/iP265kPo6eAzajuoUs9S.pdf",
       "documento_consultado": true,
-      "documento_sha256": "8d7cf84d509b01d62d269fded4c31b7f19945fedc929d64012d6d2856ff6c826",
+      "documento_sha256": "0c53e9cdef6740292a991853da2d179b7925f19427275bd320105845ab5c99ee",
       "prazo": "2025-09-18",
-      "evidencia_prazo": "Período para inscrição: 11/09/2025 à 18/09/2025"
+      "evidencia_prazo": "Período para inscrição: 11/09/2025 à 18/09/2025",
+      "desatualizada": true
     }
   },
   {
@@ -2976,12 +2996,12 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/June2025/GxGE2wGS82k5GdDHOZRd.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.057972+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.544461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2025-07-08",
-    "status": "Encerrada",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
+    "status": "Não verificado",
     "prioridade": "Aderência a revisar",
     "consulta_documental_em": "2026-11-10T21:45:22.526805+00:00",
     "url_documento": "https://ucpel.edu.br/laravel/public/storage/editais/June2025/GxGE2wGS82k5GdDHOZRd.pdf",
@@ -3048,8 +3068,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -3059,9 +3079,10 @@
       "evidencia": "Edital Nº 46 / 2025 - PRAC/UCPEL - SELEÇÃO DOCENTE - PSIQUIATRIA - MEDICINA (3 VAGAS) -",
       "fonte": "https://ucpel.edu.br/laravel/public/storage/editais/June2025/GxGE2wGS82k5GdDHOZRd.pdf",
       "documento_consultado": true,
-      "documento_sha256": "ce978bd2f4d9670f001024b93544a044d51163ebd31b83e2c0be9d7de9e9861e",
+      "documento_sha256": "f43b15dd822efc0c7e0a23c9d1d641f1756eb560dca52f0d7033cb7229158f37",
       "prazo": "2025-07-08",
-      "evidencia_prazo": "Período para inscrição: 17/06/2025 à 08/07/2025"
+      "evidencia_prazo": "Período para inscrição: 17/06/2025 à 08/07/2025",
+      "desatualizada": true
     }
   },
   {
@@ -3072,12 +3093,12 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/May2025/fTdgIEhsK6LAukGCMdNH.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.057972+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.544461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2025-05-20",
-    "status": "Encerrada",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
+    "status": "Não verificado",
     "prioridade": "Aderência a revisar",
     "consulta_documental_em": "2026-11-10T21:45:22.626156+00:00",
     "url_documento": "https://ucpel.edu.br/laravel/public/storage/editais/May2025/fTdgIEhsK6LAukGCMdNH.pdf",
@@ -3140,8 +3161,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -3151,9 +3172,10 @@
       "evidencia": "Edital Nº 43 / 2025 - PRAC/UCPEL - Seleção docente - Direito (1 vaga) -",
       "fonte": "https://ucpel.edu.br/laravel/public/storage/editais/May2025/fTdgIEhsK6LAukGCMdNH.pdf",
       "documento_consultado": true,
-      "documento_sha256": "7f44c8386768fdbfeb3490f107f316a860c3738127a9904b0e37c886959429ea",
+      "documento_sha256": "d12ff708d1443342cf9820f3265b7223c97fbbd18ea4e381c17437144b14fca9",
       "prazo": "2025-05-20",
-      "evidencia_prazo": "Período para inscrição: 15/05/2025 a 20/05/2025"
+      "evidencia_prazo": "Período para inscrição: 15/05/2025 a 20/05/2025",
+      "desatualizada": true
     }
   },
   {
@@ -3164,12 +3186,12 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/February2025/COQWrPjmremgJg2CjdOg.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.057972+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.544461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2025-02-16",
-    "status": "Encerrada",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
+    "status": "Não verificado",
     "prioridade": "Aderência a revisar",
     "consulta_documental_em": "2026-11-10T21:45:23.145550+00:00",
     "url_documento": "https://ucpel.edu.br/laravel/public/storage/editais/February2025/COQWrPjmremgJg2CjdOg.pdf",
@@ -3232,8 +3254,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -3243,9 +3265,10 @@
       "evidencia": "Edital Nº 10 / 2025 - PRAC/UCPEL - Seleção docente- Enfermagem - Cuidado à Saúde do Adulto e do Idoso e Enfermagem na Saúde Coletiva -",
       "fonte": "https://ucpel.edu.br/laravel/public/storage/editais/February2025/COQWrPjmremgJg2CjdOg.pdf",
       "documento_consultado": true,
-      "documento_sha256": "231f32a98a5dec9a6d8d145136fff5bfadd3f97da45720acdac93c9da83fceae",
+      "documento_sha256": "67f23bcf4049d7d5d38b0ea5e8a730ff637e9835bef06ec315332c859554a0a0",
       "prazo": "2025-02-16",
-      "evidencia_prazo": "Período para inscrição: 14/02/2025 até 16/02/2025"
+      "evidencia_prazo": "Período para inscrição: 14/02/2025 até 16/02/2025",
+      "desatualizada": true
     }
   },
   {
@@ -3256,7 +3279,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/February2025/bFwwoMG9WoE2h8nHISRw.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.057972+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.544461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -3344,7 +3367,7 @@
     "url": "https://www2.faccat.br/portal/sites/default/files/Resultado_selecao_docente_2019.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.058647+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.545045+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -3418,16 +3441,16 @@
     "url": "https://cesuca.gupy.io/jobs/12823696",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.059025+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.545472+00:00",
     "categoria": "Professor efetivo",
     "modalidade": "Presencial",
     "remuneracao": "Não informada",
     "prazo": "2026-11-15",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:25.083871+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:50.599860+00:00",
     "url_documento": "https://cesuca.gupy.io/jobs/12823696",
-    "documento_sha256": "710b2ef2404b20c893ac69436afaad3d6e8673f585a6bc97abf597a30827ef50",
+    "documento_sha256": "c26fb34da80d0f5ab1ef0cc802bafa19b0a5d9f7da86c3df618c6deb33a7f61a",
     "indicios_documentais": {
       "graduacao": [
         "Responsabilidades e atribuições ATENÇÃO: Para concorrer as vagas, você deve realizar o cadastro na Gupy: Edital de Abertura PARA SELEÇÃO DE PROFESSORES MESTRES E DOUTORES CURSOS DE GRADUAÇÃO nº",
@@ -3506,7 +3529,7 @@
       "evidencia": "Vaga para Efetivo: EDITAL - SELEÇÃO DE PROFESSORES - CESUCA - (2027/1) - Inscrições até 15/11 - Cadastro ReservaCachoeirinha - RSEfetivo",
       "fonte": "https://cesuca.gupy.io/jobs/12823696",
       "documento_consultado": true,
-      "documento_sha256": "710b2ef2404b20c893ac69436afaad3d6e8673f585a6bc97abf597a30827ef50",
+      "documento_sha256": "c26fb34da80d0f5ab1ef0cc802bafa19b0a5d9f7da86c3df618c6deb33a7f61a",
       "prazo": "2026-11-15",
       "tipo_oportunidade": "Seleção com cadastro de reserva",
       "modalidade": "Presencial",
@@ -3563,16 +3586,16 @@
     "url": "https://portal.pucrs.br/wp-content/uploads/2026/11/EP_Contrat-7_Chamada-para-Selecao-Docente_Graduacao-2026-v.2_2026_11_04V2.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.059729+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.546593+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:25.398664+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:50.599959+00:00",
     "url_documento": "https://portal.pucrs.br/wp-content/uploads/2026/11/EP_Contrat-7_Chamada-para-Selecao-Docente_Graduacao-2026-v.2_2026_11_04V2.pdf",
-    "documento_sha256": "ea2e9205582da07fe3db5ddefbd6df3c2662099cdd9a5c656a489a5ecf18c81e",
+    "documento_sha256": "89adc26a18881f89dc6602ea6c78ce448130894480e13fab8b62c362507ce229",
     "indicios_documentais": {
       "graduacao": [
         "Docente Horista para atuação nos cursos de Graduação em Ciência de Dados e Inteligência Artificial e",
@@ -3636,7 +3659,7 @@
       "evidencia": "Docente horista – Graduação em Ciência de Dados e Inteligência Artificial e outros O/A docente selecionado/a atuará em regime de trabalho como horista (12 horas) em disciplinas de Graduação.",
       "fonte": "https://portal.pucrs.br/wp-content/uploads/2026/11/EP_Contrat-7_Chamada-para-Selecao-Docente_Graduacao-2026-v.2_2026_11_04V2.pdf",
       "documento_consultado": true,
-      "documento_sha256": "ea2e9205582da07fe3db5ddefbd6df3c2662099cdd9a5c656a489a5ecf18c81e"
+      "documento_sha256": "89adc26a18881f89dc6602ea6c78ce448130894480e13fab8b62c362507ce229"
     }
   },
   {
@@ -3647,10 +3670,10 @@
     "url": "https://portal.pucrs.br/wp-content/uploads/2026/10/EP_Contrat-5_Rerratificacao-da-Chamada-para-Selecao-Docente_TI-PPG-PGETEMA_EngCivil_V42026_10_29.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.059729+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.546593+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -3709,8 +3732,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -3720,7 +3743,8 @@
       "evidencia": "Docente PGETEMA e Engenharia Civil O/A docente selecionado/a atuará em regime de trabalho como professor tempo integral (TI-40h) em disciplinas de Graduação e como docente credenciado na Pós-Graduação Stricto Sensu.",
       "fonte": "https://portal.pucrs.br/wp-content/uploads/2026/10/EP_Contrat-5_Rerratificacao-da-Chamada-para-Selecao-Docente_TI-PPG-PGETEMA_EngCivil_V42026_10_29.pdf",
       "documento_consultado": true,
-      "documento_sha256": "c58b866dab78d0bf3079a2e8e02ec071d4232231956b9254e3373bcdb01a0a5f"
+      "documento_sha256": "31a2a11b3cdb71b3380ba1693e540a9d30334a06ba012237580077ca9ca86cab",
+      "desatualizada": true
     }
   },
   {
@@ -3731,10 +3755,10 @@
     "url": "https://portal.pucrs.br/wp-content/uploads/2026/10/EP_Chamada-para-Selecao-Docente_06_2026_10_15.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.059729+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.546593+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -3793,8 +3817,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -3804,7 +3828,8 @@
       "evidencia": "Docente PGETEMA e Engenharia Química O/A docente selecionado/a atuará em regime de trabalho como professor tempo integral (TI-40h) em disciplinas de Graduação e como docente credenciado na Pós-Graduação Stricto Sensu",
       "fonte": "https://portal.pucrs.br/wp-content/uploads/2026/10/EP_Chamada-para-Selecao-Docente_06_2026_10_15.pdf",
       "documento_consultado": true,
-      "documento_sha256": "18c65ca55016510cb879aed5a20e09f2d7facd3883db14e303a0edd23f19659d"
+      "documento_sha256": "fc47dd5c6c6c3c49a460fbd9509e0e95bfcd471a3030aad2fb4e618da856d2b1",
+      "desatualizada": true
     }
   },
   {
@@ -3815,10 +3840,10 @@
     "url": "https://unisinos.gupy.io/jobs/11621585",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.060325+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.549923+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -3884,8 +3909,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -3895,7 +3920,8 @@
       "evidencia": "Vaga para Banco de talentos: Professor(a) - Análise e Desenvolvimento de Sistemas | Computação GráficaSão Leopoldo - RS e HíbridoBanco de talentos",
       "fonte": "https://unisinos.gupy.io/jobs/11621585",
       "documento_consultado": true,
-      "documento_sha256": "88623b8163046f42650793c66a82100f03029be23da746cd4885ca503b443e6e"
+      "documento_sha256": "8bce4d0ce2bedcd40185f908e9533b245e43e73a18fb1bced537f2044670ae94",
+      "desatualizada": true
     }
   },
   {
@@ -3906,10 +3932,10 @@
     "url": "https://unisinos.gupy.io/jobs/11621604",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.060325+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.549923+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -3975,8 +4001,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -3986,7 +4012,8 @@
       "evidencia": "Vaga para Banco de talentos: Professor(a) - Análise e Desenvolvimento de Sistemas | Redes de ComputadoresSão Leopoldo - RS e HíbridoBanco de talentos",
       "fonte": "https://unisinos.gupy.io/jobs/11621604",
       "documento_consultado": true,
-      "documento_sha256": "0bbd651b2bb7dc216a575a722cb451c8c254a1ce5707c890215a25a5ff4f39fe"
+      "documento_sha256": "b96bd428d8cdd1569f540b3ff7a4727b37a805acdf5a24844c856184d833d284",
+      "desatualizada": true
     }
   },
   {
@@ -3997,10 +4024,10 @@
     "url": "https://unisinos.gupy.io/jobs/11621468",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.060325+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.549923+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -4066,8 +4093,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -4077,7 +4104,8 @@
       "evidencia": "Vaga para Banco de talentos: Professor(a) - Direito AdministrativoSão Leopoldo - RSBanco de talentos",
       "fonte": "https://unisinos.gupy.io/jobs/11621468",
       "documento_consultado": true,
-      "documento_sha256": "e1b14fa2891f30fa310e0e85b96e59105f902b251711916f6ec44cff9af26284"
+      "documento_sha256": "28cfe5bbaba748e3f426ec7f700b85c42cba09a2321ce9a56312f24775648d07",
+      "desatualizada": true
     }
   },
   {
@@ -4088,10 +4116,10 @@
     "url": "https://unisinos.gupy.io/jobs/11613651",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:40.060325+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:19.549923+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -4157,8 +4185,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -4168,7 +4196,8 @@
       "evidencia": "Vaga para Banco de talentos: Professor(a) - Direito CivilSão Leopoldo - RSBanco de talentos",
       "fonte": "https://unisinos.gupy.io/jobs/11613651",
       "documento_consultado": true,
-      "documento_sha256": "2090e6e6bca72616fae684a54e9d9f73ce9c204005467917ede26f6b501a20ef"
+      "documento_sha256": "580c6a3b50dbddc69fdfd541b6eceb5d2fac424c13bd132423c5356a1a1b0901",
+      "desatualizada": true
     }
   },
   {
@@ -4179,10 +4208,10 @@
     "url": "https://www.upf.br/a-universidade/procad/selecaodocente",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:41.452958+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:20.377544+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -4248,8 +4277,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fonte de acompanhamento",
-    "motivo_triagem": "Página geral ou procedimento; não representa uma vaga individual.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -4259,7 +4288,8 @@
       "evidencia": "Comissão de Seleção Docente",
       "fonte": "https://www.upf.br/a-universidade/procad/selecaodocente",
       "documento_consultado": true,
-      "documento_sha256": "f263e699f5a185bd37df0868537f70e526281096e8059d72a6c755ce728468de"
+      "documento_sha256": "948b68f82c535d28bb40df04e7d81113f197b2610b1db2553e564f8cb936e1a6",
+      "desatualizada": true
     }
   },
   {
@@ -4270,12 +4300,12 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/221-2026",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:43.247573+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:22.349016+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2026-09-23",
-    "status": "Encerrada",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
+    "status": "Não verificado",
     "prioridade": "Aderência a revisar",
     "consulta_documental_em": "2026-11-10T21:45:29.314644+00:00",
     "url_documento": "https://www.ufsm.br/pro-reitorias/progep/editais/221-2026",
@@ -4341,8 +4371,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Inscrições encerradas pelo item 3.2 do edital oficial de abertura.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -4352,9 +4382,10 @@
       "evidencia": "221/2026 – Concurso Público para Professor da Carreira do Magistério Superior",
       "fonte": "https://www.ufsm.br/pro-reitorias/progep/editais/221-2026",
       "documento_consultado": true,
-      "documento_sha256": "54ac735230a3a4970ea22493db2df83991815d6a5dacc34ed13ef464883eb52d",
+      "documento_sha256": "882867b3b32734ffdda7c8cb728fc6aef378ed16c9aa316991f711aa2dd247f8",
       "prazo": "2026-09-23",
-      "evidencia_prazo": "termino: 23h59min do 23 de setembro de 2026"
+      "evidencia_prazo": "termino: 23h59min do 23 de setembro de 2026",
+      "desatualizada": true
     }
   },
   {
@@ -4365,11 +4396,11 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/252-2026",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:43.247573+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:22.349016+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2026-12-02",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
     "consulta_documental_em": "2026-11-10T21:45:29.943879+00:00",
@@ -4433,8 +4464,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fora da prioridade",
-    "motivo_triagem": "Edital atual aberto até 02/12/2026, mas as áreas são Computação, Artes Visuais, Economia e Física; requisitos de graduação específicos não correspondem a Fisioterapia.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -4444,9 +4475,10 @@
       "evidencia": "252/2026 – Concurso Público para Professor da Carreira do Magistério Superior",
       "fonte": "https://www.ufsm.br/pro-reitorias/progep/editais/252-2026",
       "documento_consultado": true,
-      "documento_sha256": "3688b833e144935c0e45233813bd5ef4fe57a9bec7b50a0d6def3bd180df549c",
+      "documento_sha256": "9d46006b7ab95ea13855c5a0c9565be60f33aedac1b15112449b05cbb97f2e46",
       "prazo": "2026-12-02",
-      "evidencia_prazo": "termino: 23h59min do 02 de dezembro de 2026"
+      "evidencia_prazo": "termino: 23h59min do 02 de dezembro de 2026",
+      "desatualizada": true
     }
   },
   {
@@ -4457,16 +4489,16 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/343-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:43.247573+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:22.349016+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:30.020900+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:53.340925+00:00",
     "url_documento": "https://www.ufsm.br/pro-reitorias/progep/editais/343-2025",
-    "documento_sha256": "78f0d0b8b0bdeb7fac2ac4807a265fe5bf1aa14869dc1efd15be62c3a1bd0ac6",
+    "documento_sha256": "99606fb645cc397acde6287cb074a9c7f0c6ec1acd808be876ab319db52a98c4",
     "indicios_documentais": {
       "graduacao": [],
       "doutorado": [
@@ -4536,7 +4568,7 @@
       "evidencia": "343/2025 – Concurso Docente para Professor da Carreira do Magistério Superior",
       "fonte": "https://www.ufsm.br/pro-reitorias/progep/editais/343-2025",
       "documento_consultado": true,
-      "documento_sha256": "78f0d0b8b0bdeb7fac2ac4807a265fe5bf1aa14869dc1efd15be62c3a1bd0ac6"
+      "documento_sha256": "99606fb645cc397acde6287cb074a9c7f0c6ec1acd808be876ab319db52a98c4"
     }
   },
   {
@@ -4547,12 +4579,12 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/101-2026",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:43.247573+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:22.349016+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2026-05-05",
-    "status": "Encerrada",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
+    "status": "Não verificado",
     "prioridade": "Aderência a revisar",
     "consulta_documental_em": "2026-11-10T21:45:28.899094+00:00",
     "url_documento": "https://www.ufsm.br/pro-reitorias/progep/editais/101-2026",
@@ -4615,8 +4647,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Inscrições encerradas pelo item 3.2 do edital oficial de abertura.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -4626,9 +4658,10 @@
       "evidencia": "101/2026 – Concurso Público para Professor da Carreira do Magistério Superior",
       "fonte": "https://www.ufsm.br/pro-reitorias/progep/editais/101-2026",
       "documento_consultado": true,
-      "documento_sha256": "49b348760808c08241ee6e4a5290467a9bf161667ed888f925515dbf2c1ee727",
+      "documento_sha256": "b7ff7c18279c8c91838214123b6d9566867dd57f6fc9f5c68e81ff1559adaa1d",
       "prazo": "2026-05-05",
-      "evidencia_prazo": "termino: 23h59min do 05 de maio de 2026"
+      "evidencia_prazo": "termino: 23h59min do 05 de maio de 2026",
+      "desatualizada": true
     }
   },
   {
@@ -4639,12 +4672,12 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/198-2026",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:43.247573+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:22.349016+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2026-07-29",
-    "status": "Encerrada",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
+    "status": "Não verificado",
     "prioridade": "Aderência a revisar",
     "consulta_documental_em": "2026-11-10T21:45:30.181802+00:00",
     "url_documento": "https://www.ufsm.br/pro-reitorias/progep/editais/198-2026",
@@ -4707,8 +4740,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Inscrições encerradas pelo item 3.2 do edital oficial de abertura.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -4718,9 +4751,10 @@
       "evidencia": "198/2026 – Concurso Público para Professor da Carreira do Magistério Superior",
       "fonte": "https://www.ufsm.br/pro-reitorias/progep/editais/198-2026",
       "documento_consultado": true,
-      "documento_sha256": "5692e95ecbec8efc13412c75a2c87a43e61aa1a6c30f9dddd14c0efd9e95d970",
+      "documento_sha256": "b73203aafb7b67b0cb4d422fdccf5ddef6703bbaf3c2e3b3b2ae3211e1f9819f",
       "prazo": "2026-07-29",
-      "evidencia_prazo": "termino: 23h59min do 29 de julho de 2026"
+      "evidencia_prazo": "termino: 23h59min do 29 de julho de 2026",
+      "desatualizada": true
     }
   },
   {
@@ -4731,12 +4765,12 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/247-2026",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:43.247573+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:22.349016+00:00",
     "categoria": "Professor substituto",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2026-10-30",
-    "status": "Encerrada",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
+    "status": "Não verificado",
     "prioridade": "Aderência a revisar",
     "consulta_documental_em": "2026-11-10T21:45:30.204475+00:00",
     "url_documento": "https://www.ufsm.br/pro-reitorias/progep/editais/247-2026",
@@ -4793,8 +4827,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Inscrições encerradas pelo item 3.2 do edital oficial de abertura.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -4804,9 +4838,10 @@
       "evidencia": "247/2026 – Edital de Seleção Pública para Professor Substituto da Carreira do Magistério Superior",
       "fonte": "https://www.ufsm.br/pro-reitorias/progep/editais/247-2026",
       "documento_consultado": true,
-      "documento_sha256": "d330e5dca076f60d610d79ecc308f412c70ec06281b753c1dd3dc850e1261d34",
+      "documento_sha256": "2f4741d34eef693b0bf9605af91caa6661b1171a9716cc3f111e342c6aefa988",
       "prazo": "2026-10-30",
-      "evidencia_prazo": "termino: 23h59min do dia 30 de outubro de 2026"
+      "evidencia_prazo": "termino: 23h59min do dia 30 de outubro de 2026",
+      "desatualizada": true
     }
   },
   {
@@ -4817,12 +4852,12 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/288-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:43.247573+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:22.349016+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2025-12-03",
-    "status": "Encerrada",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
+    "status": "Não verificado",
     "prioridade": "Aderência a revisar",
     "consulta_documental_em": "2026-11-10T21:45:30.344514+00:00",
     "url_documento": "https://www.ufsm.br/pro-reitorias/progep/editais/288-2025",
@@ -4885,8 +4920,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Inscrições encerradas pelo item 3.2 do edital oficial de abertura.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -4896,9 +4931,10 @@
       "evidencia": "288/2025 – Concurso Docente para Professor da Carreira do Magistério Superior",
       "fonte": "https://www.ufsm.br/pro-reitorias/progep/editais/288-2025",
       "documento_consultado": true,
-      "documento_sha256": "6b76781a6ef3079f8d8aa27daa00119034ab1a83b2d53c09cdcf4003ba5288fc",
+      "documento_sha256": "e33eba526ae3bcf59d4e023f35739add8acad26c4a6b643a55c91e97921f153f",
       "prazo": "2025-12-03",
-      "evidencia_prazo": "termino: 23h59min do 03 de dezembro de 2025"
+      "evidencia_prazo": "termino: 23h59min do 03 de dezembro de 2025",
+      "desatualizada": true
     }
   },
   {
@@ -4909,12 +4945,12 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/250-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:43.247573+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:22.349016+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2025-10-30",
-    "status": "Encerrada",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
+    "status": "Não verificado",
     "prioridade": "Aderência a revisar",
     "consulta_documental_em": "2026-11-10T21:45:30.793240+00:00",
     "url_documento": "https://www.ufsm.br/pro-reitorias/progep/editais/250-2025",
@@ -4977,8 +5013,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Inscrições encerradas pelo item 3.2 do edital oficial de abertura.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -4988,9 +5024,10 @@
       "evidencia": "250/2025 – Concurso Docente para Professor da Carreira do Magistério Superior",
       "fonte": "https://www.ufsm.br/pro-reitorias/progep/editais/250-2025",
       "documento_consultado": true,
-      "documento_sha256": "419ed43e82037ac6d92924342ec0dd51eb8ab51e288e36d2f0901661b2b8eb96",
+      "documento_sha256": "effa8afca5088f0c81634233e58f9f99f2b6beb4c22d13ac96965975a0c04d69",
       "prazo": "2025-10-30",
-      "evidencia_prazo": "termino: 23h59min do 30 de outubro de 2025"
+      "evidencia_prazo": "termino: 23h59min do 30 de outubro de 2025",
+      "desatualizada": true
     }
   },
   {
@@ -5001,12 +5038,12 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/198-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:43.247573+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:22.349016+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2025-09-02",
-    "status": "Encerrada",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
+    "status": "Não verificado",
     "prioridade": "Aderência a revisar",
     "consulta_documental_em": "2026-11-10T21:45:30.943610+00:00",
     "url_documento": "https://www.ufsm.br/pro-reitorias/progep/editais/198-2025",
@@ -5071,8 +5108,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Inscrições encerradas pelo item 3.2 do edital oficial de abertura.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -5082,9 +5119,10 @@
       "evidencia": "198/2025 – Concurso Docente para Professor da Carreira do Magistério Superior",
       "fonte": "https://www.ufsm.br/pro-reitorias/progep/editais/198-2025",
       "documento_consultado": true,
-      "documento_sha256": "f0f53a4f749d07f76014cd5e085a48a22d29d54040b645d7556a316e4304cca6",
+      "documento_sha256": "d590bdb773238e667aee28f8944e1d00f7f4f14c1ebf0693100596ef3c22cfed",
       "prazo": "2025-09-02",
-      "evidencia_prazo": "termino: 23h59min do 02 de setembro de 2025"
+      "evidencia_prazo": "termino: 23h59min do 02 de setembro de 2025",
+      "desatualizada": true
     }
   },
   {
@@ -5095,12 +5133,12 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/029-2026",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:43.247573+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:22.349016+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
-    "prazo": "2026-03-04",
-    "status": "Encerrada",
+    "remuneracao": "Documento alterado: rever",
+    "prazo": "",
+    "status": "Não verificado",
     "prioridade": "Aderência a revisar",
     "consulta_documental_em": "2026-11-10T21:45:31.049253+00:00",
     "url_documento": "https://www.ufsm.br/pro-reitorias/progep/editais/029-2026",
@@ -5163,8 +5201,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Inscrições encerradas pelo item 3.2 do edital oficial de abertura.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -5174,9 +5212,10 @@
       "evidencia": "029/2026 – Concurso Público para Professor da Carreira do Magistério Superior",
       "fonte": "https://www.ufsm.br/pro-reitorias/progep/editais/029-2026",
       "documento_consultado": true,
-      "documento_sha256": "f79993f3af7151e8b5ea866aefefd07f370c0c8af0fcb4c36811e85e9d9fef61",
+      "documento_sha256": "fab77d51fd01298c0cddbe63ee33b5dc9d26c8e97a3129dcc2eb5ba5ccd70b34",
       "prazo": "2026-03-04",
-      "evidencia_prazo": "termino: 23h59min do 04 de marco de 2026"
+      "evidencia_prazo": "termino: 23h59min do 04 de marco de 2026",
+      "desatualizada": true
     }
   },
   {
@@ -5187,10 +5226,10 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/coordenadoria-de-concursos-ccon",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:43.247573+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:22.349016+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -5249,8 +5288,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fonte de acompanhamento",
-    "motivo_triagem": "Página geral ou procedimento; não representa uma vaga individual.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -5260,7 +5299,8 @@
       "evidencia": "Núcleo de Concurso Docente (NCD)",
       "fonte": "https://www.ufsm.br/pro-reitorias/progep/coordenadoria-de-concursos-ccon",
       "documento_consultado": true,
-      "documento_sha256": "160f3e608540cbb01778f052aabb99406bcea7fc352df1f5bf3e36674dcd144d"
+      "documento_sha256": "df9649a2ee65fd312f480726ea89f1aae12b0094448decc6c22c20fc1827e997",
+      "desatualizada": true
     }
   },
   {
@@ -5271,10 +5311,10 @@
     "url": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/19038",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:47.448738+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:25.826446+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -5329,8 +5369,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -5340,7 +5380,8 @@
       "evidencia": "SELEÇÃO PÓS-GRADUAÇÃO UAB 2023 - 2026 (COORDENADOR, PROFESSOR, TUTOR) Seleção para Coordenador de Curso - Especialização Lato Sensu em Gestão Estratégica no Turismo.",
       "fonte": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/19038",
       "documento_consultado": true,
-      "documento_sha256": "e568f30b2c6855c247d91645d896742e9741ccd7acdf5f7d53a1d17fcb54fd85"
+      "documento_sha256": "d94ce12a7b1843654531133f45b96cf39e2e00378ba9f65c8c02b7086134f41f",
+      "desatualizada": true
     }
   },
   {
@@ -5351,10 +5392,10 @@
     "url": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/19238",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:47.448738+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:25.826446+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -5409,8 +5450,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -5420,7 +5461,8 @@
       "evidencia": "SELEÇÃO PÓS-GRADUAÇÃO UAB 2023 - 2026 (COORDENADOR, PROFESSOR, TUTOR) Seleção para Professor Formador - Especialização em Gestão Estratégica em Turismo",
       "fonte": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/19238",
       "documento_consultado": true,
-      "documento_sha256": "7c65ed96e5890df7c9c4897bf964385be5f39aa6dfcb4e8b1c96805fc28a0351"
+      "documento_sha256": "8c2ef5cb8df2cefd48b9ea884b4855b56424fcb2b64e421a2cf2ccbaa67ee1a5",
+      "desatualizada": true
     }
   },
   {
@@ -5431,10 +5473,10 @@
     "url": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/19219",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:47.448738+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:25.826446+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -5489,8 +5531,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -5500,7 +5542,8 @@
       "evidencia": "SELEÇÃO PÓS-GRADUAÇÃO UAB 2023 - 2026 (COORDENADOR, PROFESSOR, TUTOR) Seleção para Professor Formador - Especialização em Educação Ambiental e Sustentabilidade",
       "fonte": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/19219",
       "documento_consultado": true,
-      "documento_sha256": "4b9879e2ad8d6e3539ab358a229356e10c8bceb0f08252627b9ea9a0376fc40b"
+      "documento_sha256": "83247adf48b01939241483fdc8cdba4fbacca3cec5df9e1a86af3a4948148524",
+      "desatualizada": true
     }
   },
   {
@@ -5511,16 +5554,16 @@
     "url": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/19239",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:47.448738+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:25.826446+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:31.907876+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:53.786441+00:00",
     "url_documento": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/19239",
-    "documento_sha256": "2376333c2d68145fde0cb5699d1ea43020fed75eb515b17747f947e7d3d77ede",
+    "documento_sha256": "22f4fd26eaa2144375874aecfcba2765f21c55e11dead443e088f25e5afa9590",
     "indicios_documentais": {
       "graduacao": [
         "SELEÇÃO PÓS-GRADUAÇÃO UAB 2023 - 2026 (COORDENADOR, PROFESSOR, TUTOR) SELEÇÃO PARA PROFESSOR FORMADOR - ESPECIALIZAÇÃO EM GESTÃO ESCOLAR"
@@ -5580,7 +5623,7 @@
       "evidencia": "SELEÇÃO PÓS-GRADUAÇÃO UAB 2023 - 2026 (COORDENADOR, PROFESSOR, TUTOR) Seleção para Professor Formador - Especialização em Gestão Escolar",
       "fonte": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/19239",
       "documento_consultado": true,
-      "documento_sha256": "2376333c2d68145fde0cb5699d1ea43020fed75eb515b17747f947e7d3d77ede"
+      "documento_sha256": "22f4fd26eaa2144375874aecfcba2765f21c55e11dead443e088f25e5afa9590"
     }
   },
   {
@@ -5591,10 +5634,10 @@
     "url": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/21758",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:47.448738+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:25.826446+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -5647,8 +5690,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -5658,7 +5701,8 @@
       "evidencia": "SELEÇÃO SIMPLIFICADA PARA PROFESSOR REGENTE UAB/UNIPAMPA Edital N° 325/2025. Professor Regente. Libras. Pedagogia UAB/UNIPAMPA",
       "fonte": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/21758",
       "documento_consultado": true,
-      "documento_sha256": "3c0c8c06b36d7a56274774fa2d8d1fdbafa60b64ea3c50736acb8ef727a1a7ae"
+      "documento_sha256": "6609e74cf3781051aeeb9b41058e4c3df51faea8516e0899875c34f7371ac164",
+      "desatualizada": true
     }
   },
   {
@@ -5669,16 +5713,16 @@
     "url": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/20298",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:47.448738+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:25.826446+00:00",
     "categoria": "Professor substituto",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:32.072271+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:53.979554+00:00",
     "url_documento": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/20298",
-    "documento_sha256": "54cb9e56f1daf6dcb267023f320bed675df3409bdd34e940c21e4b33bda30c54",
+    "documento_sha256": "2781d82fdb318539ae8c4b0bbaebf42657ed8a29b4cc5b681c5220a49c7bb04a",
     "indicios_documentais": {
       "graduacao": [],
       "doutorado": [],
@@ -5743,7 +5787,7 @@
       "evidencia": "PROCESSO SELETIVO SIMPLIFICADO - PROFESSOR SUBSTITUTO - 2026 Edital nº 132/2026",
       "fonte": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/20298",
       "documento_consultado": true,
-      "documento_sha256": "54cb9e56f1daf6dcb267023f320bed675df3409bdd34e940c21e4b33bda30c54"
+      "documento_sha256": "2781d82fdb318539ae8c4b0bbaebf42657ed8a29b4cc5b681c5220a49c7bb04a"
     }
   },
   {
@@ -5754,7 +5798,7 @@
     "url": "https://guri.unipampa.edu.br/psa/acesso/preInsc/49236/21758",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:47.448738+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:25.826446+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -5826,7 +5870,7 @@
     "url": "https://uergs.edu.br/processos-seletivos-professores-voluntarios",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:47.876355+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:26.614057+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -5876,7 +5920,7 @@
       "evidencia": "Seleção Professores Voluntários",
       "fonte": "https://uergs.edu.br/processos-seletivos-professores-voluntarios",
       "documento_consultado": true,
-      "documento_sha256": "1d2f2b19a815d845378dffb0b7ace3e3f834fca4f1973a07b200ff32ed1d7ea8"
+      "documento_sha256": "e1441ac75dd6dba21a3b751691e8f9529df4f947f7beacf4651a17779c447705"
     }
   },
   {
@@ -5887,10 +5931,10 @@
     "url": "https://www.sg.unicamp.br/cvnd/solicitacoes-de-vagas-nao-docentes",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:49.868989+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:28.459487+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -5939,8 +5983,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fonte de acompanhamento",
-    "motivo_triagem": "Página geral ou procedimento; não representa uma vaga individual.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -5950,7 +5994,8 @@
       "evidencia": "Solicitações de Vagas Não Docentes",
       "fonte": "https://www.sg.unicamp.br/cvnd/solicitacoes-de-vagas-nao-docentes",
       "documento_consultado": true,
-      "documento_sha256": "580e8d0cea3f54d2da9c475b26dff162322f2c2bf98fe47ebccb4aab5f99dcad"
+      "documento_sha256": "3d45580c85584f7ead3a1dc6df7fb0e315526f43b44c930452dc19d201e3b1ce",
+      "desatualizada": true
     }
   },
   {
@@ -5961,7 +6006,7 @@
     "url": "https://www.sg.unicamp.br/gde/procedimentos-para-realizacao/concurso-livre-docente",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:49.868989+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:28.459487+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -6031,7 +6076,7 @@
       "evidencia": "Concurso Livre Docente",
       "fonte": "https://www.sg.unicamp.br/gde/procedimentos-para-realizacao/concurso-livre-docente",
       "documento_consultado": true,
-      "documento_sha256": "32f628e7f5b4d73a57cce3bc193cf0abb936b74b80e0e1173f27571afedfff18",
+      "documento_sha256": "911af94f79b66e1d1bf45355f3e68b58f11266d59a0b1144edaa43b8399ceb47",
       "desatualizada": true
     }
   },
@@ -6043,7 +6088,7 @@
     "url": "https://www.sg.unicamp.br/gde/procedimentos-para-realizacao/concurso-pesquisador",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:49.868989+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:28.459487+00:00",
     "categoria": "Pesquisador",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -6113,7 +6158,7 @@
       "evidencia": "Concurso Pesquisador",
       "fonte": "https://www.sg.unicamp.br/gde/procedimentos-para-realizacao/concurso-pesquisador",
       "documento_consultado": true,
-      "documento_sha256": "45ce43405f3d62e35ac4c7a2220359a1ae53ae2a97d65d7d78ee25adbc0c8d5f",
+      "documento_sha256": "2f6cc1f904fcd58fb1fd3518943f6d04ae78672a65be774226ef57e275fc89ee",
       "desatualizada": true
     }
   },
@@ -6125,7 +6170,7 @@
     "url": "https://www.sg.unicamp.br/gde/procedimentos-para-realizacao/concurso-professor-doutor",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:49.868989+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:28.459487+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -6197,7 +6242,7 @@
       "evidencia": "Concurso Professor Doutor",
       "fonte": "https://www.sg.unicamp.br/gde/procedimentos-para-realizacao/concurso-professor-doutor",
       "documento_consultado": true,
-      "documento_sha256": "d0ef28b35e43ef9ee61194fbe2040b4da4fd5df68d40521e9fb5ab2e6853a967",
+      "documento_sha256": "44dd37d98ccd5bcd4716ce517c227d905c6209c0eded3c22a80bba3c4bb83c0d",
       "desatualizada": true
     }
   },
@@ -6209,7 +6254,7 @@
     "url": "https://www.sg.unicamp.br/gde/procedimentos-para-realizacao/concurso-professor-titular",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:49.868989+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:28.459487+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -6279,7 +6324,7 @@
       "evidencia": "Concurso Professor Titular",
       "fonte": "https://www.sg.unicamp.br/gde/procedimentos-para-realizacao/concurso-professor-titular",
       "documento_consultado": true,
-      "documento_sha256": "4a073b65065601975524bc93c64cebbace793ff7b72b6430d22d705fc50585ad",
+      "documento_sha256": "2554d14dc44a55322385a9b6dfae16537be0f8d1efa21ed6a858a7063257109c",
       "desatualizada": true
     }
   },
@@ -6979,10 +7024,10 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-14162026-concurso-para-um-professor-associado-area-disciplinar-de-fisica",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:52.339566+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:30.495019+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -7054,8 +7099,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -7065,7 +7110,8 @@
       "evidencia": "Edital n.º 1416/2026 Concurso para um professor associado, área disciplinar de Física-Matemática do Departamento de Matemática",
       "fonte": "https://www.ulisboa.pt/recrutamento/edital-no-14162026-concurso-para-um-professor-associado-area-disciplinar-de-fisica",
       "documento_consultado": true,
-      "documento_sha256": "5947fc0f18690f9686aa50574dc939f24a45f0e3a64b5258297741ff959e754a"
+      "documento_sha256": "a4c279bb1794c3796f99493f88543139cfcb9e886870ccefb0ec7f084722d559",
+      "desatualizada": true
     }
   },
   {
@@ -7076,16 +7122,16 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9712026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:52.339566+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:30.495019+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:36.201954+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:55.309754+00:00",
     "url_documento": "https://www.ulisboa.pt/recrutamento/edital-no-9712026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
-    "documento_sha256": "c5330fa1074e51dea531c4f745610a3b488fb9c3215e80a594d1c03bacdcaf06",
+    "documento_sha256": "0f958e1fd15d47f384bca87eeb71e4a9de57f15a257c2e8ea4aa84f99ad01033",
     "indicios_documentais": {
       "graduacao": [
         "Escola de Pós-Graduação",
@@ -7162,7 +7208,7 @@
       "evidencia": "Edital n.º 971/2026 Concurso para recrutamento de um professor catedrático, na área disciplinar de Biomateriais, Nanotecnologia e Medicina Regenerativa do Departamento de Bioengenharia",
       "fonte": "https://www.ulisboa.pt/recrutamento/edital-no-9712026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
       "documento_consultado": true,
-      "documento_sha256": "c5330fa1074e51dea531c4f745610a3b488fb9c3215e80a594d1c03bacdcaf06"
+      "documento_sha256": "0f958e1fd15d47f384bca87eeb71e4a9de57f15a257c2e8ea4aa84f99ad01033"
     }
   },
   {
@@ -7173,16 +7219,16 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9702026-concurso-para-recrutamento-de-um-professor-associado-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:52.339566+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:30.495019+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:36.214414+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:55.431425+00:00",
     "url_documento": "https://www.ulisboa.pt/recrutamento/edital-no-9702026-concurso-para-recrutamento-de-um-professor-associado-na-area",
-    "documento_sha256": "2369577d8747f972e3ee82cd946ee77b462cf495c627b81d12eec3aeae5a462a",
+    "documento_sha256": "050faf0093d7c4a354c78b24b307d78d610e49fcc1b2d6e3077f9c1560ce6fa3",
     "indicios_documentais": {
       "graduacao": [
         "Escola de Pós-Graduação",
@@ -7259,7 +7305,7 @@
       "evidencia": "Edital n.º 970/2026 Concurso para recrutamento de um professor associado, na área disciplinar de Biomateriais, Nanotecnologia e Medicina Regenerativa do Departamento de Bioengenharia",
       "fonte": "https://www.ulisboa.pt/recrutamento/edital-no-9702026-concurso-para-recrutamento-de-um-professor-associado-na-area",
       "documento_consultado": true,
-      "documento_sha256": "2369577d8747f972e3ee82cd946ee77b462cf495c627b81d12eec3aeae5a462a"
+      "documento_sha256": "050faf0093d7c4a354c78b24b307d78d610e49fcc1b2d6e3077f9c1560ce6fa3"
     }
   },
   {
@@ -7270,10 +7316,10 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9692026-concurso-para-recrutamento-de-um-professor-associado-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:52.339566+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:30.495019+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -7345,8 +7391,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -7356,7 +7402,8 @@
       "evidencia": "Edital n.º 969/2026 Concurso para recrutamento de um professor associado, na área disciplinar de Física da Matéria Condensada e Nanotecnologia do Departamento de Física",
       "fonte": "https://www.ulisboa.pt/recrutamento/edital-no-9692026-concurso-para-recrutamento-de-um-professor-associado-na-area",
       "documento_consultado": true,
-      "documento_sha256": "a56776fd81a9210394a8bc87177802d6b9e54badb2866fc437875a9e909f9182"
+      "documento_sha256": "7c3d233fdb984a6a9f648259724a4a3fb2ed27aed0dcc249a05578077546acb7",
+      "desatualizada": true
     }
   },
   {
@@ -7367,10 +7414,10 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9682026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:52.339566+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:30.495019+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -7442,8 +7489,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -7453,7 +7500,8 @@
       "evidencia": "Edital n.º 968/2026 Concurso para recrutamento de um professor catedrático na área disciplinar de Física de Plasmas, Lasers e Fusão Nuclear do Departamento de Física",
       "fonte": "https://www.ulisboa.pt/recrutamento/edital-no-9682026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
       "documento_consultado": true,
-      "documento_sha256": "ce5836ac068fd8102efaa1bd8f1c6b0a35690a0373f7ac6dace3e586f4bcfede"
+      "documento_sha256": "92624a37e0604cf1d37a7540e46753e5cd250e27374147d825491b25799da018",
+      "desatualizada": true
     }
   },
   {
@@ -7464,10 +7512,10 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9602026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:52.339566+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:30.495019+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -7539,8 +7587,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -7550,7 +7598,8 @@
       "evidencia": "Edital n.º 960/2026 Concurso para recrutamento de um professor catedrático, na área disciplinar de Eletrónica do Departamento de Engenharia Eletrotécnica e de Computadores",
       "fonte": "https://www.ulisboa.pt/recrutamento/edital-no-9602026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
       "documento_consultado": true,
-      "documento_sha256": "51b896437e94bc01525fb24f423a57f2415564583f2f221f4039b932eadaefae"
+      "documento_sha256": "9bbcd562cde6080d10dfea2d8930206775255b390bde8c866bd2bdcca418ea6e",
+      "desatualizada": true
     }
   },
   {
@@ -7561,10 +7610,10 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9592026-concurso-para-recrutamento-de-um-professor-associado-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:52.339566+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:30.495019+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -7636,8 +7685,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -7647,7 +7696,8 @@
       "evidencia": "Edital n.º 959/2026 Concurso para recrutamento de um professor associado, na área disciplinar de Sistemas, Urbanismo, Transportes e Ambiente do Departamento de Engenharia Civil, Arquitetura e Ambiente",
       "fonte": "https://www.ulisboa.pt/recrutamento/edital-no-9592026-concurso-para-recrutamento-de-um-professor-associado-na-area",
       "documento_consultado": true,
-      "documento_sha256": "12362efa9d772cb49a1f89f7fa26406a1524dddef8fbe8bcd2eb71fb8deffd58"
+      "documento_sha256": "34dd5f35abbe4811ac5742aaf26b1d10b844348278c8f7814588dbc1ed043fcb",
+      "desatualizada": true
     }
   },
   {
@@ -7658,10 +7708,10 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9582026-concurso-para-recrutamento-de-um-professor-associado-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:52.339566+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:30.495019+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -7733,8 +7783,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -7744,7 +7794,8 @@
       "evidencia": "Edital n.º 958/2026 Concurso para recrutamento de um professor associado, na área disciplinar de Física de Partículas e Física Nuclear do Departamento de Física",
       "fonte": "https://www.ulisboa.pt/recrutamento/edital-no-9582026-concurso-para-recrutamento-de-um-professor-associado-na-area",
       "documento_consultado": true,
-      "documento_sha256": "b52c3e7bdded1c8417fa5537e644fe18aca1b133b9bfc00062828b2bf7fecff4"
+      "documento_sha256": "d9dbdaa6ffbc2aaf938d501ef8ccd24cd16fc0a774b1f509ded594e20a89f73c",
+      "desatualizada": true
     }
   },
   {
@@ -7755,10 +7806,10 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9572026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:52.339566+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:30.495019+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -7830,8 +7881,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -7841,7 +7892,8 @@
       "evidencia": "Edital n.º 957/2026 Concurso para recrutamento de um professor catedrático, na área disciplinar de Metodologia e Tecnologia da Programação do Departamento de Engenharia Informática",
       "fonte": "https://www.ulisboa.pt/recrutamento/edital-no-9572026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
       "documento_consultado": true,
-      "documento_sha256": "cdea6ec629352229a216efe728542a86d8f1f2a9d9b3a0ed7cf4d121ecbf7725"
+      "documento_sha256": "3e4522efc1012ad9624a71c101376057f574cc1ff8307805ed8893d9210a4c50",
+      "desatualizada": true
     }
   },
   {
@@ -7852,10 +7904,10 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9562026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:52.339566+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:30.495019+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -7927,8 +7979,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -7938,7 +7990,8 @@
       "evidencia": "Edital n.º 956/2026 Concurso para recrutamento de um professor catedrático, na área disciplinar de Interação e Gráficos, do Departamento de Engenharia Informática",
       "fonte": "https://www.ulisboa.pt/recrutamento/edital-no-9562026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
       "documento_consultado": true,
-      "documento_sha256": "ffd0da87b2538cfd92add751b703327c27d5c96214ba6203322c2920f8f89739"
+      "documento_sha256": "673fc92d9d19cb9d3f04b2bd953a37afa481e94f76daff22fb3db669ad6ebc5a",
+      "desatualizada": true
     }
   },
   {
@@ -7949,10 +8002,10 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9452026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:52.339566+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:30.495019+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -8024,8 +8077,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -8035,7 +8088,8 @@
       "evidencia": "Edital n.º 945/2026 Concurso para recrutamento de um professor catedrático na área disciplinar de Engenharia e Gestão de Sistemas do Departamento de Engenharia e Gestão",
       "fonte": "https://www.ulisboa.pt/recrutamento/edital-no-9452026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
       "documento_consultado": true,
-      "documento_sha256": "b1ec86343e8e50673576eeb97c773b1290b84123eeadcc63c443ef61a5e612bc"
+      "documento_sha256": "9219b5fca4f735cf0b1f9043d6f86d86bf0733c947cb067ab812e4e1c9023985",
+      "desatualizada": true
     }
   },
   {
@@ -8046,10 +8100,10 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9442026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:52.339566+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:30.495019+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -8121,8 +8175,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -8132,7 +8186,8 @@
       "evidencia": "Edital n.º 944/2026 Concurso para recrutamento de um professor catedrático na área disciplinar de Geometria do Departamento de Matemática",
       "fonte": "https://www.ulisboa.pt/recrutamento/edital-no-9442026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
       "documento_consultado": true,
-      "documento_sha256": "f2190239a5270bb5302c95944152f2620987972774cb0778ade2b4d6a0f6e564"
+      "documento_sha256": "e55e55efaa20ea5018befc2419bf1018db8fd775dd4525abb603c863abfc9b4e",
+      "desatualizada": true
     }
   },
   {
@@ -8143,10 +8198,10 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9432026-concurso-para-recrutamento-deum-professor-associado-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:52.339566+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:30.495019+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -8218,8 +8273,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -8229,7 +8284,8 @@
       "evidencia": "Edital n.º 943/2026 Concurso para recrutamento deum professor associado na área disciplinar de Equações Diferenciais e Sistemas Dinâmicos do Departamento de Matemática",
       "fonte": "https://www.ulisboa.pt/recrutamento/edital-no-9432026-concurso-para-recrutamento-deum-professor-associado-na-area",
       "documento_consultado": true,
-      "documento_sha256": "a15e782da8602e5473f9d28d6326ecebc9c2fdf4775e549975fc1c43585654a1"
+      "documento_sha256": "0cf984e71497f0ab6792646157c53d302e74446de220e364d4943d8bf299db24",
+      "desatualizada": true
     }
   },
   {
@@ -8240,10 +8296,10 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9422026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:52.339566+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:30.495019+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -8315,8 +8371,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -8326,7 +8382,8 @@
       "evidencia": "Edital n.º 942/2026 Concurso para recrutamento de um professor catedrático na área disciplinar de Ciências de Engenharia Química do Departamento de Engenharia Química",
       "fonte": "https://www.ulisboa.pt/recrutamento/edital-no-9422026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
       "documento_consultado": true,
-      "documento_sha256": "958aeb961ed49b916a8618941ff34e2f9d73705918932d58307d723e9d66c4ff"
+      "documento_sha256": "554f3f0d543348e9c658293308b52a86bd36dc84a3c5eb33aadd0fad1665e246",
+      "desatualizada": true
     }
   },
   {
@@ -8337,10 +8394,10 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9412026-concurso-para-recrutamento-de-um-professor-associado-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:52.339566+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:30.495019+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -8412,8 +8469,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -8423,7 +8480,8 @@
       "evidencia": "Edital n.º 941/2026 Concurso para recrutamento de um professor associado, na área disciplinar de Engenharia Biomolecular e de Bioprocessos do Departamento de Bioengenharia",
       "fonte": "https://www.ulisboa.pt/recrutamento/edital-no-9412026-concurso-para-recrutamento-de-um-professor-associado-na-area",
       "documento_consultado": true,
-      "documento_sha256": "a7850a8c17c39a009b096653581ca91799cfd2ea92ea5d331e49b16c4d402351"
+      "documento_sha256": "a0db52ce3ab1233aa941f737f9633cef22e095b9fb3019e5047f24e334d6971a",
+      "desatualizada": true
     }
   },
   {
@@ -8434,10 +8492,10 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9402026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:52.339566+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:30.495019+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -8509,8 +8567,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -8520,7 +8578,8 @@
       "evidencia": "Edital n.º 940/2026 Concurso para recrutamento de um professor catedrático na área disciplinar de Tecnologia Mecânica e Gestão Industrial, do Departamento de Engenharia Mecânica",
       "fonte": "https://www.ulisboa.pt/recrutamento/edital-no-9402026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
       "documento_consultado": true,
-      "documento_sha256": "22be7971915cfbc485491f81cd6819c9a11873aef4170768a31279b81b81f596"
+      "documento_sha256": "3a77e704aed71103bade6cfb830aeee4253559b82c369d6eb9f2c982869e7065",
+      "desatualizada": true
     }
   },
   {
@@ -8531,10 +8590,10 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-14152026-concurso-para-1-um-professor-associado-area-disciplinar-de",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:52.339566+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:30.495019+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -8606,8 +8665,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -8617,7 +8676,8 @@
       "evidencia": "Edital n.º 1415/2026 Concurso para 1 (um) Professor Associado, área disciplinar de Organização de Sistemas Computacionais",
       "fonte": "https://www.ulisboa.pt/recrutamento/edital-no-14152026-concurso-para-1-um-professor-associado-area-disciplinar-de",
       "documento_consultado": true,
-      "documento_sha256": "2ee15adc45da6f072c1e74c9404cd8ed8854c643d0bf16d00cff4a8e884c6ecd"
+      "documento_sha256": "7e0030ac2324f6a3ac59b136149b8963e5d18bcf7f4b578e0f662b4dcd1d86ec",
+      "desatualizada": true
     }
   },
   {
@@ -8628,10 +8688,10 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-12212026-concurso-para-recrutamento-de-um-professor-auxiliar-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:52.339566+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:30.495019+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -8703,8 +8763,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -8714,7 +8774,8 @@
       "evidencia": "Edital n.º 1221/2026 concurso para recrutamento de um professor auxiliar na área disciplinar de Ecologia",
       "fonte": "https://www.ulisboa.pt/recrutamento/edital-no-12212026-concurso-para-recrutamento-de-um-professor-auxiliar-na-area",
       "documento_consultado": true,
-      "documento_sha256": "657f2c2a1fa79475c625a668fb0067d717e7defb12b92116b91f215d8427b48f"
+      "documento_sha256": "dac1dcb14b42b80981c44c8a4d64e65663e13e3cdc13393bc246cbe2e6c54612",
+      "desatualizada": true
     }
   },
   {
@@ -8725,16 +8786,16 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-10962026-concurso-para-recrutamento-de-um-professor-auxiliar-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:52.339566+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:30.495019+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:40.254110+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:55.444028+00:00",
     "url_documento": "https://www.ulisboa.pt/recrutamento/edital-no-10962026-concurso-para-recrutamento-de-um-professor-auxiliar-na-area",
-    "documento_sha256": "d8e9c2571d49c70cb0452e66f5141cc9f5af06db698813c9d727f2e5626d30e6",
+    "documento_sha256": "e1311a9eee6789949d3f1c97d58efda1949ed79497adc204baf3a109d64ff5f7",
     "indicios_documentais": {
       "graduacao": [
         "Escola de Pós-Graduação",
@@ -8811,7 +8872,7 @@
       "evidencia": "Edital n.º 1096/2026 Concurso para recrutamento de um professor auxiliar, na área disciplinar de História e Filosofia das Ciências e da Tecnologia (exec_sentença)",
       "fonte": "https://www.ulisboa.pt/recrutamento/edital-no-10962026-concurso-para-recrutamento-de-um-professor-auxiliar-na-area",
       "documento_consultado": true,
-      "documento_sha256": "d8e9c2571d49c70cb0452e66f5141cc9f5af06db698813c9d727f2e5626d30e6"
+      "documento_sha256": "e1311a9eee6789949d3f1c97d58efda1949ed79497adc204baf3a109d64ff5f7"
     }
   },
   {
@@ -8822,16 +8883,16 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-12742026-concurso-para-um-professor-auxiliar-area-disciplinar-de",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:52.339566+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:30.495019+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:40.957876+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:55.838595+00:00",
     "url_documento": "https://www.ulisboa.pt/recrutamento/edital-no-12742026-concurso-para-um-professor-auxiliar-area-disciplinar-de",
-    "documento_sha256": "d433c4ba9f804f214fb9e61686226d12c467dd914c01d9f3829712ea16513c95",
+    "documento_sha256": "ca6f79a5a2e1fa297382b68c5c586da01d06331ece1c6235a11a47265c13a1e4",
     "indicios_documentais": {
       "graduacao": [
         "Escola de Pós-Graduação",
@@ -8908,7 +8969,7 @@
       "evidencia": "Edital n.º 1274/2026 Concurso para um Professor Auxiliar, área disciplinar de Investigação Operacional",
       "fonte": "https://www.ulisboa.pt/recrutamento/edital-no-12742026-concurso-para-um-professor-auxiliar-area-disciplinar-de",
       "documento_consultado": true,
-      "documento_sha256": "d433c4ba9f804f214fb9e61686226d12c467dd914c01d9f3829712ea16513c95"
+      "documento_sha256": "ca6f79a5a2e1fa297382b68c5c586da01d06331ece1c6235a11a47265c13a1e4"
     }
   },
   {
@@ -8919,16 +8980,16 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-12362026-concurso-para-dois-professores-catedraticos-na-area-disciplinar-de",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:52.339566+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:30.495019+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:41.003184+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:55.850352+00:00",
     "url_documento": "https://www.ulisboa.pt/recrutamento/edital-no-12362026-concurso-para-dois-professores-catedraticos-na-area-disciplinar-de",
-    "documento_sha256": "32af53662e95aefa58295444f230a4315a875c4c9433281d8bb83a858a401ea7",
+    "documento_sha256": "0b52d853bef4d84c0daabe75d6e75a336cc98a33faf0c835a6404502a6cb81f1",
     "indicios_documentais": {
       "graduacao": [
         "Escola de Pós-Graduação",
@@ -9005,7 +9066,7 @@
       "evidencia": "Edital n.º 1236/2026 concurso para dois professores catedráticos, na área disciplinar de Psicologia Aplicada",
       "fonte": "https://www.ulisboa.pt/recrutamento/edital-no-12362026-concurso-para-dois-professores-catedraticos-na-area-disciplinar-de",
       "documento_consultado": true,
-      "documento_sha256": "32af53662e95aefa58295444f230a4315a875c4c9433281d8bb83a858a401ea7"
+      "documento_sha256": "0b52d853bef4d84c0daabe75d6e75a336cc98a33faf0c835a6404502a6cb81f1"
     }
   },
   {
@@ -9016,10 +9077,10 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-12112026-concurso-para-um-professor-auxiliar-na-area-disciplinar-de",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:52.339566+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:30.495019+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -9091,8 +9152,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -9102,7 +9163,8 @@
       "evidencia": "Edital n.º 1211/2026 concurso para um Professor Auxiliar, na área disciplinar de Engenharia Agronómica",
       "fonte": "https://www.ulisboa.pt/recrutamento/edital-no-12112026-concurso-para-um-professor-auxiliar-na-area-disciplinar-de",
       "documento_consultado": true,
-      "documento_sha256": "eccd87b73ebabd8155edadf0b9433207856e120b50748cbd7f8d453a3bc3d1bb"
+      "documento_sha256": "dd8093a316750756e4e0958e62d8891596e704eee63ccc09f2bcf6d1440d7c7b",
+      "desatualizada": true
     }
   },
   {
@@ -9113,10 +9175,10 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-11712026-concurso-para-recrutamento-em-regime-de-contrato-de-trabalho-em",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:52.339566+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:30.495019+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -9188,8 +9250,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -9199,7 +9261,8 @@
       "evidencia": "Edital n.º 1171/2026 concurso para recrutamento, em regime de contrato de trabalho em funções públicas, de 1 (um) Professor Auxiliar, na área disciplinar de Linguística",
       "fonte": "https://www.ulisboa.pt/recrutamento/edital-no-11712026-concurso-para-recrutamento-em-regime-de-contrato-de-trabalho-em",
       "documento_consultado": true,
-      "documento_sha256": "2f5fe679904df3f4a56e805374b0129f2f825e060004eaff5a70187415151bf7"
+      "documento_sha256": "efd4369bae698d7462fab47da0a966bf7625d94ed2a5be194683598fa626ea3b",
+      "desatualizada": true
     }
   },
   {
@@ -9210,16 +9273,16 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-10332026-concurso-para-professor-auxiliar-area-disciplinar-de-microbiologia",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:52.339566+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:30.495019+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:41.784108+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:56.095060+00:00",
     "url_documento": "https://www.ulisboa.pt/recrutamento/edital-no-10332026-concurso-para-professor-auxiliar-area-disciplinar-de-microbiologia",
-    "documento_sha256": "e9feedf6dc5c726476b4a02bc6c03185d131998c7c1c729d74ce7bc7c2e6469f",
+    "documento_sha256": "1ba980108306394b51514629a3d36500a6fcc01b099c21b8c76ae508ed43c18e",
     "indicios_documentais": {
       "graduacao": [
         "Escola de Pós-Graduação",
@@ -9296,7 +9359,7 @@
       "evidencia": "Edital n.º 1033/2026 Concurso para professor auxiliar, área disciplinar de Microbiologia e Imunologia Farmacêuticas (execução sentença)",
       "fonte": "https://www.ulisboa.pt/recrutamento/edital-no-10332026-concurso-para-professor-auxiliar-area-disciplinar-de-microbiologia",
       "documento_consultado": true,
-      "documento_sha256": "e9feedf6dc5c726476b4a02bc6c03185d131998c7c1c729d74ce7bc7c2e6469f"
+      "documento_sha256": "1ba980108306394b51514629a3d36500a6fcc01b099c21b8c76ae508ed43c18e"
     }
   },
   {
@@ -9307,10 +9370,10 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-10162026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:52.339566+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:30.495019+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
-    "remuneracao": "Não informada",
+    "remuneracao": "Documento alterado: rever",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
@@ -9382,8 +9445,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "triagem": "Candidato",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -9393,7 +9456,8 @@
       "evidencia": "Edital n.º 1016/2026 concurso para recrutamento de um professor catedrático, na área disciplinar de Educação, funções na área de investigação e ensino em Políticas de Educação e Formação",
       "fonte": "https://www.ulisboa.pt/recrutamento/edital-no-10162026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
       "documento_consultado": true,
-      "documento_sha256": "32afd4d148bd050d5308e07e438a2e76b3131eb92654df701ef264663cf4e8e7"
+      "documento_sha256": "00d74619fd88b390d98124bd6383a8bfa05ec20be2c31eaaa5f2a8e73aed232d",
+      "desatualizada": true
     }
   },
   {
@@ -9404,16 +9468,16 @@
     "url": "https://www.reitoria.uri.br/pt/download-editals/a15d4fff4a91e067c745deb186596f05",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:41.499966+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:20.461721+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:26.091551+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:50.600087+00:00",
     "url_documento": "https://www.reitoria.uri.br/pt/download-editals/a15d4fff4a91e067c745deb186596f05",
-    "documento_sha256": "38ce06e8823a11c50d50f9d6340cae0bcaa936fec546877afecdba0c69a5dba3",
+    "documento_sha256": "b1f9b9a2317ddb0b3b151c6ebac59cc65496b2bfaccb9ccea96c30e9aa9059ab",
     "indicios_documentais": {
       "graduacao": [
         "Programa de Pós-Graduação Stricto Sensu em Tecnologias Sustentáveis",
@@ -9489,16 +9553,16 @@
     "url": "https://www.reitoria.uri.br/pt/download-editals/57c2f74fddca0d9a478d41e1c8e0ad78",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:41.499966+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:20.461721+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:26.118747+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:50.600187+00:00",
     "url_documento": "https://www.reitoria.uri.br/pt/download-editals/57c2f74fddca0d9a478d41e1c8e0ad78",
-    "documento_sha256": "d52075c4eebb7e62159718b7754423e1ed487b4d51aa5a22336fcc0fa41c3b4f",
+    "documento_sha256": "db24957d4fd8741ac61dbd3cf12aba2d6680f866e81c78353754000d9e8d8359",
     "indicios_documentais": {
       "graduacao": [
         "Graduação em Física, ou",
@@ -9576,16 +9640,16 @@
     "url": "https://www.reitoria.uri.br/pt/download-editals/7b935a22a1162165691777f8e5c7b97e",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:41.499966+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:20.461721+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:26.149724+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:50.600282+00:00",
     "url_documento": "https://www.reitoria.uri.br/pt/download-editals/7b935a22a1162165691777f8e5c7b97e",
-    "documento_sha256": "58ef4a8ccb1d20afdd46bc98cf74f36207343011f8ccebe70959e4473e2a298e",
+    "documento_sha256": "e83efb4c3d630ff91731c2a4aac359e6ddcc3ce2b979cec81b64dc827b48be45",
     "indicios_documentais": {
       "graduacao": [],
       "doutorado": [],
@@ -9647,16 +9711,16 @@
     "url": "https://www.reitoria.uri.br/pt/download-editals/3c5680dfc00c70b56a50ae4b17ea1705",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:41.499966+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:20.461721+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:26.172030+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:50.651618+00:00",
     "url_documento": "https://www.reitoria.uri.br/pt/download-editals/3c5680dfc00c70b56a50ae4b17ea1705",
-    "documento_sha256": "428bc9f1ad4549fb0798d87c7bd3fa38d5f879ea9c1609db53bcaf56f35416dd",
+    "documento_sha256": "72055cb476e598a13a103151bd107215b1abf15340fd31ccdb900313f1dd398f",
     "indicios_documentais": {
       "graduacao": [],
       "doutorado": [],
@@ -9714,16 +9778,16 @@
     "url": "https://www.reitoria.uri.br/pt/download-editals/cd5ae74a8269e0a02d85a4bcd970b52e",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:41.499966+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:20.461721+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:26.215798+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:50.719291+00:00",
     "url_documento": "https://www.reitoria.uri.br/pt/download-editals/cd5ae74a8269e0a02d85a4bcd970b52e",
-    "documento_sha256": "14373261881b30decd3cf2f4eb63e9ca70d3c5cf2c5cca0c480192c319bafa35",
+    "documento_sha256": "7dcb207e23791bce9fbcd2586cdc62052d80840fcccf6fa06be4e2060e6f5899",
     "indicios_documentais": {
       "graduacao": [
         "Graduação em Ciências",
@@ -9799,16 +9863,16 @@
     "url": "https://www.reitoria.uri.br/pt/download-editals/26a57c5f44db3d751c0230870a47e77f",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:41.499966+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:20.461721+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:27.455556+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:52.120504+00:00",
     "url_documento": "https://www.reitoria.uri.br/pt/download-editals/26a57c5f44db3d751c0230870a47e77f",
-    "documento_sha256": "6b1112048191c3929915361794ce5616239fa5890e26cad6a455fb0ffbdc3e00",
+    "documento_sha256": "28da3164d11ae2faaeaedac5d63c980a99d5e274d12ddc29f416e5b9ed88b5b6",
     "indicios_documentais": {
       "graduacao": [
         "III – pelo Pró-Reitor de Pesquisa, Extensão e Pós-Graduação",
@@ -9882,16 +9946,16 @@
     "url": "https://www.reitoria.uri.br/pt/download-editals/e32c670717bcff0e3f9488466a72dc75",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:41.499966+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:20.461721+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:28.215330+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:52.167829+00:00",
     "url_documento": "https://www.reitoria.uri.br/pt/download-editals/e32c670717bcff0e3f9488466a72dc75",
-    "documento_sha256": "f8a188439e3efb7f0eb50c9db8845f2b3c241f946760a90543e51918b08e9d65",
+    "documento_sha256": "ae0411397336a79d6e2df8ee080a899392eb1471348477877db0d9444b3cde0c",
     "indicios_documentais": {
       "graduacao": [],
       "doutorado": [],
@@ -9949,16 +10013,16 @@
     "url": "https://www.reitoria.uri.br/pt/download-editals/64a3126b98424abf9623c145341844fe",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:41.499966+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:20.461721+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:28.465024+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:52.760233+00:00",
     "url_documento": "https://www.reitoria.uri.br/pt/download-editals/64a3126b98424abf9623c145341844fe",
-    "documento_sha256": "14d7e9db4809d1bdfc3ac506b422d109c2e149ca47e3b8199b52e8acc375c1b8",
+    "documento_sha256": "87e16cfeaf6b066b7a66d375bca88388c255fec0632b22335be7d72a0a1c678c",
     "indicios_documentais": {
       "graduacao": [],
       "doutorado": [],
@@ -10016,16 +10080,16 @@
     "url": "https://www.reitoria.uri.br/pt/download-editals/f5441ad9fcbd7f8ff1365bf01c954527",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:41.499966+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:20.461721+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:28.499475+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:53.099488+00:00",
     "url_documento": "https://www.reitoria.uri.br/pt/download-editals/f5441ad9fcbd7f8ff1365bf01c954527",
-    "documento_sha256": "7879981d4f226a8f0191d36730c07205d7a5ff1c780fca9b2f905f25264cf636",
+    "documento_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "indicios_documentais": {
       "graduacao": [],
       "doutorado": [],
@@ -10079,16 +10143,16 @@
     "url": "https://www.reitoria.uri.br/pt/download-editals/636260672232edfbdf24569970032d72",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:41.499966+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:20.461721+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:28.831603+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:53.103437+00:00",
     "url_documento": "https://www.reitoria.uri.br/pt/download-editals/636260672232edfbdf24569970032d72",
-    "documento_sha256": "c9df8b2b430dd96a0ba61eaf8d312cea2610ac44fa3d1c4e710f51740a0b6805",
+    "documento_sha256": "c216a0b19ad3ca27a90e0a1bdb9f28e55b4ea7f040481fb07d21aac47c0d42f4",
     "indicios_documentais": {
       "graduacao": [
         "processo de seleção para os professores da instituição, de graduação e de pós -",
@@ -10157,16 +10221,16 @@
     "url": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2362-edital-de-abertura-n-174-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:48.057628+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:27.403909+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:32.874829+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:54.207528+00:00",
     "url_documento": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2362-edital-de-abertura-n-174-2025",
-    "documento_sha256": "d54af2da2c9d54f74670f48fd3bda7e785daf54baa8fb63701175878b4aac332",
+    "documento_sha256": "df0747b2efab2adf8c4ac38ebbeac88e5e99d4d71212f06c1ed35239a3560ccf",
     "indicios_documentais": {
       "graduacao": [
         "Sobre a UnB Unidades acadêmicas Estude na UnB Graduação Pós-Graduação Administração Servidor"
@@ -10230,16 +10294,16 @@
     "url": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2361-edital-de-abertura-n-170-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:48.057628+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:27.403909+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:33.030880+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:54.274801+00:00",
     "url_documento": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2361-edital-de-abertura-n-170-2025",
-    "documento_sha256": "fc876a79fe6de205e1cbae6ad38de86ea166fee4f26b3a3cc3e22bad1ff7f36e",
+    "documento_sha256": "eef8b4c7b0182bb1e23d16b06f9cafe0818a6ec6ad396ec11ca66ab3162a30f3",
     "indicios_documentais": {
       "graduacao": [
         "Sobre a UnB Unidades acadêmicas Estude na UnB Graduação Pós-Graduação Administração Servidor"
@@ -10303,16 +10367,16 @@
     "url": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2360-edital-de-abertura-n-163-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:48.057628+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:27.403909+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:33.046685+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:54.569528+00:00",
     "url_documento": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2360-edital-de-abertura-n-163-2025",
-    "documento_sha256": "8f8d21220f8845b348cca7fbe01c7016de20b3984693e50c54a188814b8452bb",
+    "documento_sha256": "4af7ad8897cdf7225ec80fbbc3903a9feb3c6885ab2d2340bf17b8bdba30ed47",
     "indicios_documentais": {
       "graduacao": [
         "Sobre a UnB Unidades acadêmicas Estude na UnB Graduação Pós-Graduação Administração Servidor"
@@ -10376,16 +10440,16 @@
     "url": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2359-edital-de-abertura-n-137-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:48.057628+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:27.403909+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:33.223484+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:54.762661+00:00",
     "url_documento": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2359-edital-de-abertura-n-137-2025",
-    "documento_sha256": "bac6f724b4da41c01557c537903472d6e4cd2f4afc5ab437e7fde9d5eb48de71",
+    "documento_sha256": "7617e0c611b67761e8b48cc58dd062909e5a41b38ecaaab4bd071fdabbf4c730",
     "indicios_documentais": {
       "graduacao": [
         "Sobre a UnB Unidades acadêmicas Estude na UnB Graduação Pós-Graduação Administração Servidor"
@@ -10449,16 +10513,16 @@
     "url": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2358-edital-de-abertura-n-132-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:48.057628+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:27.403909+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:33.886282+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:54.832631+00:00",
     "url_documento": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2358-edital-de-abertura-n-132-2025",
-    "documento_sha256": "171a65bc4ff553c16037ed7c94ab62df1feb2a7d116b1d00b4c9c940edfd0983",
+    "documento_sha256": "80e0b04cdce7da89353fa44cdfb6f9af1f3f5480fe695944ee7d3848f0638cbc",
     "indicios_documentais": {
       "graduacao": [
         "Sobre a UnB Unidades acadêmicas Estude na UnB Graduação Pós-Graduação Administração Servidor"
@@ -10522,16 +10586,16 @@
     "url": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2357-edital-de-abertura-n-134-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:48.057628+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:27.403909+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:33.920341+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:54.992638+00:00",
     "url_documento": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2357-edital-de-abertura-n-134-2025",
-    "documento_sha256": "0550d8e5551a604efbf2172181dbee8a142faab8b609dca93089c5e838deea20",
+    "documento_sha256": "7a6a90f4887c5bdc6923079db7aea37dc01dc0834e21505f40f7e7ee5fb3e183",
     "indicios_documentais": {
       "graduacao": [
         "Sobre a UnB Unidades acadêmicas Estude na UnB Graduação Pós-Graduação Administração Servidor"
@@ -10595,16 +10659,16 @@
     "url": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2356-edital-de-abertura-n-122-2026",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:48.057628+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:27.403909+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:33.941638+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:55.297615+00:00",
     "url_documento": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2356-edital-de-abertura-n-122-2026",
-    "documento_sha256": "bca722d13b0ebb29f912c719f8044fdd22dc99a9d0185088e95aaf598aa59bec",
+    "documento_sha256": "3727002bbc10dff4ef5e35d48b7f9f4a009115b3ef4727201702b1d8562f2288",
     "indicios_documentais": {
       "graduacao": [
         "Sobre a UnB Unidades acadêmicas Estude na UnB Graduação Pós-Graduação Administração Servidor"
@@ -10744,16 +10808,16 @@
     "url": "https://ufcspa.edu.br/estude-na-ufcspa/pos-doutorado",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:59.750122+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:37.217508+00:00",
     "categoria": "Pós-doutorado",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:42.818057+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:56.633264+00:00",
     "url_documento": "https://ufcspa.edu.br/estude-na-ufcspa/pos-doutorado",
-    "documento_sha256": "fa6b48081ee5b5d623b76f20d6c4075bc74e3ace7c7647e8be743f996f68e5e1",
+    "documento_sha256": "07018094d5848b826cdba484213a4ab37e34d3065ca56a54fb2b8a45d2d3af3b",
     "indicios_documentais": {
       "graduacao": [
         "Introdução Conteúdo da carta de serviços Informações gerais Direcionamento estratégico Áreas de atuação acadêmica Horários de funcionamento Canais de comunicação Estrutura organizacional Formas de ingresso Cursos de graduação Programas de pós-graduação",
@@ -10827,16 +10891,16 @@
     "url": "https://ufcspa.edu.br/noticias/materias-de-capa/5858-ufcspa-realiza-concurso-publico-para-contratacao-de-10-professores",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:44:59.750122+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:37.217508+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:42.933916+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:56.811282+00:00",
     "url_documento": "https://ufcspa.edu.br/noticias/materias-de-capa/5858-ufcspa-realiza-concurso-publico-para-contratacao-de-10-professores",
-    "documento_sha256": "9c0fd0aaf64a49199ddb785515ff4119ed833e1f622098b5ed459bcc7f7bae50",
+    "documento_sha256": "5caa87b872b82a9c91f8b37d921c78e41d08acab41eac061e63c138272546063",
     "indicios_documentais": {
       "graduacao": [
         "Introdução Conteúdo da carta de serviços Informações gerais Direcionamento estratégico Áreas de atuação acadêmica Horários de funcionamento Canais de comunicação Estrutura organizacional Formas de ingresso Cursos de graduação Programas de pós-graduação",
@@ -10908,16 +10972,16 @@
     "url": "https://www.unifal-mg.edu.br/dips/professor-do-magisterio-superior",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:45:00.659905+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:38.270686+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:42.986839+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:56.844804+00:00",
     "url_documento": "https://www.unifal-mg.edu.br/dips/professor-do-magisterio-superior/",
-    "documento_sha256": "656faf7c52cbc6f0ba8b2f8b20ae601b5b7b7bf1d8569537b91ac7a6d97612b1",
+    "documento_sha256": "a52e767e109150be378753ff7fd7717999f312ce58d0545d31699a47d109c36e",
     "indicios_documentais": {
       "graduacao": [
         "Ingresso na Graduação",
@@ -10988,16 +11052,16 @@
     "url": "https://www.unifal-mg.edu.br/dips/edital-no-69-2026-reabertura-processo-de-selecao-para-professor-regente-dos-cursos-de-especializacao-do-programa-universidade-aberta-do-brasil-uab",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:45:00.659905+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:38.270686+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:43.730326+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:57.003905+00:00",
     "url_documento": "https://www.unifal-mg.edu.br/dips/edital-no-69-2026-reabertura-processo-de-selecao-para-professor-regente-dos-cursos-de-especializacao-do-programa-universidade-aberta-do-brasil-uab/",
-    "documento_sha256": "60acb3dd1fdaa4c74da1bfcee4e4a522a8a6f14df82f6e5bfe819971f20db849",
+    "documento_sha256": "c0ca4b6beb618584d858b8ffe286e09123d232fbc9400fc47fa2f0dfb5fcb7e0",
     "indicios_documentais": {
       "graduacao": [
         "Ingresso na Graduação",
@@ -11060,16 +11124,16 @@
     "url": "https://www.unifal-mg.edu.br/dips/edital-no-039-2026-reabertura-concurso-publico-para-professor-do-magisterio-superior-clinica-medica-cardiologia",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:45:00.659905+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:38.270686+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:44.181951+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:57.122541+00:00",
     "url_documento": "https://www.unifal-mg.edu.br/dips/edital-no-039-2026-reabertura-concurso-publico-para-professor-do-magisterio-superior-clinica-medica-cardiologia/",
-    "documento_sha256": "d3cdb64dab97b2f6d92103115aced05a6f3b32a76e0d831f83ffccb6ad9188ec",
+    "documento_sha256": "06f4dc0de1fc572282a27e7bc84d0d389fa47abc2f0404f935a236e9ef40505a",
     "indicios_documentais": {
       "graduacao": [
         "Ingresso na Graduação",
@@ -11129,16 +11193,16 @@
     "url": "https://www2.ufjf.br/concursos/concursos-publicos-efetivos/concurso-docentes",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:45:06.525089+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:41.076109+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:44.190604+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:57.195552+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/concursos-publicos-efetivos/concurso-docentes/",
-    "documento_sha256": "22f93062ce60b836faf2b42cec8c55a1858b5afc9de03b2c7b0574570c5a351e",
+    "documento_sha256": "b55c9890a3bef5132a1613d0609edf8adaacd22011903df8277b3df7e213102a",
     "indicios_documentais": {
       "graduacao": [],
       "doutorado": [],
@@ -11194,16 +11258,16 @@
     "url": "https://www2.ufjf.br/concursos/processos-seletivos-simplificados/selecao-docentes-temporarios",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:45:06.525089+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:41.076109+00:00",
     "categoria": "Professor substituto",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:45.600249+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:58.299900+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/processos-seletivos-simplificados/selecao-docentes-temporarios/",
-    "documento_sha256": "4df777a85a9b0f78b28cc8b4e64d2714d8e1fee223ae30fec47afbf4d673e819",
+    "documento_sha256": "874a87aff883dfc5e0bb44935c13e3f4e413d596a0e56046fc9c617f03559d89",
     "indicios_documentais": {
       "graduacao": [],
       "doutorado": [],
@@ -11260,16 +11324,16 @@
     "url": "https://www2.ufjf.br/concursos/processos-seletivos-simplificados/selecao-professor-visitante",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:45:06.525089+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:41.076109+00:00",
     "categoria": "Professor visitante",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:45.704170+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:58.354162+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/processos-seletivos-simplificados/selecao-professor-visitante/",
-    "documento_sha256": "1c2714c467c9d255f92e1ee7d76fc280bf22401758a6a7f8a1717e0d90b8ef2c",
+    "documento_sha256": "8db28a17166506839a99a4dfe24c496c1fba3883ef4e3ba91f8575f47da2e337",
     "indicios_documentais": {
       "graduacao": [],
       "doutorado": [],
@@ -11325,16 +11389,16 @@
     "url": "https://www2.ufjf.br/concursos/processos-seletivos-simplificados/selecao-docentes-temporarios/ano-2024",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:45:06.525089+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:41.076109+00:00",
     "categoria": "Professor substituto",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:45.880938+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:58.433305+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/processos-seletivos-simplificados/selecao-docentes-temporarios/ano-2024/",
-    "documento_sha256": "16b610d4afe630791749bde857cab7f24a5748ca44abc604d85fd5b6f2c027c0",
+    "documento_sha256": "be770d06ecd42d6fa037d95a11a5c9bfc0e8a2f52688ef42e5e94b62c6cf55c3",
     "indicios_documentais": {
       "graduacao": [
         "“ Graduação em: Bacharelado em Ciências Contábeis ou Bacharelado em Administração”",
@@ -11398,16 +11462,16 @@
     "url": "https://www2.ufjf.br/concursos/processos-seletivos-simplificados/selecao-docentes-temporarios/ano-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:45:06.525089+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:41.076109+00:00",
     "categoria": "Professor substituto",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:46.329579+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:58.924720+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/processos-seletivos-simplificados/selecao-docentes-temporarios/ano-2025/",
-    "documento_sha256": "245a97260e23ba7c0f5c5ea8e9fb4d18c4b866ef108a5d652e455fa9a81e9176",
+    "documento_sha256": "2dd3aebc557a73c42aa0dce61f64cfac3c0d5a18bd9199e2ae990a302dc02089",
     "indicios_documentais": {
       "graduacao": [
         "“Graduação em: Medicina",
@@ -11473,16 +11537,16 @@
     "url": "https://www2.ufjf.br/concursos/processos-seletivos-simplificados/selecao-docentes-temporarios/ano-2026",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:45:06.525089+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:41.076109+00:00",
     "categoria": "Professor substituto",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:47.032363+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:58.931608+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/processos-seletivos-simplificados/selecao-docentes-temporarios/ano-2026/",
-    "documento_sha256": "6780506eccec268c1f864f53e73fea95384b0241efe1223d6bf00f71c547aa5a",
+    "documento_sha256": "a3fb89bdab5f8d42c7632cc10e10f71915aaf8ef1312d785930ebf95a7aafa53",
     "indicios_documentais": {
       "graduacao": [
         "\"Graduação: Administração",
@@ -11546,16 +11610,16 @@
     "url": "https://www2.ufjf.br/concursos/2016/01/13/publicado-edital-de-concurso-publico-para-docentes-do-c-a-joao-xxiii",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:45:06.525089+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:41.076109+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:47.171780+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:59.431890+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/2016/01/13/publicado-edital-de-concurso-publico-para-docentes-do-c-a-joao-xxiii/",
-    "documento_sha256": "2e1eb68e1b98dfff4ab23cc2dd33c2b8a8da949eaf835d0ff76a142ab73bfc51",
+    "documento_sha256": "0b3d082a038be01b198a479268d0ecd5bbc4cac999ad6f17f3be6adc49945fa9",
     "indicios_documentais": {
       "graduacao": [],
       "doutorado": [],
@@ -11613,16 +11677,16 @@
     "url": "https://www2.ufjf.br/concursos/2013/04/01/novos-periodos-de-inscricao-para-concursos-de-professores-sao-cancelados",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:45:06.525089+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:41.076109+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:47.851039+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:59.520427+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/2013/04/01/novos-periodos-de-inscricao-para-concursos-de-professores-sao-cancelados/",
-    "documento_sha256": "c9b27d992411d4461c7fda33aaebcd78bbb4cf25249c62b3d8e74aee32bbe2df",
+    "documento_sha256": "5ba190a2c0ef068ea882ac29b634f656f42b274e12559e26456e678a4f372a6e",
     "indicios_documentais": {
       "graduacao": [],
       "doutorado": [],
@@ -11682,16 +11746,16 @@
     "url": "https://www2.ufjf.br/concursos/2013/02/01/ufjf-abre-inscricoes-para-dois-editais-de-concursos-publicos-para-professores-em-juiz-de-fora",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:45:06.525089+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:41.076109+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:48.129471+00:00",
+    "consulta_documental_em": "2026-11-10T21:48:59.584896+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/2013/02/01/ufjf-abre-inscricoes-para-dois-editais-de-concursos-publicos-para-professores-em-juiz-de-fora/",
-    "documento_sha256": "dc7ab815a15b656d916b1fa4843340105e2b6659439514057c78cbb49683f701",
+    "documento_sha256": "b91dd7c714980921a458e8bb5f5094e1bc94795839da14692d3d53f59571faab",
     "indicios_documentais": {
       "graduacao": [],
       "doutorado": [],
@@ -11751,16 +11815,16 @@
     "url": "https://www2.ufjf.br/concursos/2012/12/21/ufjf-abre-vagas-em-concursos-publicos-para-professores-em-juiz-de-fora-2",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:45:06.525089+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:41.076109+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:48.593742+00:00",
+    "consulta_documental_em": "2026-11-10T21:49:00.163215+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/2012/12/21/ufjf-abre-vagas-em-concursos-publicos-para-professores-em-juiz-de-fora-2/",
-    "documento_sha256": "d06e2c193cbfa9f783faf1a8d4424b0ec96b9dc6fe7fb2fa0b6bd78f136a3070",
+    "documento_sha256": "2ffeeac36758da67d9163b9060ded14689d84e0c228ae760c64d67ea8d3da9e2",
     "indicios_documentais": {
       "graduacao": [],
       "doutorado": [],
@@ -11818,16 +11882,16 @@
     "url": "https://www2.ufjf.br/concursos/2012/12/07/novo-edital-para-contratacao-de-professores-temporarios",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:45:06.525089+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:41.076109+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:48.770977+00:00",
+    "consulta_documental_em": "2026-11-10T21:49:00.454678+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/2012/12/07/novo-edital-para-contratacao-de-professores-temporarios/",
-    "documento_sha256": "dd233552ae344da64898c3dbe128fe6f638e96a0ff628afd02b933fa44f365b6",
+    "documento_sha256": "ed85fcc788e529bcfce4ea9a1ef4e1ef99dc043d4094f833969dd60af13ce10f",
     "indicios_documentais": {
       "graduacao": [],
       "doutorado": [],
@@ -11885,16 +11949,16 @@
     "url": "https://www2.ufjf.br/concursos/2012/11/09/ufjf-abre-2-periodo-de-inscricoes-em-concurso-publico-para-professores-em-juiz-de-fora",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:45:06.525089+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:41.076109+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:49.310066+00:00",
+    "consulta_documental_em": "2026-11-10T21:49:00.529142+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/2012/11/09/ufjf-abre-2-periodo-de-inscricoes-em-concurso-publico-para-professores-em-juiz-de-fora/",
-    "documento_sha256": "ad57ea04802a5bac4d69f3a0b1fd3eef71e2a854ca21738e32c6ebcdb4445a27",
+    "documento_sha256": "2cde10bbd7b75691b3eaa6b11c2b92187f2f9278cbe505020aafbafc1358f2cd",
     "indicios_documentais": {
       "graduacao": [],
       "doutorado": [],
@@ -11954,16 +12018,16 @@
     "url": "https://www2.ufjf.br/concursos/2012/11/09/ufjf-abre-vagas-em-concursos-publicos-para-professores-em-juiz-de-fora",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:45:06.525089+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:41.076109+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:49.571529+00:00",
+    "consulta_documental_em": "2026-11-10T21:49:00.650333+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/2012/11/09/ufjf-abre-vagas-em-concursos-publicos-para-professores-em-juiz-de-fora/",
-    "documento_sha256": "2ae4c7b21e41940097ef3bc410d4ce59deb2f600bac5e0c5e09979a3d531fdfa",
+    "documento_sha256": "5d859093c28abe96724c982c41e3f356d3b427656325a69af60995e6eb4e2d32",
     "indicios_documentais": {
       "graduacao": [],
       "doutorado": [],
@@ -12021,16 +12085,16 @@
     "url": "https://www2.ufjf.br/concursos/2012/06/19/concurso-para-professores-na-ufjf-abre-2-periodo-de-inscricao",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:45:06.525089+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:41.076109+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:50.059157+00:00",
+    "consulta_documental_em": "2026-11-10T21:49:00.784080+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/2012/06/19/concurso-para-professores-na-ufjf-abre-2-periodo-de-inscricao/",
-    "documento_sha256": "05377741fc1bbf740bd84a586647b16f5ddb1d40633d8796a57d6506f1cffcee",
+    "documento_sha256": "7a0b2d8132b2449538bc9e57b5e88e76b84d5f586699a565bb265863052234b2",
     "indicios_documentais": {
       "graduacao": [],
       "doutorado": [],
@@ -12090,16 +12154,16 @@
     "url": "https://www2.ufjf.br/concursos/2012/05/15/ufjf-abre-vagas-em-concurso-publico-para-professores-para-juiz-de-fora-e-governador-valadares",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:45:06.525089+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:41.076109+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:50.197422+00:00",
+    "consulta_documental_em": "2026-11-10T21:49:00.852373+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/2012/05/15/ufjf-abre-vagas-em-concurso-publico-para-professores-para-juiz-de-fora-e-governador-valadares/",
-    "documento_sha256": "9c91e58b9e63a1d3b00babb57c2a34bba4290a09c0a7003281d3b3b952d9897d",
+    "documento_sha256": "b9da316534fd0c392acd120c5c7de331bf1bf588753062664f679bba219a7b91",
     "indicios_documentais": {
       "graduacao": [],
       "doutorado": [],
@@ -12157,16 +12221,16 @@
     "url": "https://www2.ufjf.br/concursos/2011/05/25/novo-edital-18",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-10T21:45:06.525089+00:00",
+    "ultima_deteccao": "2026-11-10T21:48:41.076109+00:00",
     "categoria": "Professor substituto",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-10T21:45:50.681693+00:00",
+    "consulta_documental_em": "2026-11-10T21:49:01.375532+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/2011/05/25/novo-edital-18/",
-    "documento_sha256": "a9acb11062135c312fe125e6a3069c87caa207a2884b1d926d34b61ec3d07ae2",
+    "documento_sha256": "1b511cb79a1b0624ebb36bef6333f27d0a7de1f9810a8ab2138f288c69d32f7c",
     "indicios_documentais": {
       "graduacao": [
         "Para as vagas do Departamento de Engenharia, o grau de escolaridade exigido é de graduação"
@@ -12235,9 +12299,9 @@
     "data_coleta": "2026-11-10",
     "categoria": "Professor substituto",
     "modalidade": "Presencial",
-    "consulta_documental_em": "2026-11-10T21:45:50.740183+00:00",
+    "consulta_documental_em": "2026-11-10T21:49:01.668795+00:00",
     "url_documento": "https://phpu.unifesp.br/concurso/inscricao/editais/edital755-2026.htm",
-    "documento_sha256": "81104bb936f3f7a12d3f1f06fbe1e3d59d88c641514d49b3265a8188f76442b2",
+    "documento_sha256": "cd64e71c01f2d81d8417ef167918c49cc767f502da420a789d060a72ca3f2069",
     "indicios_documentais": {
       "graduacao": [
         "Graduado na �rea de Fisioterapia",
@@ -12279,37 +12343,45 @@
     "resultado_documental": "Indícios extraídos; elegibilidade, anexos e retificações exigem revisão",
     "verificacao": {
       "graduacao": {
-        "valor": "Não informado",
-        "evidencia": ""
+        "valor": "Fisioterapia (item 3.1)",
+        "fonte": "https://phpu.unifesp.br/concurso/inscricao/editais/edital755-2026.htm"
       },
       "doutorado": {
-        "valor": "Não informado",
-        "evidencia": ""
+        "valor": "Exige mestrado em Ciências da Saúde; doutorado não substitui automaticamente o requisito (3.1)",
+        "fonte": "https://phpu.unifesp.br/concurso/inscricao/editais/edital755-2026.htm"
       },
       "idioma": {
-        "valor": "Não informado",
-        "evidencia": ""
+        "valor": "Não há requisito linguístico específico identificado; edital e provas em português, confirmar com a comissão",
+        "fonte": "https://phpu.unifesp.br/concurso/inscricao/editais/edital755-2026.htm"
       },
       "nacionalidade": {
-        "valor": "Não informado",
-        "evidencia": ""
+        "valor": "Brasileira ou portuguesa com igualdade; estrangeiros: visto permanente (17.2-17.3)",
+        "fonte": "https://phpu.unifesp.br/concurso/inscricao/editais/edital755-2026.htm"
       },
       "residencia": {
-        "valor": "Não informado",
-        "evidencia": ""
+        "valor": "Lotação Campus Baixada Santista; disponibilidade para atividades presenciais (20.9)",
+        "fonte": "https://phpu.unifesp.br/concurso/inscricao/editais/edital755-2026.htm"
       },
       "autorizacao_profissional": {
-        "valor": "Não informado",
-        "evidencia": ""
+        "valor": "Não há registro de conselho explicitado no edital consultado; confirmar na contratação",
+        "fonte": "https://phpu.unifesp.br/concurso/inscricao/editais/edital755-2026.htm"
       },
       "trabalho_do_brasil": {
-        "valor": "Não informado",
-        "evidencia": ""
+        "valor": "Lotação no Brasil; não é vaga remota. Inscrição online não significa trabalho online",
+        "fonte": "https://phpu.unifesp.br/concurso/inscricao/editais/edital755-2026.htm"
+      },
+      "prazo": {
+        "valor": "2026-11-12",
+        "fonte": "https://phpu.unifesp.br/concurso/inscricao/editais/edital755-2026.htm"
+      },
+      "remuneracao": {
+        "valor": "R$ 6.157,29 brutos/mês + R$ 1.192,00 de alimentação; 40h; até 6 meses",
+        "fonte": "https://phpu.unifesp.br/concurso/inscricao/editais/edital755-2026.htm"
       }
     },
-    "status": "Revisão necessária",
+    "status": "Anúncio verificado",
     "triagem": "Candidato",
-    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
+    "motivo_triagem": "Edital remunerado com prazo e requisitos conferidos. Elegibilidade pessoal é condicional, não certificada.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -12363,11 +12435,13 @@
       "documentos_revisados": [
         "https://phpu.unifesp.br/concurso/inscricao/editais/edital755-2026.htm"
       ],
-      "documento_sha256": "7ce6df60b6d5140c36c7cf564aa83f2023aa0ec186277e469f9a755cba9f8345",
-      "desatualizada": true
+      "documento_sha256": "cd64e71c01f2d81d8417ef167918c49cc767f502da420a789d060a72ca3f2069"
     },
-    "prazo": "",
-    "remuneracao": "Documento alterado: rever"
+    "prazo": "2026-11-12",
+    "remuneracao": "R$ 6.157,29 brutos/mês + R$ 1.192,00 de alimentação; 40h; até 6 meses",
+    "ultima_deteccao": "2026-11-10",
+    "url_oficial": "https://phpu.unifesp.br/concurso/inscricao/editais/edital755-2026.htm",
+    "elegibilidade": "Condicionada: comprovar mestrado em Ciências da Saúde, domínio da subárea e demais requisitos; conferir retificações no portal de concursos."
   },
   {
     "id": "curado-ufcspa-118-2026",
@@ -12384,8 +12458,8 @@
       "https://ufcspa.edu.br/documentos/ANEXOS_118.pdf",
       "https://ufcspa.edu.br/documentos/Retificacao_27_de_outubro_1.pdf"
     ],
-    "consulta_documental_em": "2026-11-10T21:45:51.011040+00:00",
-    "resultado_documental": "Falha: <urlopen error timed out>",
+    "consulta_documental_em": "2026-11-10T21:49:01.748690+00:00",
+    "resultado_documental": "Indícios extraídos; elegibilidade, anexos e retificações exigem revisão",
     "verificacao": {
       "graduacao": {
         "valor": "Fisioterapia Comunitária: bacharelado em Fisioterapia; Fisiologia Humana: não há graduação específica no quadro (item 2)",
@@ -12483,16 +12557,60 @@
         "https://ufcspa.edu.br/documentos/ANEXOS_118.pdf",
         "https://ufcspa.edu.br/documentos/Retificacao_27_de_outubro_1.pdf"
       ],
-      "documento_sha256": "a9adb2d0e820b7b8286b5bc818477877f3ccbc2fd8f18cb5bdf7fdc3000646ed",
+      "documento_sha256": "c459ddb8fddf41322b997eec9b5bb2ac8fd91621f6f9670862e09e6b89c32275",
       "anexos_sha256": {
-        "https://ufcspa.edu.br/documentos/EDITAL_118.pdf": "c6b0b7f0031cc4e58c0837af837306dd2131d96e65dda1261e2e36245e579d8d",
-        "https://ufcspa.edu.br/documentos/ANEXOS_118.pdf": "21bbac2fd5c9a0d4d3912f88d296acdac4f698443b6f84b9974692e2aa6f1b2b",
-        "https://ufcspa.edu.br/documentos/Retificacao_27_de_outubro_1.pdf": "a763a8a7312d136829af5b2ddced8d46c45050a49c6b1ee91b7cd330fcfc3de2"
+        "https://ufcspa.edu.br/documentos/EDITAL_118.pdf": "0f79e9176d4011b0e4322545783cf0283bff698fad9b02bfaa169440877d412a",
+        "https://ufcspa.edu.br/documentos/ANEXOS_118.pdf": "924455d9bd70640a4ed2c018bf45fa4b9555c01466710d6b577f5d3eafc348e7",
+        "https://ufcspa.edu.br/documentos/Retificacao_27_de_outubro_1.pdf": "c108696f02079732a475534a1902e45271eac05a64d5e6e24b7c95e8cabd14f0"
       }
     },
     "prazo": "2026-11-17",
     "remuneracao": "R$ 13.753,96 brutos/mês; 40h com dedicação exclusiva; 1 vaga por área",
     "url_oficial": "https://ufcspa.edu.br/trabalhe-na-ufcspa/docentes/7872-edital-118-2026-progesp",
-    "elegibilidade": "Condicionada: a comissão precisa confirmar a correspondência formal do diploma de Ciências Cardiovasculares às áreas aceitas. Fisioterapia exige CREFITO ativo. Considerar dedicação exclusiva."
+    "elegibilidade": "Condicionada: a comissão precisa confirmar a correspondência formal do diploma de Ciências Cardiovasculares às áreas aceitas. Fisioterapia exige CREFITO ativo. Considerar dedicação exclusiva.",
+    "ultima_deteccao": "2026-11-10",
+    "url_documento": "https://ufcspa.edu.br/trabalhe-na-ufcspa/docentes/7872-edital-118-2026-progesp",
+    "documento_sha256": "c459ddb8fddf41322b997eec9b5bb2ac8fd91621f6f9670862e09e6b89c32275",
+    "indicios_documentais": {
+      "graduacao": [
+        "Introdução Conteúdo da carta de serviços Informações gerais Direcionamento estratégico Áreas de atuação acadêmica Horários de funcionamento Canais de comunicação Estrutura organizacional Formas de ingresso Cursos de graduação Programas de pós-graduação",
+        "Graduação Especialização Mestrado e doutorado Residência Médica Residências em Área Profissional da Saúde Educação a distância Pós-doutorado Mobilidade nacional Estudante internacional",
+        "Na graduação Na pós-graduação Na extensão Assuntos estudantis Educação a distância Biblioteca Calendário acadêmico Saúde e bem-estar Laboratórios Institucionais Mostras UFCSPA"
+      ],
+      "doutorado": [
+        "Graduação Especialização Mestrado e doutorado Residência Médica Residências em Área Profissional da Saúde Educação a distância Pós-doutorado Mobilidade nacional Estudante internacional"
+      ],
+      "idioma": [
+        "English"
+      ],
+      "nacionalidade": [],
+      "residencia": [
+        "Graduação Especialização Mestrado e doutorado Residência Médica Residências em Área Profissional da Saúde Educação a distância Pós-doutorado Mobilidade nacional Estudante internacional"
+      ],
+      "autorizacao_profissional": [],
+      "trabalho_do_brasil": [
+        "Portal do Governo Brasileiro",
+        "90050-170 Porto Alegre, RS, Brasil"
+      ],
+      "prazo": [
+        "Divulgação dos candidatos isentos de taxa de inscrição",
+        "Inscrições homologadas - Resultado Preliminar",
+        "Inscrições homologadas - Resultado Final"
+      ],
+      "remuneracao": []
+    },
+    "anexos_sha256": {
+      "https://ufcspa.edu.br/documentos/EDITAL_118.pdf": "0f79e9176d4011b0e4322545783cf0283bff698fad9b02bfaa169440877d412a"
+    },
+    "falhas_anexos": [
+      {
+        "url": "https://ufcspa.edu.br/documentos/ANEXOS_118.pdf",
+        "erro": "<urlopen error timed out>"
+      },
+      {
+        "url": "https://ufcspa.edu.br/documentos/Retificacao_27_de_outubro_1.pdf",
+        "erro": "<urlopen error timed out>"
+      }
+    ]
   }
 ]
