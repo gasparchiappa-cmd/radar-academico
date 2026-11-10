@@ -37,20 +37,13 @@ jobs:
             git commit -m "Atualização automática de vagas e auditoria das fontes"
             git push
           fi
-      - name: Preparar site sem arquivos de desenvolvimento
-        run: |
-          mkdir -p _site
-          cp index.html vagas.json monitoramento.json instituicoes.json _site/
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: _site
   publicar:
     needs: atualizar
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+    timeout-minutes: 10
     steps:
-      - name: Publicar GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - uses: actions/checkout@v4
+      - name: Publicar e verificar Pages existente
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/publicar_pages.py
