@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-10T15:13:00.325125+00:00",
+  "atualizado_em": "2026-11-10T18:34:36.142962+00:00",
   "instituicoes": [
     {
       "id": "1",
@@ -8,7 +8,7 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-10T15:12:06.021461+00:00",
+      "ultima_consulta": "2026-11-10T18:33:19.085568+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 25,
       "url_final": "https://ucpel.edu.br/editais/tags/selecao-docente",
@@ -21,7 +21,7 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-10T15:12:06.022194+00:00",
+      "ultima_consulta": "2026-11-10T18:33:19.086298+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 1,
       "url_final": "https://www2.faccat.br/portal/?q=node/4105",
@@ -34,7 +34,7 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-10T15:12:06.022717+00:00",
+      "ultima_consulta": "2026-11-10T18:33:19.086822+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 1,
       "url_final": "https://cesuca.gupy.io/",
@@ -47,7 +47,7 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-10T15:12:06.023310+00:00",
+      "ultima_consulta": "2026-11-10T18:33:19.087397+00:00",
       "status": "Consulta parcial: nenhum link acadêmico extraído",
       "candidatos_encontrados": 0,
       "url_final": "https://www.ucs.br/site/trabalhe-na-ucs/",
@@ -60,7 +60,7 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-10T15:12:06.024188+00:00",
+      "ultima_consulta": "2026-11-10T18:33:19.088267+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 3,
       "url_final": "https://portal.pucrs.br/sobre-a-pucrs/trabalhe-conosco/",
@@ -73,7 +73,7 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-10T15:12:06.027801+00:00",
+      "ultima_consulta": "2026-11-10T18:33:19.091298+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 4,
       "url_final": "https://unisinos.gupy.io/",
@@ -86,7 +86,7 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-10T15:12:06.254631+00:00",
+      "ultima_consulta": "2026-11-10T18:33:19.769492+00:00",
       "status": "Falha",
       "candidatos_encontrados": 0,
       "erro": "HTTP Error 403: Forbidden"
@@ -98,7 +98,7 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-10T15:12:06.363452+00:00",
+      "ultima_consulta": "2026-11-10T18:33:20.167369+00:00",
       "status": "Consulta parcial: nenhum link acadêmico extraído",
       "candidatos_encontrados": 0,
       "url_final": "https://www.ulbra.br/carreiras/aelbra",
@@ -111,7 +111,7 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-10T15:12:07.137780+00:00",
+      "ultima_consulta": "2026-11-10T18:33:20.466556+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 1,
       "url_final": "https://www.upf.br/a-universidade/procad/selecaodocente",
@@ -124,7 +124,7 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-10T15:12:07.396645+00:00",
+      "ultima_consulta": "2026-11-10T18:33:20.766144+00:00",
       "status": "Consulta parcial: nenhum link acadêmico extraído",
       "candidatos_encontrados": 0,
       "url_final": "https://reitoria.uri.br/pt",
@@ -137,10 +137,10 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-10T15:12:07.857255+00:00",
+      "ultima_consulta": "2026-11-10T18:33:21.089429+00:00",
       "status": "Falha",
       "candidatos_encontrados": 0,
-      "erro": "<urlopen error [Errno 104] Connection reset by peer>"
+      "erro": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "id": "12",
@@ -149,11 +149,11 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-10T15:12:08.380151+00:00",
+      "ultima_consulta": "2026-11-10T18:33:22.409237+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 11,
       "url_final": "https://www.ufsm.br/pro-reitorias/progep/busca?area=editais&order=DESC&orderby=modified&q=&sites%5B%5D=341",
-      "resumo_sha256": "2d1dee8f94e1f1981bc14dbe18214e82511d90386b04b15d9d0d346b4c267ff4"
+      "resumo_sha256": "06e16fb8c25e5f9a478798adadd05e582e81889828b11c4d72b8810cce38d979"
     },
     {
       "id": "13",
@@ -162,7 +162,7 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-10T15:12:08.649248+00:00",
+      "ultima_consulta": "2026-11-10T18:33:23.931700+00:00",
       "status": "Consulta parcial: nenhum link acadêmico extraído",
       "candidatos_encontrados": 0,
       "url_final": "https://concursos.ufpel.edu.br/",
@@ -175,7 +175,7 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-10T15:12:09.190282+00:00",
+      "ultima_consulta": "2026-11-10T18:33:25.069855+00:00",
       "status": "Consulta parcial: nenhum link acadêmico extraído",
       "candidatos_encontrados": 0,
       "url_final": "https://progep.furg.br/",
@@ -188,11 +188,11 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-10T15:12:09.634294+00:00",
+      "ultima_consulta": "2026-11-10T18:33:25.225493+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 7,
       "url_final": "https://guri.unipampa.edu.br/psa/processos/",
-      "resumo_sha256": "1c77a8f280f6bbefd0eadf7bcfb2afc7c808f7dfd583f28ccf17018848bb1839"
+      "resumo_sha256": "0cb343806bc2c2e876569517589ec40b92fb00b0dec7f335020496e3ac97a2aa"
     },
     {
       "id": "16",
@@ -201,10 +201,10 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-10T15:12:10.975342+00:00",
+      "ultima_consulta": "2026-11-10T18:33:28.294729+00:00",
       "status": "Falha",
       "candidatos_encontrados": 0,
-      "erro": "<urlopen error [Errno 111] Connection refused>"
+      "erro": "<urlopen error timed out>"
     },
     {
       "id": "17",
@@ -213,7 +213,7 @@
       "pais": "Brasil",
       "regiao": "Expansão",
       "enabled": true,
-      "ultima_consulta": "2026-11-10T15:12:11.961554+00:00",
+      "ultima_consulta": "2026-11-10T18:33:29.006715+00:00",
       "status": "Falha",
       "candidatos_encontrados": 0,
       "erro": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.concursos.unb.br'. (_ssl.c:1011)>"
@@ -225,7 +225,7 @@
       "pais": "Brasil",
       "regiao": "Expansão",
       "enabled": true,
-      "ultima_consulta": "2026-11-10T15:12:12.600669+00:00",
+      "ultima_consulta": "2026-11-10T18:33:29.340065+00:00",
       "status": "Consulta parcial: nenhum link acadêmico extraído",
       "candidatos_encontrados": 0,
       "url_final": "https://uspdigital.usp.br/gr/admissao",
@@ -238,11 +238,11 @@
       "pais": "Brasil",
       "regiao": "Expansão",
       "enabled": true,
-      "ultima_consulta": "2026-11-10T15:12:12.628546+00:00",
+      "ultima_consulta": "2026-11-10T18:33:29.883674+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 5,
       "url_final": "https://www.sg.unicamp.br/concursos",
-      "resumo_sha256": "5864d800f6ff0c064da4f56996921f1324854a7717618784e2f5747a28d17119"
+      "resumo_sha256": "9c659a41053d062108d2b1c55efc5a859b6bc7450193fa794cc1e3412f2e7885"
     },
     {
       "id": "20",
@@ -251,7 +251,7 @@
       "pais": "Brasil",
       "regiao": "Expansão",
       "enabled": true,
-      "ultima_consulta": "2026-11-10T15:12:13.485147+00:00",
+      "ultima_consulta": "2026-11-10T18:33:31.061841+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 9,
       "url_final": "https://www.ufmg.br/prorh/inform/concursos-e-processos-seletivos/",
@@ -264,7 +264,7 @@
       "pais": "Portugal",
       "regiao": "Expansão",
       "enabled": true,
-      "ultima_consulta": "2026-11-10T15:12:13.980880+00:00",
+      "ultima_consulta": "2026-11-10T18:33:33.559867+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 25,
       "url_final": "https://www.ulisboa.pt/info/concursos-para-docentes",
@@ -277,7 +277,7 @@
       "pais": "Portugal",
       "regiao": "Expansão",
       "enabled": true,
-      "ultima_consulta": "2026-11-10T15:12:16.714378+00:00",
+      "ultima_consulta": "2026-11-10T18:33:35.577146+00:00",
       "status": "Falha",
       "candidatos_encontrados": 0,
       "erro": "HTTP Error 403: Forbidden"
@@ -289,7 +289,7 @@
       "pais": "Reino Unido",
       "regiao": "Expansão",
       "enabled": true,
-      "ultima_consulta": "2026-11-10T15:12:17.034681+00:00",
+      "ultima_consulta": "2026-11-10T18:33:35.946622+00:00",
       "status": "Consulta parcial: nenhum link acadêmico extraído",
       "candidatos_encontrados": 0,
       "url_final": "https://jobs.nottingham.ac.uk/vacancies.aspx",
@@ -302,7 +302,7 @@
       "pais": "Austrália",
       "regiao": "Expansão",
       "enabled": true,
-      "ultima_consulta": "2026-11-10T15:12:17.258403+00:00",
+      "ultima_consulta": "2026-11-10T18:33:37.959910+00:00",
       "status": "Falha",
       "candidatos_encontrados": 0,
       "erro": "<urlopen error [Errno -2] Name or service not known>"
@@ -322,7 +322,7 @@
     {
       "consulta": "seleção pesquisador reabilitação cardiovascular universidade",
       "erro": null,
-      "resultados": 13
+      "resultados": 12
     },
     {
       "consulta": "concurso docente fisiologia do exercício universidade",
@@ -347,7 +347,7 @@
     {
       "consulta": "concurso professor fisioterapia universidade Portugal",
       "erro": null,
-      "resultados": 8
+      "resultados": 9
     },
     {
       "consulta": "bolsa investigação reabilitação cardiovascular Portugal",
