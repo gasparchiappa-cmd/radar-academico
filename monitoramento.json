@@ -1,0 +1,379 @@
+{
+  "atualizado_em": "2026-11-10T14:53:55.250638+00:00",
+  "instituicoes": [
+    {
+      "id": "1",
+      "nome": "UCPel",
+      "url": "https://ucpel.edu.br/editais/tags/selecao-docente",
+      "pais": "Brasil",
+      "regiao": "RS",
+      "enabled": true,
+      "ultima_consulta": "2026-11-10T14:50:15.427047+00:00",
+      "status": "Consultada: candidatos a revisar",
+      "candidatos_encontrados": 25,
+      "url_final": "https://ucpel.edu.br/editais/tags/selecao-docente",
+      "resumo_sha256": "5d3a4437536ec7eb8dfa6419baad6222da9fadad68a2c13e2df149dc34cc7127"
+    },
+    {
+      "id": "2",
+      "nome": "FACCAT",
+      "url": "https://www2.faccat.br/portal/?q=node/4105",
+      "pais": "Brasil",
+      "regiao": "RS",
+      "enabled": true,
+      "ultima_consulta": "2026-11-10T14:50:15.427868+00:00",
+      "status": "Consultada: candidatos a revisar",
+      "candidatos_encontrados": 1,
+      "url_final": "https://www2.faccat.br/portal/?q=node/4105",
+      "resumo_sha256": "f888dfa9c7fdbcfd119e6eee6aee7db2652f4cf742a99ea50b9cd4d75a988fb8"
+    },
+    {
+      "id": "3",
+      "nome": "CESUCA",
+      "url": "https://cesuca.gupy.io/",
+      "pais": "Brasil",
+      "regiao": "RS",
+      "enabled": true,
+      "ultima_consulta": "2026-11-10T14:50:15.428323+00:00",
+      "status": "Consultada: candidatos a revisar",
+      "candidatos_encontrados": 1,
+      "url_final": "https://cesuca.gupy.io/",
+      "resumo_sha256": "4cbac0ed04831d627d47a0d766957ac2a9e972358da04064052ef6c00c5dfd03"
+    },
+    {
+      "id": "4",
+      "nome": "UCS",
+      "url": "https://www.ucs.br/site/trabalhe-na-ucs/",
+      "pais": "Brasil",
+      "regiao": "RS",
+      "enabled": true,
+      "ultima_consulta": "2026-11-10T14:50:15.428847+00:00",
+      "status": "Consulta parcial: nenhum link acadêmico extraído",
+      "candidatos_encontrados": 0,
+      "url_final": "https://www.ucs.br/site/trabalhe-na-ucs/",
+      "resumo_sha256": "fd842da367d502021f309352eda90f6c0d726c84d9106b339f40bd06bb3f0b56"
+    },
+    {
+      "id": "5",
+      "nome": "PUCRS",
+      "url": "https://portal.pucrs.br/sobre-a-pucrs/trabalhe-conosco/",
+      "pais": "Brasil",
+      "regiao": "RS",
+      "enabled": true,
+      "ultima_consulta": "2026-11-10T14:50:15.429415+00:00",
+      "status": "Consultada: candidatos a revisar",
+      "candidatos_encontrados": 3,
+      "url_final": "https://portal.pucrs.br/sobre-a-pucrs/trabalhe-conosco/",
+      "resumo_sha256": "7e9b069d1ce065482d8c069f6d303d061baf03ddf04438c37012b3e7dd22c9b0"
+    },
+    {
+      "id": "6",
+      "nome": "Unisinos",
+      "url": "https://unisinos.gupy.io/",
+      "pais": "Brasil",
+      "regiao": "RS",
+      "enabled": true,
+      "ultima_consulta": "2026-11-10T14:50:15.432170+00:00",
+      "status": "Consultada: candidatos a revisar",
+      "candidatos_encontrados": 4,
+      "url_final": "https://unisinos.gupy.io/",
+      "resumo_sha256": "b44d3c0f869b91f14ee6d87f90dd4025d83eba286af0fbb1a40c68ad337f74f8"
+    },
+    {
+      "id": "7",
+      "nome": "Feevale",
+      "url": "https://editais.feevale.br/editais/",
+      "pais": "Brasil",
+      "regiao": "RS",
+      "enabled": true,
+      "ultima_consulta": "2026-11-10T14:50:20.126028+00:00",
+      "status": "Falha",
+      "candidatos_encontrados": 0,
+      "erro": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "8",
+      "nome": "Ulbra",
+      "url": "https://www.ulbra.br/trabalheconosco",
+      "pais": "Brasil",
+      "regiao": "RS",
+      "enabled": true,
+      "ultima_consulta": "2026-11-10T14:50:20.503228+00:00",
+      "status": "Consulta parcial: nenhum link acadêmico extraído",
+      "candidatos_encontrados": 0,
+      "url_final": "https://www.ulbra.br/carreiras/aelbra",
+      "resumo_sha256": "0e6fa02b0a7e840687e3cd964ae1aba5e435257a10161c89afa1bb24f9c4babe"
+    },
+    {
+      "id": "9",
+      "nome": "UPF",
+      "url": "https://www.upf.br/a-universidade/procad/selecaodocente",
+      "pais": "Brasil",
+      "regiao": "RS",
+      "enabled": true,
+      "ultima_consulta": "2026-11-10T14:50:25.908041+00:00",
+      "status": "Consultada: candidatos a revisar",
+      "candidatos_encontrados": 1,
+      "url_final": "https://www.upf.br/a-universidade/procad/selecaodocente",
+      "resumo_sha256": "f263e699f5a185bd37df0868537f70e526281096e8059d72a6c755ce728468de"
+    },
+    {
+      "id": "10",
+      "nome": "URI",
+      "url": "https://reitoria.uri.br/pt",
+      "pais": "Brasil",
+      "regiao": "RS",
+      "enabled": true,
+      "ultima_consulta": "2026-11-10T14:50:26.088931+00:00",
+      "status": "Consulta parcial: nenhum link acadêmico extraído",
+      "candidatos_encontrados": 0,
+      "url_final": "https://reitoria.uri.br/pt",
+      "resumo_sha256": "8e5cac9cd8ac4b219537e1dec89f0bc00922e92c734a867f65c7f372717861cb"
+    },
+    {
+      "id": "11",
+      "nome": "UFRGS",
+      "url": "https://www.ufrgs.br/progesp/",
+      "pais": "Brasil",
+      "regiao": "RS",
+      "enabled": true,
+      "ultima_consulta": "2026-11-10T14:50:31.385806+00:00",
+      "status": "Consulta parcial: nenhum link acadêmico extraído",
+      "candidatos_encontrados": 0,
+      "url_final": "https://www.ufrgs.br/progesp/",
+      "resumo_sha256": "35f0d71450b688de2114ee2c56a1b4defff8d2d22b9779d119f78368ca301036"
+    },
+    {
+      "id": "12",
+      "nome": "UFSM",
+      "url": "https://www.ufsm.br/pro-reitorias/progep/busca?area=editais&order=DESC&orderby=modified&q=&sites%5B%5D=341",
+      "pais": "Brasil",
+      "regiao": "RS",
+      "enabled": true,
+      "ultima_consulta": "2026-11-10T14:50:35.053760+00:00",
+      "status": "Consultada: candidatos a revisar",
+      "candidatos_encontrados": 11,
+      "url_final": "https://www.ufsm.br/pro-reitorias/progep/busca?area=editais&order=DESC&orderby=modified&q=&sites%5B%5D=341",
+      "resumo_sha256": "881c47fa3d80ba3b575d30bbe24095e99ecab389da4cac539ab150bfc1cb69ff"
+    },
+    {
+      "id": "13",
+      "nome": "UFPel",
+      "url": "https://concursos.ufpel.edu.br/",
+      "pais": "Brasil",
+      "regiao": "RS",
+      "enabled": true,
+      "ultima_consulta": "2026-11-10T14:50:35.930459+00:00",
+      "status": "Consulta parcial: nenhum link acadêmico extraído",
+      "candidatos_encontrados": 0,
+      "url_final": "https://concursos.ufpel.edu.br/",
+      "resumo_sha256": "9ef2da0e98af481c5e15621548569be6a1dc3124f6eead770b292f013ef652b4"
+    },
+    {
+      "id": "14",
+      "nome": "FURG",
+      "url": "https://progep.furg.br/",
+      "pais": "Brasil",
+      "regiao": "RS",
+      "enabled": true,
+      "ultima_consulta": "2026-11-10T14:50:40.211830+00:00",
+      "status": "Consulta parcial: nenhum link acadêmico extraído",
+      "candidatos_encontrados": 0,
+      "url_final": "https://progep.furg.br/",
+      "resumo_sha256": "6b2a20cac778d229ff4b0d4bc2f79d4b5a77929d49675b829fdc9a3b8ce6cb82"
+    },
+    {
+      "id": "15",
+      "nome": "Unipampa",
+      "url": "https://guri.unipampa.edu.br/psa/processos/",
+      "pais": "Brasil",
+      "regiao": "RS",
+      "enabled": true,
+      "ultima_consulta": "2026-11-10T14:50:40.228931+00:00",
+      "status": "Consultada: candidatos a revisar",
+      "candidatos_encontrados": 7,
+      "url_final": "https://guri.unipampa.edu.br/psa/processos/",
+      "resumo_sha256": "60d95dddabe6d3352cd33f557ac643e95d595ba1cb4ade06bc220bee4fcb9f9f"
+    },
+    {
+      "id": "16",
+      "nome": "UERGS",
+      "url": "https://uergs.edu.br/concursos-publicos-e-processos-seletivos-funcionais",
+      "pais": "Brasil",
+      "regiao": "RS",
+      "enabled": true,
+      "ultima_consulta": "2026-11-10T14:50:43.151532+00:00",
+      "status": "Consultada: candidatos a revisar",
+      "candidatos_encontrados": 1,
+      "url_final": "https://uergs.edu.br/concursos-publicos-e-processos-seletivos-funcionais",
+      "resumo_sha256": "32544677fd580a1a1440622902449c59927c76b4738799e5735fd571a3c00583"
+    },
+    {
+      "id": "17",
+      "nome": "UnB",
+      "url": "https://www.concursos.unb.br/",
+      "pais": "Brasil",
+      "regiao": "Expansão",
+      "enabled": true,
+      "ultima_consulta": "2026-11-10T14:50:45.986443+00:00",
+      "status": "Falha",
+      "candidatos_encontrados": 0,
+      "erro": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "id": "18",
+      "nome": "USP",
+      "url": "https://uspdigital.usp.br/gr/admissao",
+      "pais": "Brasil",
+      "regiao": "Expansão",
+      "enabled": true,
+      "ultima_consulta": "2026-11-10T14:50:51.200499+00:00",
+      "status": "Consulta parcial: nenhum link acadêmico extraído",
+      "candidatos_encontrados": 0,
+      "url_final": "https://uspdigital.usp.br/gr/admissao",
+      "resumo_sha256": "ffca0d9ae3a9f3154b9ff188e181928f42f269345bdd2a07e320abecdaab55d3"
+    },
+    {
+      "id": "19",
+      "nome": "Unicamp",
+      "url": "https://www.sg.unicamp.br/concursos",
+      "pais": "Brasil",
+      "regiao": "Expansão",
+      "enabled": true,
+      "ultima_consulta": "2026-11-10T14:50:56.923545+00:00",
+      "status": "Consultada: candidatos a revisar",
+      "candidatos_encontrados": 5,
+      "url_final": "https://www.sg.unicamp.br/concursos",
+      "resumo_sha256": "725026848c80671c1d5e18ae2161b8ba2bf48e61d9f5660c6100b1958aa13a1a"
+    },
+    {
+      "id": "20",
+      "nome": "UFMG",
+      "url": "https://www.ufmg.br/prorh/concursos/",
+      "pais": "Brasil",
+      "regiao": "Expansão",
+      "enabled": true,
+      "ultima_consulta": "2026-11-10T14:50:58.809257+00:00",
+      "status": "Consultada: candidatos a revisar",
+      "candidatos_encontrados": 9,
+      "url_final": "https://www.ufmg.br/prorh/inform/concursos-e-processos-seletivos/",
+      "resumo_sha256": "2c3c6087452a827ad0ad249f66981897351d10a21114bae60d430ba1c8203b31"
+    },
+    {
+      "id": "21",
+      "nome": "Universidade de Lisboa",
+      "url": "https://www.ulisboa.pt/info/concursos-para-docentes",
+      "pais": "Portugal",
+      "regiao": "Expansão",
+      "enabled": true,
+      "ultima_consulta": "2026-11-10T14:50:59.569798+00:00",
+      "status": "Consultada: candidatos a revisar",
+      "candidatos_encontrados": 25,
+      "url_final": "https://www.ulisboa.pt/info/concursos-para-docentes",
+      "resumo_sha256": "7ec17dbac636a39f405842c2ca084f38b0ecf58eb0d10a74e10d89eaaae9c2d8"
+    },
+    {
+      "id": "22",
+      "nome": "Universidade do Porto",
+      "url": "https://sigarra.up.pt/up/pt/web_base.gera_pagina?p_pagina=concursos",
+      "pais": "Portugal",
+      "regiao": "Expansão",
+      "enabled": true,
+      "ultima_consulta": "2026-11-10T14:51:03.595213+00:00",
+      "status": "Falha",
+      "candidatos_encontrados": 0,
+      "erro": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "23",
+      "nome": "University of Nottingham",
+      "url": "https://jobs.nottingham.ac.uk/vacancies.aspx",
+      "pais": "Reino Unido",
+      "regiao": "Expansão",
+      "enabled": true,
+      "ultima_consulta": "2026-11-10T14:51:07.401915+00:00",
+      "status": "Consulta parcial: nenhum link acadêmico extraído",
+      "candidatos_encontrados": 0,
+      "url_final": "https://jobs.nottingham.ac.uk/vacancies.aspx",
+      "resumo_sha256": "5b43d276c962d9e84e105aca3811da983d58d6badc2aa1df6123cd0cbec8b812"
+    },
+    {
+      "id": "24",
+      "nome": "University of Melbourne",
+      "url": "https://jobs.unimelb.edu.au/",
+      "pais": "Austrália",
+      "regiao": "Expansão",
+      "enabled": true,
+      "ultima_consulta": "2026-11-10T14:51:09.154700+00:00",
+      "status": "Falha",
+      "candidatos_encontrados": 0,
+      "erro": "HTTP Error 503: Service Unavailable"
+    }
+  ],
+  "noticias": [
+    {
+      "consulta": "concurso professor fisioterapia universidade inscrições",
+      "erro": null,
+      "resultados": 21
+    },
+    {
+      "consulta": "edital professor visitante fisioterapia universidade",
+      "erro": null,
+      "resultados": 10
+    },
+    {
+      "consulta": "seleção pesquisador reabilitação cardiovascular universidade",
+      "erro": null,
+      "resultados": 13
+    },
+    {
+      "consulta": "concurso docente fisiologia do exercício universidade",
+      "erro": null,
+      "resultados": 10
+    },
+    {
+      "consulta": "professor fisioterapia convocatoria universidad",
+      "erro": null,
+      "resultados": 23
+    },
+    {
+      "consulta": "convocatoria investigador rehabilitación cardiovascular",
+      "erro": null,
+      "resultados": 0
+    },
+    {
+      "consulta": "plaza profesor fisioterapia universidad España",
+      "erro": null,
+      "resultados": 0
+    },
+    {
+      "consulta": "concurso professor fisioterapia universidade Portugal",
+      "erro": null,
+      "resultados": 9
+    },
+    {
+      "consulta": "bolsa investigação reabilitação cardiovascular Portugal",
+      "erro": null,
+      "resultados": 1
+    },
+    {
+      "consulta": "research fellowship physiotherapy rehabilitation university",
+      "erro": null,
+      "resultados": 0
+    },
+    {
+      "consulta": "professor fisioterapia EAD remoto online híbrido universidade contratação",
+      "erro": null,
+      "resultados": 0
+    },
+    {
+      "consulta": "remote online faculty physical therapy Brazil postdoctoral paid",
+      "erro": null,
+      "resultados": 0
+    }
+  ],
+  "total": 111,
+  "validadas": 0,
+  "encerradas": 0,
+  "falhas": 4
+}

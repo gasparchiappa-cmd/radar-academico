@@ -1,168 +1,180 @@
-
+"""Conservative discovery. Only documentary review can validate an opportunity."""
+import concurrent.futures as futures
+import hashlib
+import io
 import json
 import re
-import time
-import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+import unicodedata
+from datetime import datetime, date, timezone
+from html.parser import HTMLParser
 from pathlib import Path
-from urllib.parse import urlencode
+from urllib.parse import urljoin, urlsplit, urlunsplit, parse_qsl, urlencode
+from urllib.request import Request, urlopen
+from zoneinfo import ZoneInfo
+import noticias
 
-import requests
+ROOT = Path(__file__).resolve().parent.parent
+FIELDS = ['graduacao','doutorado','idioma','nacionalidade','residencia','autorizacao_profissional','trabalho_do_brasil']
 
-ARQUIVO = Path("vagas.json")
+def norm(s):
+    return ''.join(c for c in unicodedata.normalize('NFKD', str(s)).lower() if not unicodedata.combining(c))
 
-BUSCAS = [
-    "concurso professor fisioterapia universidade inscrições",
-    "edital professor visitante fisioterapia universidade",
-    "seleção pesquisador reabilitação cardiovascular universidade",
-    "concurso docente fisiologia do exercício universidade",
-    "professor fisioterapia convocatoria universidad",
-    "convocatoria investigador rehabilitación cardiovascular",
-    "plaza profesor fisioterapia universidad España",
-    "concurso professor fisioterapia universidade Portugal",
-    "bolsa investigação reabilitação cardiovascular Portugal",
-    "research fellowship physiotherapy rehabilitation university",
-]
+def canonical(url):
+    u=urlsplit(url)
+    return urlunsplit((u.scheme.lower(),u.netloc.lower(),u.path.rstrip('/') or '/',urlencode(sorted((k,v) for k,v in parse_qsl(u.query) if not k.startswith('utm_') and k not in ['jobBoardSource','trk','fbclid'])),''))
 
-TERMOS_OPORTUNIDADE = [
-    "concurso", "edital", "seleção", "selecao",
-    "inscrições", "inscricoes", "vaga", "vagas",
-    "professor visitante", "bolsa", "bolsas",
-    "convocatoria", "plaza", "plazas",
-    "oferta de empleo", "contratación",
-    "recruitment", "vacancy", "vacancies",
-    "fellowship", "postdoctoral", "hiring",
-]
+def load(name, default):
+    path=ROOT/name
+    return json.loads(path.read_text()) if path.exists() else default
 
-TERMOS_ACADEMICOS = [
-    "universidade", "universidad", "university",
-    "instituto", "institut", "faculdade",
-    "faculty", "research", "pesquisa",
-    "investigação", "investigacion",
-    "docente", "professor", "profesor",
-    "pesquisador", "investigador",
-]
+def write(name, obj):
+    path=ROOT/name; tmp=path.with_suffix('.tmp')
+    tmp.write_text(json.dumps(obj,ensure_ascii=False,indent=2)+'\n'); tmp.replace(path)
 
-TERMOS_AREAS = [
-    "fisioterapia", "physiotherapy",
-    "physical therapy", "rehabilitation",
-    "reabilitação", "rehabilitación",
-    "cardiologia", "cardiology",
-    "cardiovascular", "exercise physiology",
-    "fisiologia do exercício",
-    "fisiología del ejercicio",
-    "clinical research", "pesquisa clínica",
-]
+class Page(HTMLParser):
+    def __init__(self):
+        super().__init__(); self.links=[]; self.parts=[]; self.current=None; self.ignore=0
+    def handle_starttag(self,tag,attrs):
+        a=dict(attrs)
+        if tag in ['script','style']: self.ignore+=1
+        if tag=='a': self.current=[a.get('href',''),'']
+    def handle_endtag(self,tag):
+        if tag in ['script','style']: self.ignore=max(0,self.ignore-1)
+        if tag=='a' and self.current:
+            self.links.append(tuple(self.current)); self.current=None
+    def handle_data(self,data):
+        if self.ignore:return
+        self.parts.append(data)
+        if self.current:self.current[1]+=data
 
-def normalizar(texto):
-    return re.sub(r"\s+", " ", str(texto or "")).strip().lower()
+def fetch(url):
+    with urlopen(Request(url,headers={'User-Agent':'Mozilla/5.0 (compatible; RadarAcademico/2.0)'}),timeout=18) as r:
+        final=r.url; raw=r.read(4000001)
+        if len(raw)>4000000:raise ValueError('Documento excede 4 MB')
+        content=r.headers.get('Content-Type','')
+        if 'pdf' in content or raw.startswith(b'%PDF'):
+            try:
+                from pypdf import PdfReader
+                text=' '.join(p.extract_text() or '' for p in PdfReader(io.BytesIO(raw)).pages[:40])
+                return final,None,text
+            except ImportError:return final,None,'PDF: extração indisponível, revisão documental necessária'
+        page=Page();page.feed(raw.decode(r.headers.get_content_charset() or 'utf-8',errors='replace'))
+        return final,page,' '.join(page.parts)
 
-def carregar_anteriores():
-    if not ARQUIVO.exists():
-        return []
+def category(title):
+    t=norm(title)
+    for key,value in [('substitut','Professor substituto'),('visitant','Professor visitante'),('postdoc','Pós-doutorado'),('pos-dout','Pós-doutorado'),('research','Pesquisador'),('pesquisador','Pesquisador'),('efetivo','Professor efetivo')]:
+        if key in t:return value
+    return 'Docência / pesquisa a confirmar'
+
+def candidate(title):
+    t=norm(title)
+    return bool(re.search(r'docent|profess|postdoc|pos.doutor|research|pesquisador|fellowship',t)) and bool(re.search(r'edital|selec|concurso|vaga|vacanc|recruit|job|contrat|fellow|postdoc|pos.doutor',t))
+
+def review_state(item,today=None):
+    today=today or datetime.now(ZoneInfo('America/Sao_Paulo')).date()
+    item.setdefault('verificacao',{})
+    for field in FIELDS:item['verificacao'].setdefault(field,{'valor':'Não informado','evidencia':''})
+    deadline=item.get('prazo','')
+    valid_date=False
     try:
-        dados = json.loads(ARQUIVO.read_text(encoding="utf-8"))
-        return dados if isinstance(dados, list) else []
-    except (OSError, ValueError):
-        return []
+        d=date.fromisoformat(deadline);valid_date=True
+        if d<today:item['status']='Encerrada';return item
+    except (ValueError,TypeError):pass
+    evidence=item.get('validacao_documental',{})
+    required=['prazo','remuneracao']+FIELDS
+    complete=all(evidence.get(k,{}).get('evidencia') and evidence.get(k,{}).get('valor') for k in required)
+    # Every field must have an explicit decision and quotation, including exemptions.
+    validated=complete and evidence.get('revisor') and evidence.get('data') and evidence.get('url_oficial') and valid_date and evidence.get('elegivel_fisioterapia_doutorado') is True and evidence.get('remunerada') is True
+    item['status']='Validada' if validated else 'Não verificado'
+    return item
 
-def pesquisar_noticias(consulta):
-    parametros = urlencode({
-        "q": consulta,
-        "hl": "pt-BR",
-        "gl": "BR",
-        "ceid": "BR:pt-419",
-    })
-    url = "https://news.google.com/rss/search?" + parametros
+def check_institution(inst):
+    now=datetime.now(timezone.utc).isoformat(); result={**inst,'ultima_consulta':now,'status':'Falha','candidatos_encontrados':0};items=[]
+    try:
+        final,page,text=fetch(inst['url']);result['url_final']=final
+        if page is None:result['status']='Revisão documental necessária';return result,items
+        links=[]
+        for href,title in page.links:
+            url=urljoin(final,href); title=' '.join(title.split())
+            host=urlsplit(url).hostname or ''
+            allowed=host==urlsplit(final).hostname or host.endswith('.'+(urlsplit(final).hostname or '').removeprefix('www.'))
+            if allowed and url.startswith('https://') and candidate(title):links.append((canonical(url),title))
+        # Follow up to three recruitment/index pages, including institutional ATS links.
+        navigation=[]
+        for href,title in page.links:
+            target=urljoin(final,href);host=urlsplit(target).hostname or ''
+            trusted=host==urlsplit(final).hostname or host.endswith('.gupy.io')
+            if trusted and re.search(r'trabalhe|sele[cç][aã]o.docente|edita|concurs|vacanc|career|recruit',norm(title+' '+href)) and target.startswith('https://') and canonical(target)!=canonical(final):
+                navigation.append(target)
+        for target in list(dict.fromkeys(navigation))[:3]:
+            try:
+                child_url,child,_=fetch(target)
+                if child:
+                    for href,title in child.links:
+                        url=urljoin(child_url,href);title=' '.join(title.split())
+                        if url.startswith('https://') and urlsplit(url).hostname==urlsplit(child_url).hostname and candidate(title):links.append((canonical(url),title))
+            except Exception:pass
+        links=list(dict(links).items())[:30]
+        for url,title in links:
+            items.append({'id':'inst-'+hashlib.sha256(url.encode()).hexdigest()[:20],'titulo':title,'instituicao':inst['nome'],'pais':inst['pais'],'url':url,'fonte':'Institucional direta','data_coleta':now[:10],'ultima_deteccao':now,'categoria':category(title),'modalidade':'Não informada','remuneracao':'Não informada','prazo':'','status':'Não verificado','prioridade':'Fisioterapia' if 'fisioterap' in norm(title) else 'Aderência a revisar'})
+        # An HTTP 200 is not evidence that a JS job board was parsed successfully.
+        result['status']='Consultada: candidatos a revisar' if items else 'Consulta parcial: nenhum link acadêmico extraído'
+        result['candidatos_encontrados']=len(items)
+        result['resumo_sha256']=hashlib.sha256(text.encode()).hexdigest()
+    except Exception as e:result['erro']=str(e)[:240]
+    return result,items
 
-    resposta = requests.get(
-        url,
-        timeout=25,
-        headers={"User-Agent": "Mozilla/5.0"},
-    )
-    resposta.raise_for_status()
+def inspect_document(item):
+    if item.get('fonte')!='Institucional direta':return item
+    item['consulta_documental_em']=datetime.now(timezone.utc).isoformat()
+    try:
+        final,page,text=fetch(item['url']);item['url_documento']=final
+        item['documento_sha256']=hashlib.sha256(text.encode()).hexdigest()
+        patterns={'graduacao':r'gradua|bacharel|bachelor|degree', 'doutorado':r'doutor|doctor|phd|ph.d', 'idioma':r'idioma|ingles|english|espanhol|portugues|language', 'nacionalidade':r'nacionalidade|nationality|citizen', 'residencia':r'residencia|residen|domicilio', 'autorizacao_profissional':r'crefito|conselho profissional|licen[cs]|registration', 'trabalho_do_brasil':r'remoto|remote|brasil|brazil|home office', 'prazo':r'inscric|deadline|closing date', 'remuneracao':r'remunera|salario|salary|stipend|bolsa|r\$|€|£'}
+        sentences=re.split(r'[\n.!?;]+',text)
+        item['indicios_documentais']={key:[' '.join(t.split())[:450] for t in sentences if re.search(pattern,norm(t))][:3] for key,pattern in patterns.items()}
+        # Snippets are leads, never evidence of confirmed eligibility or a parsed deadline.
+        item['resultado_documental']='Indícios extraídos; elegibilidade, anexos e retificações exigem revisão'
+    except Exception as e:item['resultado_documental']='Falha: '+str(e)[:200]
+    return item
 
-    raiz = ET.fromstring(resposta.content)
-    return raiz.findall("./channel/item")
-
-def relevante(titulo):
-    texto = normalizar(titulo)
-    oportunidade = any(t in texto for t in TERMOS_OPORTUNIDADE)
-    academico = any(t in texto for t in TERMOS_ACADEMICOS)
-    area = any(t in texto for t in TERMOS_AREAS)
-    return oportunidade and academico and area
-
-def identificar_pais(titulo):
-    texto = normalizar(titulo)
-    if "portugal" in texto:
-        return "Portugal"
-    if "españa" in texto or "espana" in texto:
-        return "Espanha"
-    if "brasil" in texto or "federal" in texto:
-        return "Brasil"
-    return "Não informado"
+def merge(previous, incoming):
+    records=list(previous); byurl={canonical(x['url']):x for x in records if x.get('url')}
+    for item in incoming:
+        key=canonical(item['url'])
+        if key in byurl:
+            old=byurl[key];old['ultima_deteccao']=item.get('ultima_deteccao',item.get('data_coleta'))
+            for field in ['consulta_documental_em','url_documento','documento_sha256','indicios_documentais','resultado_documental']:
+                if field in item:old[field]=item[field]
+            continue
+        records.append(item);byurl[key]=item
+    return [review_state(x) for x in records]
 
 def main():
-    anteriores = carregar_anteriores()
-    registros = {
-        item["url"]: item
-        for item in anteriores
-        if isinstance(item, dict) and item.get("url")
-    }
+    previous=load('vagas.json',[])
+    if not isinstance(previous,list):raise ValueError('Catálogo inválido. Não será sobrescrito.')
+    institutions=load('instituicoes.json',[]);checks=[]; incoming=[]
+    with futures.ThreadPoolExecutor(max_workers=6) as pool:
+        for check,items in pool.map(check_institution,[x for x in institutions if x.get('enabled')]):checks.append(check);incoming.extend(items)
+    news=[]
+    queries=noticias.BUSCAS+['professor fisioterapia EAD remoto online híbrido universidade contratação','remote online faculty physical therapy Brazil postdoctoral paid']
+    def search(q):
+        try:return q,noticias.pesquisar_noticias(q),None
+        except Exception as e:return q,[],str(e)[:200]
+    with futures.ThreadPoolExecutor(max_workers=4) as pool:
+        for q,items,error in pool.map(search,queries):
+            news.append({'consulta':q,'erro':error,'resultados':len(items)})
+            for a in items:
+                title=a.findtext('title') or '';url=a.findtext('link') or ''
+                if not noticias.relevante(title) or not url:continue
+                incoming.append({'titulo':title,'url':url,'instituicao':a.findtext('source') or 'Não informada','pais':noticias.identificar_pais(title),'categoria':category(title),'fonte':'Google Notícias RSS','data_coleta':datetime.now(timezone.utc).date().isoformat(),'status':'Não verificado'})
+    with futures.ThreadPoolExecutor(max_workers=6) as pool:
+        incoming=list(pool.map(inspect_document,incoming))
+    records=merge(previous,incoming)
+    write('vagas.json',records)
+    write('monitoramento.json',{'atualizado_em':datetime.now(timezone.utc).isoformat(),'instituicoes':checks,'noticias':news,'total':len(records),'validadas':sum(x['status']=='Validada' for x in records),'encerradas':sum(x['status']=='Encerrada' for x in records),'falhas':sum(x['status']=='Falha' for x in checks)})
+    print(f'{len(previous)} anteriores preservados; {len(records)} registros; {len(checks)} instituições consultadas')
+    if checks and all(x['status']=='Falha' for x in checks):raise RuntimeError('Todas as fontes institucionais falharam; consulte monitoramento.json')
 
-    data = datetime.now(timezone.utc).date().isoformat()
-    novas = 0
-    falhas = 0
-
-    for consulta in BUSCAS:
-        print("Pesquisando:", consulta)
-
-        try:
-            anuncios = pesquisar_noticias(consulta)
-        except (requests.RequestException, ET.ParseError) as erro:
-            print("Falha na consulta:", erro)
-            falhas += 1
-            continue
-
-        for anuncio in anuncios:
-            titulo = (anuncio.findtext("title") or "").strip()
-            url = (anuncio.findtext("link") or "").strip()
-            fonte = anuncio.findtext("source") or "Google Notícias"
-
-            if not titulo or not url or not relevante(titulo):
-                continue
-
-            if url in registros:
-                continue
-
-            registros[url] = {
-                "titulo": titulo,
-                "instituicao": fonte,
-                "pais": identificar_pais(titulo),
-                "modalidade": "Não informada",
-                "categoria": "Pesquisador",
-                "remuneracao": "Não informada",
-                "prazo": "",
-                "url": url,
-                "fonte": "Google Notícias RSS: " + fonte,
-                "data_coleta": data,
-                "status": "Não verificado",
-            }
-            novas += 1
-
-        time.sleep(1)
-
-    resultado = list(registros.values())
-
-    ARQUIVO.write_text(
-        json.dumps(resultado, ensure_ascii=False, indent=2),
-        encoding="utf-8",
-    )
-
-    print("Novas oportunidades candidatas:", novas)
-    print("Total de registros:", len(resultado))
-    print("Consultas com falha:", falhas)
-    print("Atenção: resultados não verificados.")
-
-if __name__ == "__main__":
-    main()
+if __name__=='__main__':main()

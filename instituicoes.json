@@ -1,0 +1,194 @@
+[
+  {
+    "id": "1",
+    "nome": "UCPel",
+    "url": "https://ucpel.edu.br/editais/tags/selecao-docente",
+    "pais": "Brasil",
+    "regiao": "RS",
+    "enabled": true
+  },
+  {
+    "id": "2",
+    "nome": "FACCAT",
+    "url": "https://www2.faccat.br/portal/?q=node/4105",
+    "pais": "Brasil",
+    "regiao": "RS",
+    "enabled": true
+  },
+  {
+    "id": "3",
+    "nome": "CESUCA",
+    "url": "https://cesuca.gupy.io/",
+    "pais": "Brasil",
+    "regiao": "RS",
+    "enabled": true
+  },
+  {
+    "id": "4",
+    "nome": "UCS",
+    "url": "https://www.ucs.br/site/trabalhe-na-ucs/",
+    "pais": "Brasil",
+    "regiao": "RS",
+    "enabled": true
+  },
+  {
+    "id": "5",
+    "nome": "PUCRS",
+    "url": "https://portal.pucrs.br/sobre-a-pucrs/trabalhe-conosco/",
+    "pais": "Brasil",
+    "regiao": "RS",
+    "enabled": true
+  },
+  {
+    "id": "6",
+    "nome": "Unisinos",
+    "url": "https://unisinos.gupy.io/",
+    "pais": "Brasil",
+    "regiao": "RS",
+    "enabled": true
+  },
+  {
+    "id": "7",
+    "nome": "Feevale",
+    "url": "https://editais.feevale.br/editais/",
+    "pais": "Brasil",
+    "regiao": "RS",
+    "enabled": true
+  },
+  {
+    "id": "8",
+    "nome": "Ulbra",
+    "url": "https://www.ulbra.br/trabalheconosco",
+    "pais": "Brasil",
+    "regiao": "RS",
+    "enabled": true
+  },
+  {
+    "id": "9",
+    "nome": "UPF",
+    "url": "https://www.upf.br/a-universidade/procad/selecaodocente",
+    "pais": "Brasil",
+    "regiao": "RS",
+    "enabled": true
+  },
+  {
+    "id": "10",
+    "nome": "URI",
+    "url": "https://reitoria.uri.br/pt",
+    "pais": "Brasil",
+    "regiao": "RS",
+    "enabled": true
+  },
+  {
+    "id": "11",
+    "nome": "UFRGS",
+    "url": "https://www.ufrgs.br/progesp/",
+    "pais": "Brasil",
+    "regiao": "RS",
+    "enabled": true
+  },
+  {
+    "id": "12",
+    "nome": "UFSM",
+    "url": "https://www.ufsm.br/pro-reitorias/progep/busca?area=editais&order=DESC&orderby=modified&q=&sites%5B%5D=341",
+    "pais": "Brasil",
+    "regiao": "RS",
+    "enabled": true
+  },
+  {
+    "id": "13",
+    "nome": "UFPel",
+    "url": "https://concursos.ufpel.edu.br/",
+    "pais": "Brasil",
+    "regiao": "RS",
+    "enabled": true
+  },
+  {
+    "id": "14",
+    "nome": "FURG",
+    "url": "https://progep.furg.br/",
+    "pais": "Brasil",
+    "regiao": "RS",
+    "enabled": true
+  },
+  {
+    "id": "15",
+    "nome": "Unipampa",
+    "url": "https://guri.unipampa.edu.br/psa/processos/",
+    "pais": "Brasil",
+    "regiao": "RS",
+    "enabled": true
+  },
+  {
+    "id": "16",
+    "nome": "UERGS",
+    "url": "https://uergs.edu.br/concursos-publicos-e-processos-seletivos-funcionais",
+    "pais": "Brasil",
+    "regiao": "RS",
+    "enabled": true
+  },
+  {
+    "id": "17",
+    "nome": "UnB",
+    "url": "https://www.concursos.unb.br/",
+    "pais": "Brasil",
+    "regiao": "Expansão",
+    "enabled": true
+  },
+  {
+    "id": "18",
+    "nome": "USP",
+    "url": "https://uspdigital.usp.br/gr/admissao",
+    "pais": "Brasil",
+    "regiao": "Expansão",
+    "enabled": true
+  },
+  {
+    "id": "19",
+    "nome": "Unicamp",
+    "url": "https://www.sg.unicamp.br/concursos",
+    "pais": "Brasil",
+    "regiao": "Expansão",
+    "enabled": true
+  },
+  {
+    "id": "20",
+    "nome": "UFMG",
+    "url": "https://www.ufmg.br/prorh/concursos/",
+    "pais": "Brasil",
+    "regiao": "Expansão",
+    "enabled": true
+  },
+  {
+    "id": "21",
+    "nome": "Universidade de Lisboa",
+    "url": "https://www.ulisboa.pt/info/concursos-para-docentes",
+    "pais": "Portugal",
+    "regiao": "Expansão",
+    "enabled": true
+  },
+  {
+    "id": "22",
+    "nome": "Universidade do Porto",
+    "url": "https://sigarra.up.pt/up/pt/web_base.gera_pagina?p_pagina=concursos",
+    "pais": "Portugal",
+    "regiao": "Expansão",
+    "enabled": true
+  },
+  {
+    "id": "23",
+    "nome": "University of Nottingham",
+    "url": "https://jobs.nottingham.ac.uk/vacancies.aspx",
+    "pais": "Reino Unido",
+    "regiao": "Expansão",
+    "enabled": true
+  },
+  {
+    "id": "24",
+    "nome": "University of Melbourne",
+    "url": "https://jobs.unimelb.edu.au/",
+    "pais": "Austrália",
+    "regiao": "Expansão",
+    "enabled": true
+  }
+]
