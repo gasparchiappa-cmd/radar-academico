@@ -20,6 +20,9 @@ FIELDS = ['graduacao','doutorado','idioma','nacionalidade','residencia','autoriz
 def norm(s):
     return ''.join(c for c in unicodedata.normalize('NFKD', str(s)).lower() if not unicodedata.combining(c))
 
+def document_hash(text):
+    return hashlib.sha256(' '.join(text.split()).encode()).hexdigest()
+
 def canonical(url):
     u=urlsplit(url)
     return urlunsplit((u.scheme.lower(),u.netloc.lower(),u.path.rstrip('/') or '/',urlencode(sorted((k,v) for k,v in parse_qsl(u.query) if not k.startswith('utm_') and k not in ['jobBoardSource','trk','fbclid'])),''))
@@ -136,7 +139,7 @@ def check_institution(inst):
         if not items and re.search(r'nenhuma vaga no momento|no vacancies|no current vacancies',norm(text)):
             result['status']='Consultada: portal informa nenhuma vaga'
         if inst.get('limitacao'):result['limitacao']=inst['limitacao']
-        result['resumo_sha256']=hashlib.sha256(text.encode()).hexdigest()
+        result['resumo_sha256']=document_hash(text)
     except Exception as e:result['erro']=str(e)[:240]
     return result,items
 
@@ -145,12 +148,12 @@ def inspect_document(item):
     item['consulta_documental_em']=datetime.now(timezone.utc).isoformat()
     try:
         final,page,text=fetch(item['url']);item['url_documento']=final
-        item['documento_sha256']=hashlib.sha256(text.encode()).hexdigest()
+        item['documento_sha256']=document_hash(text)
         if item.get('documentos_obrigatorios'):
             item['anexos_sha256']={};item['falhas_anexos']=[]
             for attachment in item['documentos_obrigatorios']:
                 try:
-                    _,_,body=fetch(attachment);item['anexos_sha256'][attachment]=hashlib.sha256(body.encode()).hexdigest()
+                    _,_,body=fetch(attachment);item['anexos_sha256'][attachment]=document_hash(body)
                 except Exception as exc:item['falhas_anexos'].append({'url':attachment,'erro':str(exc)[:200]})
         patterns={'graduacao':r'gradua|bacharel|bachelor|degree', 'doutorado':r'doutor|doctor|phd|ph.d', 'idioma':r'idioma|ingles|english|espanhol|portugues|language', 'nacionalidade':r'nacionalidade|nationality|citizen', 'residencia':r'residencia|residen|domicilio', 'autorizacao_profissional':r'crefito|conselho profissional|licen[cs]|registration', 'trabalho_do_brasil':r'remoto|remote|brasil|brazil|home office', 'prazo':r'inscric|deadline|closing date', 'remuneracao':r'remunera|salario|salary|stipend|bolsa|r\$|€|£'}
         sentences=re.split(r'[\n.!?;]+',text)
@@ -191,8 +194,16 @@ def main():
                 if not noticias.relevante(title) or not url:continue
                 incoming.append({'titulo':title,'url':url,'instituicao':a.findtext('source') or 'Não informada','pais':noticias.identificar_pais(title),'categoria':category(title),'fonte':'Google Notícias RSS','data_coleta':datetime.now(timezone.utc).date().isoformat(),'status':'Não verificado'})
     incoming+=load('oportunidades_curadas.json',[])
+    reviews=load('revisoes.json',{})
+    def inspect_current(item):
+        review=reviews.get(item.get('url',''),{})
+        # Listings are queried daily. Documents already archived by a dated review
+        # need not be repeatedly downloaded as if they were new vacancies.
+        if review.get('triagem') in ['Histórico','Fora da prioridade','Fonte de acompanhamento','Não remunerada','Duplicata'] and not review.get('anuncio_verificado'):
+            return item
+        return inspect_document(item)
     with futures.ThreadPoolExecutor(max_workers=6) as pool:
-        incoming=list(pool.map(inspect_document,incoming))
+        incoming=list(pool.map(inspect_current,incoming))
     records=merge(previous,incoming)
     records=apply_reviews(records,load('revisoes.json',{}),norm,datetime.now(ZoneInfo('America/Sao_Paulo')).date())
     records=[review_state(x) for x in records]

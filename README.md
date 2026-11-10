@@ -42,4 +42,6 @@ Não há cobertura exaustiva de universidades, departamentos ou anexos. A expans
 
 Revisões positivas expiram após sete dias e perdem confirmação se o texto oficial consultado mudar ou sua consulta falhar. A fonte completa, anexos e retificações estão indicados nos registros curados. No anúncio UFCSPA também são comparados os hashes do edital, anexos e retificação. Demais páginas sem manifesto de anexos ainda exigem conferência dos anexos antes da inscrição. Nenhum anúncio remoto é marcado como acessível do Brasil apenas por oferecer inscrição online ou ensino EAD.
 
-Há 21 testes Python e um teste de integração JavaScript que verifica atualização de metadados e preservação de candidatura, favorita e notas, além do encerramento de prazo.
+Há 22 testes Python e um teste de integração JavaScript que verifica atualização de metadados e preservação de candidatura, favorita e notas, além do encerramento de prazo.
+
+As páginas de instituições são consultadas diariamente. Documentos já classificados como históricos, fontes gerais ou fora da prioridade não são novamente baixados a cada execução como se fossem vagas novas. Novos links permanecem candidatos até revisão.

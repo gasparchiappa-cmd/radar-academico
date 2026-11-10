@@ -2,8 +2,9 @@ import sys,unittest
 from datetime import date
 from pathlib import Path
 sys.path.insert(0,str(Path(__file__).resolve().parents[1]/'scripts'))
-from atualizar_vagas import canonical,merge,review_state,candidate,Page
+from atualizar_vagas import canonical,merge,review_state,candidate,Page,document_hash
 class RadarTests(unittest.TestCase):
+    def test_hash_line_endings(self):self.assertEqual(document_hash("edital\r\n prazo"),document_hash("edital\n  prazo"))
     def test_tracking(self):self.assertEqual(canonical('https://a.br/job/1?utm_source=x#x'),'https://a.br/job/1')
     def test_preserve_application(self):
         old={'url':'https://a.br/1','favorite':True,'stage':'Enviada','custom':'keep'}
