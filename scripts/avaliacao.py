@@ -25,7 +25,7 @@ def apply_reviews(records, reviews, normalize, today=None):
         if not review:continue
         # An explicit human/model documentary review is retained as provenance.
         item['auditoria']=review
-        if review.get('documento_sha256') and item.get('documento_sha256') and review['documento_sha256']!=item['documento_sha256']:
+        if item.get('documento_hash_formato')=='texto-v1' and review.get('documento_sha256') and item.get('documento_sha256') and review['documento_sha256']!=item['documento_sha256']:
             item['auditoria']={**review,'desatualizada':True};item['prazo']='';item['triagem']='Candidato';item['motivo_triagem']='Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.'
             item['remuneracao']='Documento alterado: rever';continue
         for key in ['prazo','remuneracao','modalidade','verificacao','url_oficial','duplicata_de','grupo_edital','elegibilidade','prioridade','tipo_oportunidade']:

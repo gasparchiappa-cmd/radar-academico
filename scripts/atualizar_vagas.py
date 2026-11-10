@@ -148,7 +148,7 @@ def inspect_document(item):
     item['consulta_documental_em']=datetime.now(timezone.utc).isoformat()
     try:
         final,page,text=fetch(item['url']);item['url_documento']=final
-        item['documento_sha256']=document_hash(text)
+        item['documento_sha256']=document_hash(text);item['documento_hash_formato']='texto-v1'
         if item.get('documentos_obrigatorios'):
             item['anexos_sha256']={};item['falhas_anexos']=[]
             for attachment in item['documentos_obrigatorios']:
@@ -169,7 +169,7 @@ def merge(previous, incoming):
         key=canonical(item['url'])
         if key in byurl:
             old=byurl[key];old['ultima_deteccao']=item.get('ultima_deteccao',item.get('data_coleta'))
-            for field in ['consulta_documental_em','url_documento','documento_sha256','indicios_documentais','resultado_documental','anexos_sha256','falhas_anexos']:
+            for field in ['consulta_documental_em','url_documento','documento_sha256','indicios_documentais','resultado_documental','anexos_sha256','falhas_anexos','documento_hash_formato']:
                 if field in item:old[field]=item[field]
             continue
         records.append(item);byurl[key]=item

@@ -22,7 +22,7 @@ class ReviewTests(unittest.TestCase):
  def test_changed_attachment(self):
   x=self.sample();x['auditoria']['anexos_sha256']={'https://a.br/retificacao.pdf':'old'};x['anexos_sha256']={'https://a.br/retificacao.pdf':'new'};self.assertEqual(documentary_status(x,date(2026,11,10)),'Revisão necessária')
  def test_old_deadline_invalidated_by_changed_document(self):
-  x={'titulo':'Concurso Fisioterapia','url':'https://a.br/1','prazo':'2020-01-01','documento_sha256':'new'};r=apply_reviews([x],{'https://a.br/1':{'prazo':'2020-01-01','documento_sha256':'old'}},norm);self.assertEqual(r[0]['prazo'],'');self.assertEqual(r[0]['triagem'],'Candidato')
+  x={'titulo':'Concurso Fisioterapia','url':'https://a.br/1','prazo':'2020-01-01','documento_sha256':'new','documento_hash_formato':'texto-v1'};r=apply_reviews([x],{'https://a.br/1':{'prazo':'2020-01-01','documento_sha256':'old'}},norm);self.assertEqual(r[0]['prazo'],'');self.assertEqual(r[0]['triagem'],'Candidato')
  def test_payment_required(self):
   x=self.sample();x['auditoria']['remunerada']=False;self.assertIsNone(documentary_status(x,date(2026,11,10)))
  def test_review_preserves_personal(self):
