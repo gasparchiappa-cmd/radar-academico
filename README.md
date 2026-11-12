@@ -45,3 +45,13 @@ Revisões positivas expiram após sete dias e perdem confirmação se o texto of
 Há 22 testes Python e um teste de integração JavaScript que verifica atualização de metadados e preservação de candidatura, favorita e notas, além do encerramento de prazo.
 
 As páginas de instituições são consultadas diariamente. Documentos já classificados como históricos, fontes gerais ou fora da prioridade não são novamente baixados a cada execução como se fossem vagas novas. Novos links permanecem candidatos até revisão.
+
+## Correções em preparação para aprovação (11/11/2026)
+
+O pacote de auditoria ainda não foi aplicado ao site. A proposta consulta todas as URLs explicitamente cadastradas, registra falhas de navegação e distingue instituições tentadas de páginas com leitura. O reconhecimento de candidatos considera títulos e caminhos de editais, inclusive âncoras genéricas e cargos em inglês/espanhol. O portal Gupy da PUCRS foi acrescentado a partir do link institucional observado.
+
+A interface exige prazo ISO válido e revisão de até sete dias; favoritas usam seu próprio filtro. O campo legado Validada passa a respeitar atualização e falhas documentais. Isso não altera requisitos de elegibilidade. Mudanças de decodificação podem alterar hashes de documentos e exigir nova revisão, sem promoção automática.
+
+Para simular sem modificar o catálogo de trabalho, copie os quatro arquivos de entrada (vagas.json, instituicoes.json, revisoes.json, oportunidades_curadas.json) para uma pasta e execute `RADAR_DATA_DIR=/caminho/da/copia python scripts/atualizar_vagas.py`. O programa impede gravação se faltar registro histórico ou se todas as instituições falharem. Backups do navegador continuam sendo responsabilidade do usuário; o coletor não acessa dados locais de candidaturas.
+
+A proposta usa Ubuntu 24.04, checkout v5, setup-python v6 e setup-node v5 com Node 24 explícito. A rotina diária às 11:00 UTC permanece. Testes após coleta precedem a gravação no GitHub. A validação hospedada desta nova configuração só poderá ser concluída após autorização de publicação; os testes locais não equivalem a execução no runner Ubuntu.

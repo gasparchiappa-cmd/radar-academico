@@ -8,6 +8,7 @@ from pathlib import Path
 from urllib.parse import urlencode
 
 from urllib.request import Request, urlopen
+from urllib.error import URLError
 
 ARQUIVO = Path("vagas.json")
 
@@ -113,7 +114,7 @@ def main():
 
         try:
             anuncios = pesquisar_noticias(consulta)
-        except (requests.RequestException, ET.ParseError) as erro:
+        except (URLError, OSError, ET.ParseError) as erro:
             print("Falha na consulta:", erro)
             falhas += 1
             continue

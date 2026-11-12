@@ -15,13 +15,17 @@ concurrency:
   cancel-in-progress: true
 jobs:
   atualizar:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
+    if: github.ref == 'refs/heads/main'
     timeout-minutes: 20
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '24'
       - name: Dependência de leitura PDF
         run: pip install pypdf==6.1.1
       - name: Testar regras de integridade
@@ -30,6 +34,10 @@ jobs:
         run: node tests/test_catalogo.cjs
       - name: Buscar oportunidades
         run: python scripts/atualizar_vagas.py
+      - name: Testar catálogo após a coleta
+        run: |
+          python -m unittest discover -s tests -v
+          node tests/test_catalogo.cjs
       - name: Salvar atualizações
         run: |
           git config user.name "github-actions[bot]"
@@ -41,10 +49,10 @@ jobs:
           fi
   publicar:
     needs: atualizar
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Publicar e verificar Pages existente
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
