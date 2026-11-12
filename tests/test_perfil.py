@@ -8,7 +8,7 @@ class ProfileTests(unittest.TestCase):
  def test_shared_cases(self):
   for c in json.loads((Path(__file__).parent/'perfil_casos.json').read_text()):
    with self.subTest(c['name']):
-    item={'titulo':c['title'],'categoria':c.get('category',''),'verificacao':{'graduacao':{'valor':c.get('degree','')}}}
+    item={'instituicao':c.get('institution',''),'notes':c.get('notes',''),'titulo':c['title'],'categoria':c.get('category',''),'verificacao':{'graduacao':{'valor':c.get('degree',''),'fonte':c.get('degreeSource','')}}}
     self.assertEqual(bool(profile_exclusion(item,norm)),c['excluded'])
  def test_old_review_cannot_restore_exclusion(self):
   item={'titulo':'Professor substituto Fisioterapia','url':'https://example.edu/1','stage':'Enviada','favorite':True,'notes':'Preservar'}
@@ -29,7 +29,17 @@ class ProfileTests(unittest.TestCase):
  def test_profix_discovery_without_professor_word(self):
   self.assertTrue(candidate('Edital PROFIX-CB'))
   self.assertTrue(relevante('Edital PROFIX-CB Fixação de Doutores'))
-  self.assertEqual(screen({'titulo':'Edital PROFIX-CB'},norm)[0],'Candidato')
+  self.assertEqual(screen({'titulo':'Edital PROFIX-CB'},norm)[0],'Fora da prioridade')
+  self.assertEqual(screen({'titulo':'Edital PROFIX-CB Fisioterapia'},norm)[0],'Candidato')
+ def test_generic_review_cannot_approve_unrelated_area(self):
+  title='Professor Doutor | Sistemas de Informação | 40h semanais | Curitiba/PR'
+  item={'titulo':title,'url':'https://example.edu/1','favorite':True,'stage':'Enviada','notes':'Preservar'}
+  result=apply_reviews([item],{item['url']:{'triagem':'Candidato','motivo':'Revisão antiga'}},norm)[0]
+  self.assertEqual(result['triagem'],'Fora da prioridade');self.assertTrue(result['favorite']);self.assertEqual(result['stage'],'Enviada');self.assertEqual(result['notes'],'Preservar')
+ def test_real_uninter_catalog_record_excluded(self):
+  root=Path(__file__).resolve().parents[1];records=json.loads((root/'vagas.json').read_text())
+  item=next(x for x in records if x['titulo']=='Professor Doutor | Sistemas de Informação | 40h semanais | Curitiba/PR')
+  self.assertTrue(profile_exclusion(item,norm))
  def test_new_policy_does_not_delete_catalog(self):
   root=Path(__file__).resolve().parents[1];original=json.loads((root/'vagas.json').read_text());records=copy.deepcopy(original)
   result=apply_reviews(records,json.loads((root/'revisoes.json').read_text()),norm)

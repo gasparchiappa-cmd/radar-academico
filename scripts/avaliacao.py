@@ -3,33 +3,44 @@ import re
 from datetime import date, timedelta
 from urllib.parse import urlsplit
 
+def has_web_source(source):
+    try:
+        u=urlsplit(source)
+        return u.scheme in ['http','https'] and bool(u.netloc)
+    except (TypeError,ValueError):return False
+
 def profile_exclusion(item, normalize):
     title=normalize(item.get('titulo',''))
     role=normalize(item.get('categoria',''))
-    degree=normalize(item.get('verificacao',{}).get('graduacao',{}).get('valor',''))
+    degree_field=item.get('verificacao',{}).get('graduacao',{})
+    degree=normalize(degree_field.get('valor',''))
+    degree_source=degree_field.get('fonte','')
     physio=r'fisioterap|physiotherap|physical therap'
     if re.search(r'\bsubstitut[oa]s?\b|\bsustitut[oa]s?\b|\bsubstitute (professor|lecturer|teacher)\b',title+' '+role):
         return 'Professor substituto excluído por preferência expressa do usuário, inclusive em Fisioterapia.'
-    degree_physio=bool(re.search(physio,degree)) and not re.search(r'fisioterap.{0,20}(nao admit|nao aceit|exclu)|nao.{0,20}(admit|aceit).{0,20}fisioterap',degree)
+    degree_physio=has_web_source(degree_source) and bool(re.search(physio,degree)) and not re.search(r'fisioterap.{0,20}(nao admit|nao aceit|exclu)|nao.{0,20}(admit|aceit).{0,20}fisioterap',degree)
     if degree and not degree_physio and re.search(r'\bmedicina\b|medical degree|bachelor of medicine|\bcrm\b',degree) and not re.search(r'nao.{0,30}(exig|necess)|not.{0,20}requir',degree):
         return 'Requisito de graduação em Medicina sem admissão de Fisioterapia documentada.'
     medical=r'\bmedicina\b|\bmedicine\b|\bmedical\b|oftalmol|ophthalmol|pediatr|psiquiatr|psychiatr|ginecolog|obstetric|cirurg|radiolog'
     if re.search(medical,title) and not re.search(physio,title) and not degree_physio:
         return 'Área médica sem admissão de Fisioterapia documentada; fora das listas de interesse.'
+    title_physio=bool(re.search(physio,title)) and not re.search(r'fisioterap.{0,20}(nao admit|nao aceit|exclu)|nao.{0,20}(admit|aceit).{0,20}fisioterap',title)
+    if not title_physio and not degree_physio:
+        return 'Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.'
     return ''
 
 def screen(item, normalize):
     t=normalize(item.get('titulo',''));u=item.get('url','')
-    excluded=profile_exclusion(item,normalize)
-    if excluded:return 'Fora da prioridade',excluded
     if item.get('duplicata_de'):return 'Duplicata','Mesmo edital identificado; registro preservado para candidaturas.'
     if re.search(r'voluntari|unpaid|unremunerated',t):return 'Não remunerada','A própria publicação identifica atuação voluntária ou não remunerada.'
     if re.search(r'resultado|homologacao|inscricoes homologadas|candidatos aprovados|^aprovados$|banca examinadora|relatorio da apuracao|classificacao final|conclusao do concurso',t):return 'Histórico','Resultado ou ato de andamento; não é abertura de inscrições.'
     if re.search(r'solicitacoes de vagas|gestao de vagas|procedimentos-para-realizacao|coordenadoria-de-concursos|/prorh/publicacoes',t+' '+u) or t in ['comissao de selecao docente','concurso livre docente','concurso pesquisador','concurso professor doutor','concurso professor titular']:
         return 'Fonte de acompanhamento','Página geral ou procedimento; não representa uma vaga individual.'
     if re.search(r'mestrado em reabilitacao.*recebe inscricoes',t):return 'Fora da prioridade','Ingresso discente, não contratação acadêmica.'
+    excluded=profile_exclusion(item,normalize)
+    if excluded:return 'Fora da prioridade',excluded
     if re.search(r'profix|fixacao de doutores',t):return 'Candidato','PROFIX: conferir modalidade de bolsa, área, prazo, remuneração e admissão de fisioterapeutas com doutorado; não é confirmação de cargo docente.'
-    relevant=re.search(r'fisioterap|physiotherap|physical therap|reabilita|rehabilita|cardi|fisiologia|physiology|saude coletiva|saude publica|bioquimica|public health|clinical|saude|health|biomateriais|regenerativa|psicologia aplicada',t)
+    relevant=re.search(r'fisioterap|physiotherap|physical therap',t) or bool(item.get('verificacao',{}).get('graduacao',{}).get('fonte'))
     if relevant:return 'Candidato','Área potencialmente pertinente; exige edital, prazo, remuneração e requisitos.'
     if re.search(r'engenharia|direito|matematica|linguistica|comput|eletron|fisica|quimica|pedagogia|agronom|turismo|libras|geometria|ecologia|educacao|servico social',t):
         return 'Fora da prioridade','Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.'
