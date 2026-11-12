@@ -10,7 +10,7 @@ const fs=require('fs'),vm=require('vm'),assert=require('node:assert/strict');
  data[0].status='Anúncio verificado';data[0].prazo='2099-99-99';await vm.runInContext('sincronizarVagas()',context);assert.equal(element('nopen').textContent,0);
  data[0].prazo='2099-12-31';data[0].auditoria.data='2020-01-01';await vm.runInContext('sincronizarVagas()',context);assert.equal(element('nopen').textContent,0);assert.equal(JSON.parse(stored['radar-fisio-v1'])[0].verification,'Revisão necessária');
  data[0].prazo='2020-01-01';data[0].status='Anúncio verificado';await vm.runInContext('sincronizarVagas()',context);jobs=JSON.parse(stored['radar-fisio-v1']);assert.equal(jobs[0].verification,'Encerrada');assert.equal(element('nopen').textContent,0);assert.equal(jobs[0].stage,'Enviada');const reviewDate=new Intl.DateTimeFormat('en-CA',{timeZone:'America/Sao_Paulo',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
- const make=(name,extra={})=>({id:name,url:'https://example.edu/'+name,titulo:name,instituicao:'Universidade',pais:'Brasil',status:'Não verificado',triagem:'Candidato',...extra});
+ const make=(name,extra={})=>({id:name,url:'https://example.edu/'+name,titulo:name,instituicao:'Universidade',pais:'Brasil',status:'Não verificado',triagem:'Candidato',verificacao:{graduacao:{valor:'Fisioterapia',fonte:'https://example.edu/'+name}},...extra});
  data.splice(0,data.length,
   make('CURRENT',{prazo:'2099-12-31',status:'Anúncio verificado',auditoria:{data:reviewDate}}),
   make('OLD_2024',{titulo:'OLD_2024 Edital 2024',data_coleta:reviewDate}),
@@ -38,14 +38,14 @@ const fs=require('fs'),vm=require('vm'),assert=require('node:assert/strict');
  assert.ok(!html.includes('<option value="archive">'));assert.ok(html.includes('data-tab="archive"'));assert.ok(html.includes('data-tab="pending"'));
  const profileCases=JSON.parse(fs.readFileSync('tests/perfil_casos.json','utf8'));
  for(const sample of profileCases){
-  context.profileSample={title:sample.title,type:sample.category||'',degreeRequirement:sample.degree||'',triage:'Candidato',deadline:'2099-12-31',verification:'Anúncio verificado',auditDate:reviewDate};
+  context.profileSample={institution:sample.institution||'',notes:sample.notes||'',title:sample.title,type:sample.category||'',degreeRequirement:sample.degree||'',degreeSource:sample.degreeSource||'',triage:'Candidato',deadline:'2099-12-31',verification:'Anúncio verificado',auditDate:reviewDate};
   assert.equal(vm.runInContext('!!profileExclusion(profileSample)',context),sample.excluded,sample.name);
   if(sample.excluded){
    assert.equal(vm.runInContext('isCurrent(profileSample)',context),false,sample.name+' fora de Vigentes');
    assert.ok(vm.runInContext('archiveReason(profileSample)',context),sample.name+' fora de A verificar');
   }
  }
- data.push(make('MEDICAL_ROLE',{titulo:'Professor de Medicina Cirurgia',prazo:'2099-12-31',status:'Anúncio verificado',auditoria:{data:reviewDate}}),make('SUBSTITUTE_ROLE',{titulo:'Professor Substituto Fisioterapia',prazo:'2099-12-31',status:'Anúncio verificado',auditoria:{data:reviewDate}}));
+ data.push(make('MEDICAL_ROLE',{titulo:'Professor de Medicina Cirurgia',verificacao:{},prazo:'2099-12-31',status:'Anúncio verificado',auditoria:{data:reviewDate}}),make('SUBSTITUTE_ROLE',{titulo:'Professor Substituto Fisioterapia',prazo:'2099-12-31',status:'Anúncio verificado',auditoria:{data:reviewDate}}));
  element('statusfilter').value='priority';await vm.runInContext('sincronizarVagas()',context);
  assert.equal(element('nopen').textContent,2);
  for(const title of ['Professor de Medicina Cirurgia','Professor Substituto Fisioterapia']){
@@ -85,6 +85,13 @@ const fs=require('fs'),vm=require('vm'),assert=require('node:assert/strict');
  assert.equal(JSON.parse(stored['radar-fisio-v1']).length,totalBeforeFilter);
  assert.equal(JSON.parse(stored['radar-fisio-v1']).find(j=>j.id==='personal-original').notes,'Nota pessoal preservada');
  assert.equal(JSON.parse(stored['radar-fisio-v1']).find(j=>j.title==='REGION_SUL').stage,'Enviada');
+ element('region').value='';element('statusfilter').value='priority';
+ data.push(make('UNRELATED_SYSTEMS',{titulo:'Professor Doutor | Sistemas de Informação | 40h semanais | Curitiba/PR',verificacao:{},...verified,uf:'PR'}));
+ await vm.runInContext('sincronizarVagas()',context);
+ const unrelatedTitle='Professor Doutor | Sistemas de Informação | 40h semanais | Curitiba/PR';
+ assert.ok(!element('joblist').innerHTML.includes(unrelatedTitle));assert.ok(!element('pendinglist').innerHTML.includes(unrelatedTitle));assert.ok(element('archivelist').innerHTML.includes(unrelatedTitle));
+ for(const region of ['','Sul']){element('region').value=region;vm.runInContext('render()',context);assert.ok(!element('joblist').innerHTML.includes(unrelatedTitle));assert.ok(!element('pendinglist').innerHTML.includes(unrelatedTitle))}
+ console.log('Aderência positiva OK: Sistemas de Informação e cargos genéricos sem evidência de Fisioterapia fora das listas de interesse.');
  console.log('Filtro regional OK: 27 UFs, cinco regiões, exterior, local desconhecido, múltiplas regiões, quatro abas, limpar filtro e preservação de candidaturas.');
  console.log('Perfil Fisioterapia OK: Medicina e substitutos fora das listas de interesse; visitantes, adjuntos, assistentes e PROFIX preservados; histórico e candidaturas intactos.');
  console.log('Separação de vigentes, pendentes e histórico OK: data de coleta não comprova vigência; prorrogação de edital antigo aceita quando verificada; registros e candidaturas preservados.');

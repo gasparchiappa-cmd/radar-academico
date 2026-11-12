@@ -34,7 +34,8 @@
     "name": "medicine_degree",
     "title": "Professor de Fisioterapia",
     "degree": "Graduação em Medicina e CRM ativo",
-    "excluded": true
+    "excluded": true,
+    "degreeSource": "https://example.edu/edital"
   },
   {
     "name": "med_school_physio",
@@ -45,7 +46,8 @@
     "name": "med_school_degree_physio",
     "title": "Faculdade de Medicina seleciona Professor de Fisiologia",
     "degree": "Graduação em Fisioterapia ou Medicina",
-    "excluded": false
+    "excluded": false,
+    "degreeSource": "https://example.edu/edital"
   },
   {
     "name": "assistant",
@@ -64,7 +66,7 @@
   },
   {
     "name": "profix",
-    "title": "Edital PROFIX-CB Fixação de Doutores Reabilitação",
+    "title": "Edital PROFIX-CB Fixação de Doutores Fisioterapia e Reabilitação",
     "excluded": false
   },
   {
@@ -96,12 +98,87 @@
     "name": "med_not_required",
     "title": "Professor de Fisiologia",
     "degree": "Não há exigência de graduação em Medicina",
-    "excluded": false
+    "excluded": true
   },
   {
     "name": "physio_rejected",
     "title": "Professor de Ciências da Saúde",
     "degree": "Graduação em Medicina; Fisioterapia não aceita",
+    "excluded": true,
+    "degreeSource": "https://example.edu/edital"
+  },
+  {
+    "name": "uninter_information_systems",
+    "title": "Professor Doutor | Sistemas de Informação | 40h semanais | Curitiba/PR",
+    "excluded": true
+  },
+  {
+    "name": "computing",
+    "title": "Professor Assistente em Ciência da Computação",
+    "excluded": true
+  },
+  {
+    "name": "engineering",
+    "title": "Professor Adjunto Engenharia Civil",
+    "excluded": true
+  },
+  {
+    "name": "law",
+    "title": "Professor Visitante de Direito",
+    "excluded": true
+  },
+  {
+    "name": "generic_doctor",
+    "title": "Professor Doutor 40h universidade",
+    "excluded": true
+  },
+  {
+    "name": "generic_profix",
+    "title": "Edital PROFIX-CB Fixação de Doutores",
+    "excluded": true
+  },
+  {
+    "name": "physiology_no_evidence",
+    "title": "Professor Adjunto Fisiologia",
+    "excluded": true
+  },
+  {
+    "name": "physiology_accepts_physio",
+    "title": "Professor Adjunto Fisiologia",
+    "degree": "Graduação em Fisioterapia ou áreas da saúde",
+    "degreeSource": "https://example.edu/edital",
+    "excluded": false
+  },
+  {
+    "name": "unsourced_degree",
+    "title": "Professor Visitante Saúde Coletiva",
+    "degree": "Fisioterapia",
+    "excluded": true
+  },
+  {
+    "name": "physio_only_in_institution",
+    "title": "Professor Doutor Sistemas de Informação",
+    "institution": "Universidade de Fisioterapia",
+    "excluded": true
+  },
+  {
+    "name": "profix_degree_physio",
+    "title": "Edital PROFIX-CB",
+    "degree": "Graduação em Fisioterapia",
+    "degreeSource": "https://example.edu/edital",
+    "excluded": false
+  },
+  {
+    "name": "invalid_degree_source",
+    "title": "Professor Visitante de Saúde",
+    "degree": "Fisioterapia",
+    "degreeSource": "https://[",
+    "excluded": true
+  },
+  {
+    "name": "notes_do_not_prove_area",
+    "title": "Professor de Engenharia",
+    "notes": "Tenho graduação em Fisioterapia",
     "excluded": true
   }
 ]
