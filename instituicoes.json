@@ -266,5 +266,14 @@
     "regiao": "Expansão EAD",
     "enabled": true,
     "limitacao": "Docência EAD não implica teletrabalho integral; verificar edital, local de gravação/aulas e titulação mínima e máxima."
+  },
+  {
+    "id": "32",
+    "nome": "PROFIX-CB / CNPq",
+    "url": "https://www.gov.br/cnpq/pt-br/acesso-a-informacao/acoes-e-programas/programas/profix/editais-lancados",
+    "pais": "Brasil",
+    "regiao": "Programa nacional",
+    "enabled": true,
+    "limitacao": "Índice oficial de chamadas PROFIX; a elegibilidade de Fisioterapia, o prazo e a modalidade de bolsa precisam ser conferidos em cada edital das FAPs/instituições. A página geral não é uma vaga."
   }
 ]

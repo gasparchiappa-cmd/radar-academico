@@ -36,6 +36,23 @@ const fs=require('fs'),vm=require('vm'),assert=require('node:assert/strict');
  const original=JSON.parse(stored['radar-fisio-v1']).find(j=>j.id==='personal-original');
  assert.equal(original.favorite,true);assert.equal(original.stage,'Enviada');assert.equal(original.notes,'Nota pessoal preservada');
  assert.ok(!html.includes('<option value="archive">'));assert.ok(html.includes('data-tab="archive"'));assert.ok(html.includes('data-tab="pending"'));
+ const profileCases=JSON.parse(fs.readFileSync('tests/perfil_casos.json','utf8'));
+ for(const sample of profileCases){
+  context.profileSample={title:sample.title,type:sample.category||'',degreeRequirement:sample.degree||'',triage:'Candidato',deadline:'2099-12-31',verification:'Anúncio verificado',auditDate:reviewDate};
+  assert.equal(vm.runInContext('!!profileExclusion(profileSample)',context),sample.excluded,sample.name);
+  if(sample.excluded){
+   assert.equal(vm.runInContext('isCurrent(profileSample)',context),false,sample.name+' fora de Vigentes');
+   assert.ok(vm.runInContext('archiveReason(profileSample)',context),sample.name+' fora de A verificar');
+  }
+ }
+ data.push(make('MEDICAL_ROLE',{titulo:'Professor de Medicina Cirurgia',prazo:'2099-12-31',status:'Anúncio verificado',auditoria:{data:reviewDate}}),make('SUBSTITUTE_ROLE',{titulo:'Professor Substituto Fisioterapia',prazo:'2099-12-31',status:'Anúncio verificado',auditoria:{data:reviewDate}}));
+ element('statusfilter').value='priority';await vm.runInContext('sincronizarVagas()',context);
+ assert.equal(element('nopen').textContent,2);
+ for(const title of ['Professor de Medicina Cirurgia','Professor Substituto Fisioterapia']){
+  assert.ok(!element('joblist').innerHTML.includes(title));assert.ok(!element('pendinglist').innerHTML.includes(title));assert.ok(element('archivelist').innerHTML.includes(title));
+ }
+ assert.equal(JSON.parse(stored['radar-fisio-v1']).length,10);
+ console.log('Perfil Fisioterapia OK: Medicina e substitutos fora das listas de interesse; visitantes, adjuntos, assistentes e PROFIX preservados; histórico e candidaturas intactos.');
  console.log('Separação de vigentes, pendentes e histórico OK: data de coleta não comprova vigência; prorrogação de edital antigo aceita quando verificada; registros e candidaturas preservados.');
  console.log('Integração do catálogo OK: metadados, candidatura, favorita, notas e encerramento.');
 })().catch(e=>{console.error(e);process.exitCode=1});
