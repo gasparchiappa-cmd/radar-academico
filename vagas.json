@@ -1003,7 +1003,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/November2026/8w3gzofs9w0qFzTEtA1V.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.257582+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.835999+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -1096,7 +1096,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2026/7cReCjBsgKdt3t3XFLPA.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.257582+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.835999+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -1192,7 +1192,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2026/cYUBknT6puOFwqRYBPlC.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.257582+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.835999+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -1288,14 +1288,14 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2026/xBSsHy0DqWP58jGBmCy5.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.257582+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.835999+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "2026-11-12",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:16.776439+00:00",
+    "consulta_documental_em": "2026-11-12T01:23:53.355098+00:00",
     "url_documento": "https://ucpel.edu.br/laravel/public/storage/editais/October2026/xBSsHy0DqWP58jGBmCy5.pdf",
     "documento_sha256": "5d3ed7b40ddd8bc94908a86ee04b9430a2a526f193330a2495426a39db612d1b",
     "indicios_documentais": {
@@ -1375,7 +1375,12 @@
       "prazo": "2026-11-12",
       "evidencia_prazo": "Período para inscrição: 23/10/2026 à 12/11/2026"
     },
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-75039ce4228a3326b2b3",
@@ -1385,7 +1390,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2026/Nf16JQBkmlIferySmyAR.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.257582+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.835999+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -1478,7 +1483,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/July2026/PwZ8gsC2qFSefqgQiYn7.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.257582+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.835999+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -1574,7 +1579,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/July2026/KhD8KrIoanu9YdcSaEol.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.257582+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.835999+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -1670,7 +1675,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/July2026/rkm26VWeS4p81WeRmkbd.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.257582+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.835999+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -1766,7 +1771,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/May2026/QlcHODyypSmxDBtZosKf.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.257582+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.835999+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -1858,7 +1863,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/November2025/DgXiX15BuAVOcAXlo7U3.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.257582+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.835999+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -1954,7 +1959,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/November2025/8c7Vk9Vb2Y1riW9Nv0oi.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.257582+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.835999+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -2049,7 +2054,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/TNLMoX2VpNv2yM3xQo2g.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.257582+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.835999+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -2141,7 +2146,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/z7TtqugKhpXAjeskiHOU.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.257582+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.835999+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -2233,7 +2238,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/VIyXGP1qph3jkB401kGE.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.257582+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.835999+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -2325,7 +2330,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/7hJsn7ifALkBdJRjeGEY.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.257582+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.835999+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -2417,7 +2422,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/Y6rcuzsIMW1p8swMfTSy.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.257582+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.835999+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -2511,7 +2516,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/3WsyW3rFnR1q41VydjZv.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.257582+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.835999+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -2603,7 +2608,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/SdxSzvBZUrV1rbaFp1XY.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.257582+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.835999+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -2699,7 +2704,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/KmhCxcZbtAqQDSYWZN7Q.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.257582+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.835999+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -2793,7 +2798,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/September2025/PGfU44itHjuiIuyPwbh6.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.257582+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.835999+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -2886,7 +2891,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/September2025/iP265kPo6eAzajuoUs9S.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.257582+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.835999+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -2978,7 +2983,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/June2025/GxGE2wGS82k5GdDHOZRd.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.257582+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.835999+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -3074,7 +3079,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/May2025/fTdgIEhsK6LAukGCMdNH.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.257582+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.835999+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -3166,7 +3171,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/February2025/COQWrPjmremgJg2CjdOg.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.257582+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.835999+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -3258,7 +3263,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/February2025/bFwwoMG9WoE2h8nHISRw.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.257582+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.835999+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -3346,7 +3351,7 @@
     "url": "https://www2.faccat.br/portal/sites/default/files/Resultado_selecao_docente_2019.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.258324+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.836873+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -3420,14 +3425,14 @@
     "url": "https://cesuca.gupy.io/jobs/12823696",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.258854+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.837720+00:00",
     "categoria": "Professor efetivo",
     "modalidade": "Presencial",
     "remuneracao": "Não informada",
     "prazo": "2026-11-15",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:16.778231+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:01.080595+00:00",
     "url_documento": "https://cesuca.gupy.io/jobs/12823696",
     "documento_sha256": "c26fb34da80d0f5ab1ef0cc802bafa19b0a5d9f7da86c3df618c6deb33a7f61a",
     "indicios_documentais": {
@@ -3556,7 +3561,12 @@
     },
     "elegibilidade": "Condicionada: Fisiologia em Biomedicina admite áreas afins; confirmar aceitação de Fisioterapia. Remuneração não divulgada.",
     "tipo_oportunidade": "Seleção com cadastro de reserva",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-dedd7c7116d2c3ab05d7",
@@ -3566,14 +3576,14 @@
     "url": "https://portal.pucrs.br/wp-content/uploads/2026/11/EP_Contrat-7_Chamada-para-Selecao-Docente_Graduacao-2026-v.2_2026_11_04V2.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.260227+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.845447+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:16.778395+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:01.419936+00:00",
     "url_documento": "https://portal.pucrs.br/wp-content/uploads/2026/11/EP_Contrat-7_Chamada-para-Selecao-Docente_Graduacao-2026-v.2_2026_11_04V2.pdf",
     "documento_sha256": "89adc26a18881f89dc6602ea6c78ce448130894480e13fab8b62c362507ce229",
     "indicios_documentais": {
@@ -3641,7 +3651,12 @@
       "documento_consultado": true,
       "documento_sha256": "89adc26a18881f89dc6602ea6c78ce448130894480e13fab8b62c362507ce229"
     },
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-885e8dadca55ce5f7434",
@@ -3651,7 +3666,7 @@
     "url": "https://portal.pucrs.br/wp-content/uploads/2026/10/EP_Contrat-5_Rerratificacao-da-Chamada-para-Selecao-Docente_TI-PPG-PGETEMA_EngCivil_V42026_10_29.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.260227+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.845447+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -3735,7 +3750,7 @@
     "url": "https://portal.pucrs.br/wp-content/uploads/2026/10/EP_Chamada-para-Selecao-Docente_06_2026_10_15.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.260227+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.845447+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -3819,7 +3834,7 @@
     "url": "https://unisinos.gupy.io/jobs/11621585",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.262494+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.847465+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -3910,7 +3925,7 @@
     "url": "https://unisinos.gupy.io/jobs/11621604",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.262494+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.847465+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -4001,7 +4016,7 @@
     "url": "https://unisinos.gupy.io/jobs/11621468",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.262494+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.847465+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -4092,7 +4107,7 @@
     "url": "https://unisinos.gupy.io/jobs/11613651",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:38.262494+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.847465+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -4183,7 +4198,7 @@
     "url": "https://www.upf.br/a-universidade/procad/selecaodocente",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:39.629104+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:24.077171+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -4274,7 +4289,7 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/221-2026",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:42.139744+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:26.563828+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -4369,7 +4384,7 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/252-2026",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:42.139744+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:26.563828+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -4461,14 +4476,14 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/343-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:42.139744+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:26.563828+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:20.871223+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:06.792664+00:00",
     "url_documento": "https://www.ufsm.br/pro-reitorias/progep/editais/343-2025",
     "documento_sha256": "99606fb645cc397acde6287cb074a9c7f0c6ec1acd808be876ab319db52a98c4",
     "indicios_documentais": {
@@ -4542,7 +4557,12 @@
       "documento_consultado": true,
       "documento_sha256": "99606fb645cc397acde6287cb074a9c7f0c6ec1acd808be876ab319db52a98c4"
     },
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-bb279aebdb1ce9031e6c",
@@ -4552,7 +4572,7 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/101-2026",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:42.139744+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:26.563828+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -4644,7 +4664,7 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/198-2026",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:42.139744+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:26.563828+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -4736,7 +4756,7 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/247-2026",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:42.139744+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:26.563828+00:00",
     "categoria": "Professor substituto",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -4822,7 +4842,7 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/288-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:42.139744+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:26.563828+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -4914,7 +4934,7 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/250-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:42.139744+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:26.563828+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -5006,7 +5026,7 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/198-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:42.139744+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:26.563828+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -5192,7 +5212,7 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/coordenadoria-de-concursos-ccon",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:42.139744+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:26.563828+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -5276,7 +5296,7 @@
     "url": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/19038",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:46.664299+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:28.687082+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -5356,7 +5376,7 @@
     "url": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/19238",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:46.664299+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:28.687082+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -5436,7 +5456,7 @@
     "url": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/19219",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:46.664299+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:28.687082+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -5516,14 +5536,14 @@
     "url": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/19239",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:46.664299+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:28.687082+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:20.952826+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:07.197747+00:00",
     "url_documento": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/19239",
     "documento_sha256": "22f4fd26eaa2144375874aecfcba2765f21c55e11dead443e088f25e5afa9590",
     "indicios_documentais": {
@@ -5587,7 +5607,12 @@
       "documento_consultado": true,
       "documento_sha256": "22f4fd26eaa2144375874aecfcba2765f21c55e11dead443e088f25e5afa9590"
     },
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-6ae54f8e3c28b8a71ff3",
@@ -5597,7 +5622,7 @@
     "url": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/21758",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:46.664299+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:28.687082+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -5675,14 +5700,14 @@
     "url": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/20298",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:46.664299+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:28.687082+00:00",
     "categoria": "Professor substituto",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:21.047362+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:07.513396+00:00",
     "url_documento": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/20298",
     "documento_sha256": "2781d82fdb318539ae8c4b0bbaebf42657ed8a29b4cc5b681c5220a49c7bb04a",
     "indicios_documentais": {
@@ -5751,7 +5776,12 @@
       "documento_consultado": true,
       "documento_sha256": "2781d82fdb318539ae8c4b0bbaebf42657ed8a29b4cc5b681c5220a49c7bb04a"
     },
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-87858237291d22f0f8e0",
@@ -5761,7 +5791,7 @@
     "url": "https://guri.unipampa.edu.br/psa/acesso/preInsc/49236/21758",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:46.664299+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:28.687082+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -5833,7 +5863,7 @@
     "url": "https://uergs.edu.br/processos-seletivos-professores-voluntarios",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:46.685984+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:30.999617+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -5894,7 +5924,7 @@
     "url": "https://www.sg.unicamp.br/cvnd/solicitacoes-de-vagas-nao-docentes",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:50.111063+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:32.487135+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -5968,7 +5998,7 @@
     "url": "https://www.sg.unicamp.br/gde/procedimentos-para-realizacao/concurso-livre-docente",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:50.111063+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:32.487135+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -6049,7 +6079,7 @@
     "url": "https://www.sg.unicamp.br/gde/procedimentos-para-realizacao/concurso-pesquisador",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:50.111063+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:32.487135+00:00",
     "categoria": "Pesquisador",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -6130,7 +6160,7 @@
     "url": "https://www.sg.unicamp.br/gde/procedimentos-para-realizacao/concurso-professor-doutor",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:50.111063+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:32.487135+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -6213,7 +6243,7 @@
     "url": "https://www.sg.unicamp.br/gde/procedimentos-para-realizacao/concurso-professor-titular",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:50.111063+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:32.487135+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -6294,7 +6324,7 @@
     "url": "https://www.ufmg.br/prorh/gestao-de-vagas-docentes",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:51.099338+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:32.810464+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -6384,7 +6414,7 @@
     "url": "https://www.ufmg.br/prorh/publicacoes",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:51.099338+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:32.810464+00:00",
     "categoria": "Professor substituto",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -6468,7 +6498,7 @@
     "url": "https://www.ufmg.br/prorh/wp-content/uploads/2022/10/Sessao-Publica-Relatorio-Resultado-21_10_2022.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:51.099338+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:32.810464+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -6540,7 +6570,7 @@
     "url": "https://www.ufmg.br/prorh/wp-content/uploads/2023/03/Sessao-Publica-Relatorio-Resultado-06_03_2023.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:51.099338+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:32.810464+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -6612,7 +6642,7 @@
     "url": "https://www.ufmg.br/prorh/wp-content/uploads/2023/11/Sessao-Publica-Relatorio-Resultado-01_11_2023.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:51.099338+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:32.810464+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -6684,7 +6714,7 @@
     "url": "https://www.ufmg.br/prorh/wp-content/uploads/2024/09/Sessao-Publica-Relatorio-Resultado-16_09_2024.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:51.099338+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:32.810464+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -6756,7 +6786,7 @@
     "url": "https://www.ufmg.br/prorh/wp-content/uploads/2025/04/Sessao-Publica-Relatorio-Resultado-31_03_2025.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:51.099338+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:32.810464+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -6830,7 +6860,7 @@
     "url": "https://www.ufmg.br/prorh/wp-content/uploads/2025/09/Sessao-Publica-Relatorio-Resultado-19_09_2025.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:51.099338+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:32.810464+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -6906,7 +6936,7 @@
     "url": "https://www.ufmg.br/prorh/wp-content/uploads/2026/02/Sessao-Publica-Relatorio-Resultado-10_02_2026.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:51.099338+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:32.810464+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -6982,7 +7012,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-14162026-concurso-para-um-professor-associado-area-disciplinar-de-fisica",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:52.715400+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:35.764968+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -7079,14 +7109,14 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9712026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:52.715400+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:35.764968+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:22.582207+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:09.776809+00:00",
     "url_documento": "https://www.ulisboa.pt/recrutamento/edital-no-9712026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "documento_sha256": "0f958e1fd15d47f384bca87eeb71e4a9de57f15a257c2e8ea4aa84f99ad01033",
     "indicios_documentais": {
@@ -7167,7 +7197,12 @@
       "documento_consultado": true,
       "documento_sha256": "0f958e1fd15d47f384bca87eeb71e4a9de57f15a257c2e8ea4aa84f99ad01033"
     },
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-c010092826f48886e79d",
@@ -7177,14 +7212,14 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9702026-concurso-para-recrutamento-de-um-professor-associado-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:52.715400+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:35.764968+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:23.010933+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:09.870037+00:00",
     "url_documento": "https://www.ulisboa.pt/recrutamento/edital-no-9702026-concurso-para-recrutamento-de-um-professor-associado-na-area",
     "documento_sha256": "050faf0093d7c4a354c78b24b307d78d610e49fcc1b2d6e3077f9c1560ce6fa3",
     "indicios_documentais": {
@@ -7265,7 +7300,12 @@
       "documento_consultado": true,
       "documento_sha256": "050faf0093d7c4a354c78b24b307d78d610e49fcc1b2d6e3077f9c1560ce6fa3"
     },
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-0f7630c3542b93061771",
@@ -7275,7 +7315,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9692026-concurso-para-recrutamento-de-um-professor-associado-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:52.715400+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:35.764968+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -7372,7 +7412,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9682026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:52.715400+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:35.764968+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -7469,7 +7509,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9602026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:52.715400+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:35.764968+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -7566,7 +7606,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9592026-concurso-para-recrutamento-de-um-professor-associado-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:52.715400+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:35.764968+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -7663,7 +7703,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9582026-concurso-para-recrutamento-de-um-professor-associado-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:52.715400+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:35.764968+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -7760,7 +7800,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9572026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:52.715400+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:35.764968+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -7857,7 +7897,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9562026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:52.715400+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:35.764968+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -7954,7 +7994,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9452026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:52.715400+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:35.764968+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -8051,7 +8091,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9442026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:52.715400+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:35.764968+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -8148,7 +8188,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9432026-concurso-para-recrutamento-deum-professor-associado-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:52.715400+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:35.764968+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -8245,7 +8285,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9422026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:52.715400+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:35.764968+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -8342,7 +8382,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9412026-concurso-para-recrutamento-de-um-professor-associado-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:52.715400+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:35.764968+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -8439,7 +8479,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9402026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:52.715400+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:35.764968+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -8536,7 +8576,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-14152026-concurso-para-1-um-professor-associado-area-disciplinar-de",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:52.715400+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:35.764968+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -8633,7 +8673,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-12212026-concurso-para-recrutamento-de-um-professor-auxiliar-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:52.715400+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:35.764968+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -8730,14 +8770,14 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-10962026-concurso-para-recrutamento-de-um-professor-auxiliar-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:52.715400+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:35.764968+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:23.024499+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:10.179833+00:00",
     "url_documento": "https://www.ulisboa.pt/recrutamento/edital-no-10962026-concurso-para-recrutamento-de-um-professor-auxiliar-na-area",
     "documento_sha256": "e1311a9eee6789949d3f1c97d58efda1949ed79497adc204baf3a109d64ff5f7",
     "indicios_documentais": {
@@ -8818,7 +8858,12 @@
       "documento_consultado": true,
       "documento_sha256": "e1311a9eee6789949d3f1c97d58efda1949ed79497adc204baf3a109d64ff5f7"
     },
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-cbc6af302680363ec413",
@@ -8828,14 +8873,14 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-12742026-concurso-para-um-professor-auxiliar-area-disciplinar-de",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:52.715400+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:35.764968+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:23.122004+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:11.042641+00:00",
     "url_documento": "https://www.ulisboa.pt/recrutamento/edital-no-12742026-concurso-para-um-professor-auxiliar-area-disciplinar-de",
     "documento_sha256": "ca6f79a5a2e1fa297382b68c5c586da01d06331ece1c6235a11a47265c13a1e4",
     "indicios_documentais": {
@@ -8916,7 +8961,12 @@
       "documento_consultado": true,
       "documento_sha256": "ca6f79a5a2e1fa297382b68c5c586da01d06331ece1c6235a11a47265c13a1e4"
     },
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-420dc15ac72e6b61a6ee",
@@ -8926,14 +8976,14 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-12362026-concurso-para-dois-professores-catedraticos-na-area-disciplinar-de",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:52.715400+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:35.764968+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:23.466752+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:11.275475+00:00",
     "url_documento": "https://www.ulisboa.pt/recrutamento/edital-no-12362026-concurso-para-dois-professores-catedraticos-na-area-disciplinar-de",
     "documento_sha256": "0b52d853bef4d84c0daabe75d6e75a336cc98a33faf0c835a6404502a6cb81f1",
     "indicios_documentais": {
@@ -9014,7 +9064,12 @@
       "documento_consultado": true,
       "documento_sha256": "0b52d853bef4d84c0daabe75d6e75a336cc98a33faf0c835a6404502a6cb81f1"
     },
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-a5cc52e0b6120f4f6f2d",
@@ -9024,7 +9079,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-12112026-concurso-para-um-professor-auxiliar-na-area-disciplinar-de",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:52.715400+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:35.764968+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -9121,7 +9176,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-11712026-concurso-para-recrutamento-em-regime-de-contrato-de-trabalho-em",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:52.715400+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:35.764968+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -9218,14 +9273,14 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-10332026-concurso-para-professor-auxiliar-area-disciplinar-de-microbiologia",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:52.715400+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:35.764968+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:23.478661+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:11.620834+00:00",
     "url_documento": "https://www.ulisboa.pt/recrutamento/edital-no-10332026-concurso-para-professor-auxiliar-area-disciplinar-de-microbiologia",
     "documento_sha256": "1ba980108306394b51514629a3d36500a6fcc01b099c21b8c76ae508ed43c18e",
     "indicios_documentais": {
@@ -9306,7 +9361,12 @@
       "documento_consultado": true,
       "documento_sha256": "1ba980108306394b51514629a3d36500a6fcc01b099c21b8c76ae508ed43c18e"
     },
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-e0b4628e4be39dcbeab4",
@@ -9316,7 +9376,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-10162026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:52.715400+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:35.764968+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -9413,14 +9473,14 @@
     "url": "https://www.reitoria.uri.br/pt/download-editals/a15d4fff4a91e067c745deb186596f05",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:40.127309+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:24.368050+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:16.779395+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:01.758581+00:00",
     "url_documento": "https://www.reitoria.uri.br/pt/download-editals/a15d4fff4a91e067c745deb186596f05",
     "documento_sha256": "b1f9b9a2317ddb0b3b151c6ebac59cc65496b2bfaccb9ccea96c30e9aa9059ab",
     "indicios_documentais": {
@@ -9489,7 +9549,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-5d7abc57af8b223c2852",
@@ -9499,14 +9564,14 @@
     "url": "https://www.reitoria.uri.br/pt/download-editals/57c2f74fddca0d9a478d41e1c8e0ad78",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:40.127309+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:24.368050+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:16.779610+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:01.835838+00:00",
     "url_documento": "https://www.reitoria.uri.br/pt/download-editals/57c2f74fddca0d9a478d41e1c8e0ad78",
     "documento_sha256": "db24957d4fd8741ac61dbd3cf12aba2d6680f866e81c78353754000d9e8d8359",
     "indicios_documentais": {
@@ -9577,7 +9642,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-2904db6ff6bb1be66de0",
@@ -9587,14 +9657,14 @@
     "url": "https://www.reitoria.uri.br/pt/download-editals/7b935a22a1162165691777f8e5c7b97e",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:40.127309+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:24.368050+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:16.933120+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:03.432881+00:00",
     "url_documento": "https://www.reitoria.uri.br/pt/download-editals/7b935a22a1162165691777f8e5c7b97e",
     "documento_sha256": "e83efb4c3d630ff91731c2a4aac359e6ddcc3ce2b979cec81b64dc827b48be45",
     "indicios_documentais": {
@@ -9649,7 +9719,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-08fa8cbdb6651597c7c5",
@@ -9659,7 +9734,7 @@
     "url": "https://www.reitoria.uri.br/pt/download-editals/3c5680dfc00c70b56a50ae4b17ea1705",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:40.127309+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:24.368050+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -9727,14 +9802,14 @@
     "url": "https://www.reitoria.uri.br/pt/download-editals/cd5ae74a8269e0a02d85a4bcd970b52e",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:40.127309+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:24.368050+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:17.319693+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:03.766241+00:00",
     "url_documento": "https://www.reitoria.uri.br/pt/download-editals/cd5ae74a8269e0a02d85a4bcd970b52e",
     "documento_sha256": "7dcb207e23791bce9fbcd2586cdc62052d80840fcccf6fa06be4e2060e6f5899",
     "indicios_documentais": {
@@ -9803,7 +9878,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-ed5b54658af4335c5501",
@@ -9813,14 +9893,14 @@
     "url": "https://www.reitoria.uri.br/pt/download-editals/26a57c5f44db3d751c0230870a47e77f",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:40.127309+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:24.368050+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:18.769383+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:04.129067+00:00",
     "url_documento": "https://www.reitoria.uri.br/pt/download-editals/26a57c5f44db3d751c0230870a47e77f",
     "documento_sha256": "28da3164d11ae2faaeaedac5d63c980a99d5e274d12ddc29f416e5b9ed88b5b6",
     "indicios_documentais": {
@@ -9887,7 +9967,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-65e31e3900f84a2b6981",
@@ -9897,14 +9982,14 @@
     "url": "https://www.reitoria.uri.br/pt/download-editals/e32c670717bcff0e3f9488466a72dc75",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:40.127309+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:24.368050+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:19.070185+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:04.191433+00:00",
     "url_documento": "https://www.reitoria.uri.br/pt/download-editals/e32c670717bcff0e3f9488466a72dc75",
     "documento_sha256": "ae0411397336a79d6e2df8ee080a899392eb1471348477877db0d9444b3cde0c",
     "indicios_documentais": {
@@ -9955,7 +10040,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-1656fcecc4e90919dd09",
@@ -9965,14 +10055,14 @@
     "url": "https://www.reitoria.uri.br/pt/download-editals/64a3126b98424abf9623c145341844fe",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:40.127309+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:24.368050+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:19.377816+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:05.299407+00:00",
     "url_documento": "https://www.reitoria.uri.br/pt/download-editals/64a3126b98424abf9623c145341844fe",
     "documento_sha256": "87e16cfeaf6b066b7a66d375bca88388c255fec0632b22335be7d72a0a1c678c",
     "indicios_documentais": {
@@ -10023,7 +10113,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-15185ef6759c7fa1fde2",
@@ -10033,14 +10128,14 @@
     "url": "https://www.reitoria.uri.br/pt/download-editals/f5441ad9fcbd7f8ff1365bf01c954527",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:40.127309+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:24.368050+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:19.472968+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:05.440401+00:00",
     "url_documento": "https://www.reitoria.uri.br/pt/download-editals/f5441ad9fcbd7f8ff1365bf01c954527",
     "documento_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "indicios_documentais": {
@@ -10054,7 +10149,7 @@
       "prazo": [],
       "remuneracao": []
     },
-    "resultado_documental": "Indícios extraídos; elegibilidade, anexos e retificações exigem revisão",
+    "resultado_documental": "Falha: Texto documental indisponível; requer revisão manual/OCR",
     "verificacao": {
       "graduacao": {
         "valor": "Não informado",
@@ -10097,14 +10192,14 @@
     "url": "https://www.reitoria.uri.br/pt/download-editals/636260672232edfbdf24569970032d72",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:40.127309+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:24.368050+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:19.747311+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:06.056559+00:00",
     "url_documento": "https://www.reitoria.uri.br/pt/download-editals/636260672232edfbdf24569970032d72",
     "documento_sha256": "c216a0b19ad3ca27a90e0a1bdb9f28e55b4ea7f040481fb07d21aac47c0d42f4",
     "indicios_documentais": {
@@ -10166,7 +10261,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-03d49b2292e1ee7129be",
@@ -10176,14 +10276,14 @@
     "url": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2362-edital-de-abertura-n-174-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:48.140249+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:31.370682+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:21.517068+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:07.952124+00:00",
     "url_documento": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2362-edital-de-abertura-n-174-2025",
     "documento_sha256": "df0747b2efab2adf8c4ac38ebbeac88e5e99d4d71212f06c1ed35239a3560ccf",
     "indicios_documentais": {
@@ -10240,7 +10340,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-44d1b94445ecc4925bfb",
@@ -10250,14 +10355,14 @@
     "url": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2361-edital-de-abertura-n-170-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:48.140249+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:31.370682+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:21.753233+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:08.156580+00:00",
     "url_documento": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2361-edital-de-abertura-n-170-2025",
     "documento_sha256": "eef8b4c7b0182bb1e23d16b06f9cafe0818a6ec6ad396ec11ca66ab3162a30f3",
     "indicios_documentais": {
@@ -10314,7 +10419,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-c5625a69f3d52d6d2daa",
@@ -10324,14 +10434,14 @@
     "url": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2360-edital-de-abertura-n-163-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:48.140249+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:31.370682+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:21.963187+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:08.260601+00:00",
     "url_documento": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2360-edital-de-abertura-n-163-2025",
     "documento_sha256": "4af7ad8897cdf7225ec80fbbc3903a9feb3c6885ab2d2340bf17b8bdba30ed47",
     "indicios_documentais": {
@@ -10388,7 +10498,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-84598bfffcb41989314c",
@@ -10398,14 +10513,14 @@
     "url": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2359-edital-de-abertura-n-137-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:48.140249+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:31.370682+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:22.141368+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:08.721241+00:00",
     "url_documento": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2359-edital-de-abertura-n-137-2025",
     "documento_sha256": "7617e0c611b67761e8b48cc58dd062909e5a41b38ecaaab4bd071fdabbf4c730",
     "indicios_documentais": {
@@ -10462,7 +10577,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-69bea46aac4184ee6c6d",
@@ -10472,14 +10592,14 @@
     "url": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2358-edital-de-abertura-n-132-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:48.140249+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:31.370682+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:22.340864+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:08.755064+00:00",
     "url_documento": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2358-edital-de-abertura-n-132-2025",
     "documento_sha256": "80e0b04cdce7da89353fa44cdfb6f9af1f3f5480fe695944ee7d3848f0638cbc",
     "indicios_documentais": {
@@ -10536,7 +10656,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-ce4393011820fa93b012",
@@ -10546,14 +10671,14 @@
     "url": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2357-edital-de-abertura-n-134-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:48.140249+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:31.370682+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:22.427678+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:08.833168+00:00",
     "url_documento": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2357-edital-de-abertura-n-134-2025",
     "documento_sha256": "7a6a90f4887c5bdc6923079db7aea37dc01dc0834e21505f40f7e7ee5fb3e183",
     "indicios_documentais": {
@@ -10610,7 +10735,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-75c9fe649ac3e4179bd4",
@@ -10620,14 +10750,14 @@
     "url": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2356-edital-de-abertura-n-122-2026",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:48.140249+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:31.370682+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:22.567516+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:08.946035+00:00",
     "url_documento": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2356-edital-de-abertura-n-122-2026",
     "documento_sha256": "3727002bbc10dff4ef5e35d48b7f9f4a009115b3ef4727201702b1d8562f2288",
     "indicios_documentais": {
@@ -10684,7 +10814,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-c85619959bd6ac9e11a4",
@@ -10937,14 +11072,14 @@
     "url": "https://www.unifal-mg.edu.br/dips/professor-do-magisterio-superior",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:58.940286+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:43.060434+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:23.818497+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:12.847769+00:00",
     "url_documento": "https://www.unifal-mg.edu.br/dips/professor-do-magisterio-superior/",
     "documento_sha256": "a52e767e109150be378753ff7fd7717999f312ce58d0545d31699a47d109c36e",
     "indicios_documentais": {
@@ -11008,7 +11143,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 4,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-d087933fa1d6e0eb33ff",
@@ -11018,14 +11158,14 @@
     "url": "https://www.unifal-mg.edu.br/dips/edital-no-69-2026-reabertura-processo-de-selecao-para-professor-regente-dos-cursos-de-especializacao-do-programa-universidade-aberta-do-brasil-uab",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:58.940286+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:43.060434+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:24.580365+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:13.217067+00:00",
     "url_documento": "https://www.unifal-mg.edu.br/dips/edital-no-69-2026-reabertura-processo-de-selecao-para-professor-regente-dos-cursos-de-especializacao-do-programa-universidade-aberta-do-brasil-uab/",
     "documento_sha256": "90889a0def4b4e296e65db057237e4e17bc798b0102f0df61e38895f300cf716",
     "indicios_documentais": {
@@ -11080,7 +11220,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-cf41c02f5f82dde7ca56",
@@ -11090,14 +11235,14 @@
     "url": "https://www.unifal-mg.edu.br/dips/edital-no-039-2026-reabertura-concurso-publico-para-professor-do-magisterio-superior-clinica-medica-cardiologia",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:46:58.940286+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:43.060434+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:24.754859+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:13.238948+00:00",
     "url_documento": "https://www.unifal-mg.edu.br/dips/edital-no-039-2026-reabertura-concurso-publico-para-professor-do-magisterio-superior-clinica-medica-cardiologia/",
     "documento_sha256": "06f4dc0de1fc572282a27e7bc84d0d389fa47abc2f0404f935a236e9ef40505a",
     "indicios_documentais": {
@@ -11150,7 +11295,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Área potencialmente pertinente; exige edital, prazo, remuneração e requisitos.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-18b5bd020a026b47ce88",
@@ -11160,14 +11310,14 @@
     "url": "https://www2.ufjf.br/concursos/concursos-publicos-efetivos/concurso-docentes",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:47:00.211236+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:43.854494+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:24.787588+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:13.571677+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/concursos-publicos-efetivos/concurso-docentes/",
     "documento_sha256": "b55c9890a3bef5132a1613d0609edf8adaacd22011903df8277b3df7e213102a",
     "indicios_documentais": {
@@ -11216,7 +11366,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-9dd8f60b34520ffe324f",
@@ -11226,14 +11381,14 @@
     "url": "https://www2.ufjf.br/concursos/processos-seletivos-simplificados/selecao-docentes-temporarios",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:47:00.211236+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:43.854494+00:00",
     "categoria": "Professor substituto",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:24.964267+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:13.617967+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/processos-seletivos-simplificados/selecao-docentes-temporarios/",
     "documento_sha256": "874a87aff883dfc5e0bb44935c13e3f4e413d596a0e56046fc9c617f03559d89",
     "indicios_documentais": {
@@ -11283,7 +11438,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-eb3415648351111181b8",
@@ -11293,14 +11453,14 @@
     "url": "https://www2.ufjf.br/concursos/processos-seletivos-simplificados/selecao-professor-visitante",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:47:00.211236+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:43.854494+00:00",
     "categoria": "Professor visitante",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:25.050112+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:14.787968+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/processos-seletivos-simplificados/selecao-professor-visitante/",
     "documento_sha256": "8db28a17166506839a99a4dfe24c496c1fba3883ef4e3ba91f8575f47da2e337",
     "indicios_documentais": {
@@ -11349,7 +11509,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-5fa76eff3d723be98a82",
@@ -11359,14 +11524,14 @@
     "url": "https://www2.ufjf.br/concursos/processos-seletivos-simplificados/selecao-docentes-temporarios/ano-2024",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:47:00.211236+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:43.854494+00:00",
     "categoria": "Professor substituto",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:26.301287+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:15.072642+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/processos-seletivos-simplificados/selecao-docentes-temporarios/ano-2024/",
     "documento_sha256": "be770d06ecd42d6fa037d95a11a5c9bfc0e8a2f52688ef42e5e94b62c6cf55c3",
     "indicios_documentais": {
@@ -11423,7 +11588,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 23,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-99d5b02b244c2ff50045",
@@ -11433,14 +11603,14 @@
     "url": "https://www2.ufjf.br/concursos/processos-seletivos-simplificados/selecao-docentes-temporarios/ano-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:47:00.211236+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:43.854494+00:00",
     "categoria": "Professor substituto",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:26.464764+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:15.111069+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/processos-seletivos-simplificados/selecao-docentes-temporarios/ano-2025/",
     "documento_sha256": "2dd3aebc557a73c42aa0dce61f64cfac3c0d5a18bd9199e2ae990a302dc02089",
     "indicios_documentais": {
@@ -11499,7 +11669,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-baf3d3c0593551ab3e46",
@@ -11509,14 +11684,14 @@
     "url": "https://www2.ufjf.br/concursos/processos-seletivos-simplificados/selecao-docentes-temporarios/ano-2026",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:47:00.211236+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:43.854494+00:00",
     "categoria": "Professor substituto",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:26.541545+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:15.131055+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/processos-seletivos-simplificados/selecao-docentes-temporarios/ano-2026/",
     "documento_sha256": "a3fb89bdab5f8d42c7632cc10e10f71915aaf8ef1312d785930ebf95a7aafa53",
     "indicios_documentais": {
@@ -11573,7 +11748,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-e4872e8e089473f7830c",
@@ -11583,14 +11763,14 @@
     "url": "https://www2.ufjf.br/concursos/2016/01/13/publicado-edital-de-concurso-publico-para-docentes-do-c-a-joao-xxiii",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:47:00.211236+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:43.854494+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:26.829347+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:16.296771+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/2016/01/13/publicado-edital-de-concurso-publico-para-docentes-do-c-a-joao-xxiii/",
     "documento_sha256": "0b3d082a038be01b198a479268d0ecd5bbc4cac999ad6f17f3be6adc49945fa9",
     "indicios_documentais": {
@@ -11641,7 +11821,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-951d6751be2adb588f04",
@@ -11651,14 +11836,14 @@
     "url": "https://www2.ufjf.br/concursos/2013/04/01/novos-periodos-de-inscricao-para-concursos-de-professores-sao-cancelados",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:47:00.211236+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:43.854494+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:27.036965+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:16.666665+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/2013/04/01/novos-periodos-de-inscricao-para-concursos-de-professores-sao-cancelados/",
     "documento_sha256": "5ba190a2c0ef068ea882ac29b634f656f42b274e12559e26456e678a4f372a6e",
     "indicios_documentais": {
@@ -11711,7 +11896,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-e9107fdb30b0b389e51c",
@@ -11721,14 +11911,14 @@
     "url": "https://www2.ufjf.br/concursos/2013/02/01/ufjf-abre-inscricoes-para-dois-editais-de-concursos-publicos-para-professores-em-juiz-de-fora",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:47:00.211236+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:43.854494+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:27.175614+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:16.904453+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/2013/02/01/ufjf-abre-inscricoes-para-dois-editais-de-concursos-publicos-para-professores-em-juiz-de-fora/",
     "documento_sha256": "b91dd7c714980921a458e8bb5f5094e1bc94795839da14692d3d53f59571faab",
     "indicios_documentais": {
@@ -11781,7 +11971,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-9cee15936fa8babdab02",
@@ -11791,14 +11986,14 @@
     "url": "https://www2.ufjf.br/concursos/2012/12/21/ufjf-abre-vagas-em-concursos-publicos-para-professores-em-juiz-de-fora-2",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:47:00.211236+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:43.854494+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:28.459246+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:17.090266+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/2012/12/21/ufjf-abre-vagas-em-concursos-publicos-para-professores-em-juiz-de-fora-2/",
     "documento_sha256": "2ffeeac36758da67d9163b9060ded14689d84e0c228ae760c64d67ea8d3da9e2",
     "indicios_documentais": {
@@ -11849,7 +12044,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-722e3cacbe1d16c92a93",
@@ -11859,14 +12059,14 @@
     "url": "https://www2.ufjf.br/concursos/2012/12/07/novo-edital-para-contratacao-de-professores-temporarios",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:47:00.211236+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:43.854494+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:28.479971+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:17.213957+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/2012/12/07/novo-edital-para-contratacao-de-professores-temporarios/",
     "documento_sha256": "ed85fcc788e529bcfce4ea9a1ef4e1ef99dc043d4094f833969dd60af13ce10f",
     "indicios_documentais": {
@@ -11917,7 +12117,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-7711a22ba87303d5e56e",
@@ -11927,14 +12132,14 @@
     "url": "https://www2.ufjf.br/concursos/2012/11/09/ufjf-abre-2-periodo-de-inscricoes-em-concurso-publico-para-professores-em-juiz-de-fora",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:47:00.211236+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:43.854494+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:28.567796+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:17.318028+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/2012/11/09/ufjf-abre-2-periodo-de-inscricoes-em-concurso-publico-para-professores-em-juiz-de-fora/",
     "documento_sha256": "2cde10bbd7b75691b3eaa6b11c2b92187f2f9278cbe505020aafbafc1358f2cd",
     "indicios_documentais": {
@@ -11987,7 +12192,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-6f610d1e023b86845acf",
@@ -11997,14 +12207,14 @@
     "url": "https://www2.ufjf.br/concursos/2012/11/09/ufjf-abre-vagas-em-concursos-publicos-para-professores-em-juiz-de-fora",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:47:00.211236+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:43.854494+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:28.581689+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:17.894839+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/2012/11/09/ufjf-abre-vagas-em-concursos-publicos-para-professores-em-juiz-de-fora/",
     "documento_sha256": "5d859093c28abe96724c982c41e3f356d3b427656325a69af60995e6eb4e2d32",
     "indicios_documentais": {
@@ -12055,7 +12265,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-9799312eade4ff0b2733",
@@ -12065,14 +12280,14 @@
     "url": "https://www2.ufjf.br/concursos/2012/06/19/concurso-para-professores-na-ufjf-abre-2-periodo-de-inscricao",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:47:00.211236+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:43.854494+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:28.586762+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:18.255517+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/2012/06/19/concurso-para-professores-na-ufjf-abre-2-periodo-de-inscricao/",
     "documento_sha256": "7a0b2d8132b2449538bc9e57b5e88e76b84d5f586699a565bb265863052234b2",
     "indicios_documentais": {
@@ -12125,7 +12340,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-7aeffb857740235eb70c",
@@ -12135,14 +12355,14 @@
     "url": "https://www2.ufjf.br/concursos/2012/05/15/ufjf-abre-vagas-em-concurso-publico-para-professores-para-juiz-de-fora-e-governador-valadares",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:47:00.211236+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:43.854494+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:28.692072+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:18.455862+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/2012/05/15/ufjf-abre-vagas-em-concurso-publico-para-professores-para-juiz-de-fora-e-governador-valadares/",
     "documento_sha256": "b9da316534fd0c392acd120c5c7de331bf1bf588753062664f679bba219a7b91",
     "indicios_documentais": {
@@ -12193,7 +12413,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-694f679297a293b26f2c",
@@ -12203,14 +12428,14 @@
     "url": "https://www2.ufjf.br/concursos/2011/05/25/novo-edital-18",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T00:47:00.211236+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:43.854494+00:00",
     "categoria": "Professor substituto",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:30.080936+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:18.626150+00:00",
     "url_documento": "https://www2.ufjf.br/concursos/2011/05/25/novo-edital-18/",
     "documento_sha256": "1b511cb79a1b0624ebb36bef6333f27d0a7de1f9810a8ab2138f288c69d32f7c",
     "indicios_documentais": {
@@ -12270,7 +12495,12 @@
     },
     "triagem": "Candidato",
     "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "curado-unifesp-755-2026",
@@ -12282,22 +12512,22 @@
     "data_coleta": "2026-11-10",
     "categoria": "Professor substituto",
     "modalidade": "Presencial",
-    "consulta_documental_em": "2026-11-12T00:47:30.219605+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:18.811320+00:00",
     "url_documento": "https://phpu.unifesp.br/concurso/inscricao/editais/edital755-2026.htm",
-    "documento_sha256": "cd64e71c01f2d81d8417ef167918c49cc767f502da420a789d060a72ca3f2069",
+    "documento_sha256": "5e00a0f6e6a329a72f9b960b8f6f78374183cbfe444d7f807cc3e345344ee674",
     "indicios_documentais": {
       "graduacao": [
-        "Graduado na �rea de Fisioterapia",
-        "atividades de gradua��o, pesquisa e extens�o da Universidade Federal de S�o",
-        "gradua��o, com dura��o de no m�nimo 40 e de no m�ximo 50 minutos sobre tema"
+        "Graduado na área de Fisioterapia",
+        "atividades de graduação, pesquisa e extensão da Universidade Federal de São",
+        "graduação, com duração de no mínimo 40 e de no máximo 50 minutos sobre tema"
       ],
       "doutorado": [
-        "Doutor, em �rea/departamento afim",
-        "doutorado ou supervisor(a) em p�s-doutorado e vice-versa",
+        "Doutor, em área/departamento afim",
+        "doutorado ou supervisor(a) em pós-doutorado e vice-versa",
         "Doutorado"
       ],
       "idioma": [
-        "presente Edital dever� ser elaborado e apresentado em l�ngua portuguesa (idioma",
+        "presente Edital deverá ser elaborado e apresentado em língua portuguesa (idioma",
         "oficial brasileiro), salvo quando previsto outro idioma no edital de abertura",
         "Ter nacionalidade brasileira ou portuguesa e,"
       ],
@@ -12306,21 +12536,25 @@
         "em caso de nacionalidade portuguesa, estar amparado pelo estatuto de igualdade"
       ],
       "residencia": [
-        "os trabalhos, o Presidente da Banca Examinadora divulgar�, em sess�o p�blica, o",
-        "O recurso, dirigido ao Presidente da Banca Examinadora, dever� ser interposto exclusivamente por meio do endere�o",
-        "encaminhado ao Presidente da Banca"
+        "os trabalhos, o Presidente da Banca Examinadora divulgará, em sessão pública, o",
+        "deverá participar da banca ou de sua presidência aquele que, em relação a",
+        "O recurso, dirigido ao Presidente da Banca Examinadora, deverá ser interposto exclusivamente por meio do endereço"
       ],
       "autorizacao_profissional": [],
       "trabalho_do_brasil": [
-        "por Institui��o de Ensino Brasileira, devidamente reconhecida pelo Minist�rio",
-        "estrangeira, revalidado conforme legisla��o brasileira vigente",
+        "por Instituição de Ensino Brasileira, devidamente reconhecida pelo Ministério",
+        "estrangeira, revalidado conforme legislação brasileira vigente",
         "oficial brasileiro), salvo quando previsto outro idioma no edital de abertura"
       ],
-      "prazo": [],
+      "prazo": [
+        "instituído no presente Edital, torna pública a abertura das inscrições para o PROCESSO SELETIVO SIMPLIFICADO de",
+        "em até 2 (dois) dias úteis, após o início das inscrições, tendo como",
+        "termo inicial o 1º dia subsequente à data de início das inscrições"
+      ],
       "remuneracao": [
-        "CARGO, DA REMUNERA��O E DO REGIME DE TRABALHO",
-        "Remunera��o para o regime de trabalho de 40 (quarenta)",
-        "Remunera��o"
+        "CARGO, DA REMUNERAÇÃO E DO REGIME DE TRABALHO",
+        "Remuneração para o regime de trabalho de 40 (quarenta)",
+        "Remuneração"
       ]
     },
     "resultado_documental": "Indícios extraídos; elegibilidade, anexos e retificações exigem revisão",
@@ -12362,9 +12596,9 @@
         "fonte": "https://phpu.unifesp.br/concurso/inscricao/editais/edital755-2026.htm"
       }
     },
-    "status": "Anúncio verificado",
+    "status": "Revisão necessária",
     "triagem": "Candidato",
-    "motivo_triagem": "Edital remunerado com prazo e requisitos conferidos. Elegibilidade pessoal é condicional, não certificada.",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -12418,14 +12652,20 @@
       "documentos_revisados": [
         "https://phpu.unifesp.br/concurso/inscricao/editais/edital755-2026.htm"
       ],
-      "documento_sha256": "cd64e71c01f2d81d8417ef167918c49cc767f502da420a789d060a72ca3f2069"
+      "documento_sha256": "cd64e71c01f2d81d8417ef167918c49cc767f502da420a789d060a72ca3f2069",
+      "desatualizada": true
     },
-    "prazo": "2026-11-12",
-    "remuneracao": "R$ 6.157,29 brutos/mês + R$ 1.192,00 de alimentação; 40h; até 6 meses",
+    "prazo": "",
+    "remuneracao": "Documento alterado: rever",
     "ultima_deteccao": "2026-11-10",
     "url_oficial": "https://phpu.unifesp.br/concurso/inscricao/editais/edital755-2026.htm",
     "elegibilidade": "Condicionada: comprovar mestrado em Ciências da Saúde, domínio da subárea e demais requisitos; conferir retificações no portal de concursos.",
-    "documento_hash_formato": "texto-v1"
+    "documento_hash_formato": "texto-v1",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "curado-ufcspa-118-2026",
@@ -12442,8 +12682,8 @@
       "https://ufcspa.edu.br/documentos/ANEXOS_118.pdf",
       "https://ufcspa.edu.br/documentos/Retificacao_27_de_outubro_1.pdf"
     ],
-    "consulta_documental_em": "2026-11-12T00:47:30.239287+00:00",
-    "resultado_documental": "Indícios extraídos; elegibilidade, anexos e retificações exigem revisão",
+    "consulta_documental_em": "2026-11-12T01:24:19.408868+00:00",
+    "resultado_documental": "Falha: <urlopen error [Errno -3] Temporary failure in name resolution>",
     "verificacao": {
       "graduacao": {
         "valor": "Fisioterapia Comunitária: bacharelado em Fisioterapia; Fisiologia Humana: não há graduação específica no quadro (item 2)",
@@ -12606,7 +12846,7 @@
     "url": "https://unisinos.gupy.io/jobs/11621447",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-11",
-    "ultima_deteccao": "2026-11-12T00:46:38.262494+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:22.847465+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -12687,14 +12927,14 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/223-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T00:46:42.139744+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:26.563828+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:19.943379+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:06.410500+00:00",
     "url_documento": "https://www.ufsm.br/pro-reitorias/progep/editais/223-2025",
     "documento_sha256": "ea8180233d2c5e1c4ab34b5d37d887c3ec94c01b1873379bd600af939746887f",
     "documento_hash_formato": "texto-v1",
@@ -12757,7 +12997,12 @@
       }
     },
     "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "inst-c1914ca1d48a1d5b6cde",
@@ -12767,14 +13012,14 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/100-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T00:46:42.139744+00:00",
+    "ultima_deteccao": "2026-11-12T01:23:26.563828+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T00:47:20.534744+00:00",
+    "consulta_documental_em": "2026-11-12T01:24:06.678611+00:00",
     "url_documento": "https://www.ufsm.br/pro-reitorias/progep/editais/100-2025",
     "documento_sha256": "21e1ca844b1996bc91c03165743e7ff94c960afaa076fc346494b770a5fff33e",
     "documento_hash_formato": "texto-v1",
@@ -12835,7 +13080,12 @@
       }
     },
     "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    }
   },
   {
     "id": "candidato-unirg-068-2026",
@@ -12883,7 +13133,8 @@
       }
     },
     "triagem": "Candidato",
-    "motivo_triagem": "Área potencialmente pertinente; exige edital, prazo, remuneração e requisitos."
+    "motivo_triagem": "Área potencialmente pertinente; exige edital, prazo, remuneração e requisitos.",
+    "ultima_deteccao": "2026-11-11"
   },
   {
     "id": "candidato-unex-jequie-02-2026",
@@ -12931,6 +13182,1944 @@
       }
     },
     "triagem": "Candidato",
-    "motivo_triagem": "Área potencialmente pertinente; exige edital, prazo, remuneração e requisitos."
+    "motivo_triagem": "Área potencialmente pertinente; exige edital, prazo, remuneração e requisitos.",
+    "ultima_deteccao": "2026-11-11"
+  },
+  {
+    "id": "inst-a054fd0bc0192019b93a",
+    "titulo": "Edital",
+    "instituicao": "FACCAT",
+    "pais": "Brasil",
+    "url": "https://www2.faccat.br/portal/sites/default/files/ckeditorfiles/2025/Editalselecaodocente-externo.pdf",
+    "fonte": "Institucional direta",
+    "data_coleta": "2026-11-12",
+    "ultima_deteccao": "2026-11-12T01:23:22.836873+00:00",
+    "categoria": "Docência / pesquisa a confirmar",
+    "modalidade": "Não informada",
+    "remuneracao": "Não informada",
+    "prazo": "",
+    "status": "Não verificado",
+    "prioridade": "Aderência a revisar",
+    "consulta_documental_em": "2026-11-12T01:23:53.358165+00:00",
+    "url_documento": "https://www2.faccat.br/portal/sites/default/files/ckeditorfiles/2025/Editalselecaodocente-externo.pdf",
+    "resultado_documental": "Falha: Texto documental indisponível; requer revisão manual/OCR",
+    "verificacao": {
+      "graduacao": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "doutorado": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "idioma": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "nacionalidade": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "residencia": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "autorizacao_profissional": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "trabalho_do_brasil": {
+        "valor": "Não informado",
+        "evidencia": ""
+      }
+    },
+    "triagem": "Candidato",
+    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+  },
+  {
+    "id": "inst-32e9d52da96775be0ff9",
+    "titulo": "Edital",
+    "instituicao": "FACCAT",
+    "pais": "Brasil",
+    "url": "https://www2.faccat.br/portal/sites/default/files/ckeditorfiles/2024/2025_Edital_de_Selecao_Docente.pdf",
+    "fonte": "Institucional direta",
+    "data_coleta": "2026-11-12",
+    "ultima_deteccao": "2026-11-12T01:23:22.836873+00:00",
+    "categoria": "Docência / pesquisa a confirmar",
+    "modalidade": "Não informada",
+    "remuneracao": "Não informada",
+    "prazo": "",
+    "status": "Não verificado",
+    "prioridade": "Aderência a revisar",
+    "consulta_documental_em": "2026-11-12T01:23:53.358303+00:00",
+    "resultado_documental": "Falha: Documento excede 4 MB",
+    "verificacao": {
+      "graduacao": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "doutorado": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "idioma": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "nacionalidade": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "residencia": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "autorizacao_profissional": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "trabalho_do_brasil": {
+        "valor": "Não informado",
+        "evidencia": ""
+      }
+    },
+    "triagem": "Candidato",
+    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+  },
+  {
+    "id": "inst-b403488469480b87631e",
+    "titulo": "Edital",
+    "instituicao": "FACCAT",
+    "pais": "Brasil",
+    "url": "https://www2.faccat.br/portal/sites/default/files/ckeditorfiles/2024/2024-Edital_PIBID_professores.pdf",
+    "fonte": "Institucional direta",
+    "data_coleta": "2026-11-12",
+    "ultima_deteccao": "2026-11-12T01:23:22.836873+00:00",
+    "categoria": "Docência / pesquisa a confirmar",
+    "modalidade": "Não informada",
+    "remuneracao": "Não informada",
+    "prazo": "",
+    "status": "Não verificado",
+    "prioridade": "Aderência a revisar",
+    "consulta_documental_em": "2026-11-12T01:23:53.358538+00:00",
+    "resultado_documental": "Falha: Documento excede 4 MB",
+    "verificacao": {
+      "graduacao": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "doutorado": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "idioma": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "nacionalidade": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "residencia": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "autorizacao_profissional": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "trabalho_do_brasil": {
+        "valor": "Não informado",
+        "evidencia": ""
+      }
+    },
+    "triagem": "Candidato",
+    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+  },
+  {
+    "id": "inst-74469f4df983b154d261",
+    "titulo": "Edital",
+    "instituicao": "FACCAT",
+    "pais": "Brasil",
+    "url": "https://www2.faccat.br/portal/sites/default/files/ckeditorfiles/Edital_para_Seleo_Docente_01_2024_Atualizado_em_02_01_2024%20-%20Assinado.pdf",
+    "fonte": "Institucional direta",
+    "data_coleta": "2026-11-12",
+    "ultima_deteccao": "2026-11-12T01:23:22.836873+00:00",
+    "categoria": "Docência / pesquisa a confirmar",
+    "modalidade": "Não informada",
+    "remuneracao": "Não informada",
+    "prazo": "",
+    "status": "Não verificado",
+    "prioridade": "Aderência a revisar",
+    "consulta_documental_em": "2026-11-12T01:23:53.358717+00:00",
+    "url_documento": "https://www2.faccat.br/portal/sites/default/files/ckeditorfiles/Edital_para_Seleo_Docente_01_2024_Atualizado_em_02_01_2024%20-%20Assinado.pdf",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    },
+    "documento_sha256": "da7fb847889294db56df084b0e208d848356c65553f0f442c42ee886bed43fdd",
+    "documento_hash_formato": "texto-v1",
+    "indicios_documentais": {
+      "graduacao": [
+        "Graduação na área",
+        "3 Para a comprovação da titulação de pós-graduação stricto sensu concluída no",
+        "Docentes, composta pela Vice-Direção de Graduação, pelo Coordenador do Curso, por um"
+      ],
+      "doutorado": [
+        "doutorado,",
+        "b) comprovação de titulação de Mestre ou Doutor"
+      ],
+      "idioma": [],
+      "nacionalidade": [],
+      "residencia": [
+        "título de eleitor e comprovante de residência), da Carteira de Trabalho e Previdência Social e"
+      ],
+      "autorizacao_profissional": [],
+      "trabalho_do_brasil": [],
+      "prazo": [
+        "comissão de 3 (três) professores, homologando-se as inscrições dos candidatos com a",
+        "4 Poderão ser homologadas até 5 (cinco) inscrições, considerando os critérios",
+        "inscrições, considerando os critérios estabelecidos neste Edital, sendo definido novo"
+      ],
+      "remuneracao": []
+    },
+    "resultado_documental": "Indícios extraídos; elegibilidade, anexos e retificações exigem revisão",
+    "verificacao": {
+      "graduacao": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "doutorado": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "idioma": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "nacionalidade": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "residencia": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "autorizacao_profissional": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "trabalho_do_brasil": {
+        "valor": "Não informado",
+        "evidencia": ""
+      }
+    },
+    "triagem": "Candidato",
+    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+  },
+  {
+    "id": "inst-4ceaf84943aac943ce1d",
+    "titulo": "Edital",
+    "instituicao": "FACCAT",
+    "pais": "Brasil",
+    "url": "https://www2.faccat.br/portal/sites/default/files/Edital_de_Selecao_Docente-Externo.pdf",
+    "fonte": "Institucional direta",
+    "data_coleta": "2026-11-12",
+    "ultima_deteccao": "2026-11-12T01:23:22.836873+00:00",
+    "categoria": "Docência / pesquisa a confirmar",
+    "modalidade": "Não informada",
+    "remuneracao": "Não informada",
+    "prazo": "",
+    "status": "Não verificado",
+    "prioridade": "Aderência a revisar",
+    "consulta_documental_em": "2026-11-12T01:23:53.358928+00:00",
+    "resultado_documental": "Falha: Documento excede 4 MB",
+    "verificacao": {
+      "graduacao": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "doutorado": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "idioma": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "nacionalidade": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "residencia": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "autorizacao_profissional": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "trabalho_do_brasil": {
+        "valor": "Não informado",
+        "evidencia": ""
+      }
+    },
+    "triagem": "Candidato",
+    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+  },
+  {
+    "id": "inst-3aabec24e8758685ada2",
+    "titulo": "Edital",
+    "instituicao": "FACCAT",
+    "pais": "Brasil",
+    "url": "https://www2.faccat.br/portal/sites/default/files/ckeditorfiles/Edital_de_Selecao_de_Docentes_n_01_2023.pdf",
+    "fonte": "Institucional direta",
+    "data_coleta": "2026-11-12",
+    "ultima_deteccao": "2026-11-12T01:23:22.836873+00:00",
+    "categoria": "Docência / pesquisa a confirmar",
+    "modalidade": "Não informada",
+    "remuneracao": "Não informada",
+    "prazo": "",
+    "status": "Não verificado",
+    "prioridade": "Aderência a revisar",
+    "consulta_documental_em": "2026-11-12T01:23:55.189715+00:00",
+    "url_documento": "https://www2.faccat.br/portal/sites/default/files/ckeditorfiles/Edital_de_Selecao_de_Docentes_n_01_2023.pdf",
+    "resultado_documental": "Falha: Texto documental indisponível; requer revisão manual/OCR",
+    "verificacao": {
+      "graduacao": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "doutorado": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "idioma": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "nacionalidade": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "residencia": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "autorizacao_profissional": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "trabalho_do_brasil": {
+        "valor": "Não informado",
+        "evidencia": ""
+      }
+    },
+    "triagem": "Candidato",
+    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+  },
+  {
+    "id": "inst-b314d34ae27143ead8bc",
+    "titulo": "Edital",
+    "instituicao": "FACCAT",
+    "pais": "Brasil",
+    "url": "https://www2.faccat.br/portal/sites/default/files/ckeditorfiles/Edital_selecao_Mestrado_Professor_2023.pdf",
+    "fonte": "Institucional direta",
+    "data_coleta": "2026-11-12",
+    "ultima_deteccao": "2026-11-12T01:23:22.836873+00:00",
+    "categoria": "Docência / pesquisa a confirmar",
+    "modalidade": "Não informada",
+    "remuneracao": "Não informada",
+    "prazo": "",
+    "status": "Não verificado",
+    "prioridade": "Aderência a revisar",
+    "consulta_documental_em": "2026-11-12T01:23:55.266979+00:00",
+    "resultado_documental": "Falha: Documento excede 4 MB",
+    "verificacao": {
+      "graduacao": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "doutorado": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "idioma": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "nacionalidade": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "residencia": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "autorizacao_profissional": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "trabalho_do_brasil": {
+        "valor": "Não informado",
+        "evidencia": ""
+      }
+    },
+    "triagem": "Candidato",
+    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+  },
+  {
+    "id": "inst-bd177d61027f064b6ace",
+    "titulo": "Edital",
+    "instituicao": "FACCAT",
+    "pais": "Brasil",
+    "url": "https://www2.faccat.br/portal/sites/default/files/ckeditorfiles/Edital%20de%20Sele%C3%A7%C3%A3o%20Docente%20%281%29.pdf",
+    "fonte": "Institucional direta",
+    "data_coleta": "2026-11-12",
+    "ultima_deteccao": "2026-11-12T01:23:22.836873+00:00",
+    "categoria": "Docência / pesquisa a confirmar",
+    "modalidade": "Não informada",
+    "remuneracao": "Não informada",
+    "prazo": "",
+    "status": "Não verificado",
+    "prioridade": "Aderência a revisar",
+    "consulta_documental_em": "2026-11-12T01:23:57.140553+00:00",
+    "url_documento": "https://www2.faccat.br/portal/sites/default/files/ckeditorfiles/Edital%20de%20Sele%C3%A7%C3%A3o%20Docente%20%281%29.pdf",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    },
+    "documento_sha256": "6fe9d01ee447caa1ead621e68c2675bf448c8c1dbed2ac79963433c0363b3641",
+    "documento_hash_formato": "texto-v1",
+    "indicios_documentais": {
+      "graduacao": [
+        "2023/1 Graduação em Ciências",
+        "Enfermagem Saúde Mental I 2023/1 Graduação em Enfermagem",
+        "2023/1 Graduação com Mestrado na"
+      ],
+      "doutorado": [
+        "b) comprovação de titulação de Mestre ou Doutor"
+      ],
+      "idioma": [],
+      "nacionalidade": [],
+      "residencia": [
+        "documentação civil (RG, CPF, título de eleitor e comprovante de residência), da Carteira de"
+      ],
+      "autorizacao_profissional": [],
+      "trabalho_do_brasil": [
+        "Brasileiras de Contabilidade"
+      ],
+      "prazo": [
+        "comissão de 3 (três) professores, homologando-se as inscrições dos candidatos com a",
+        "4 Poderão ser homologadas até 5 (cinco) inscrições, considerando os critérios",
+        "inscrições, considerando os critérios estabelecidos neste Edital, sendo definido novo"
+      ],
+      "remuneracao": []
+    },
+    "resultado_documental": "Indícios extraídos; elegibilidade, anexos e retificações exigem revisão",
+    "verificacao": {
+      "graduacao": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "doutorado": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "idioma": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "nacionalidade": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "residencia": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "autorizacao_profissional": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "trabalho_do_brasil": {
+        "valor": "Não informado",
+        "evidencia": ""
+      }
+    },
+    "triagem": "Candidato",
+    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+  },
+  {
+    "id": "inst-054cba526b1ea6fb1c8b",
+    "titulo": "Edital",
+    "instituicao": "FACCAT",
+    "pais": "Brasil",
+    "url": "https://www2.faccat.br/portal/sites/default/files/ckeditorfiles/Design_direito_Enfermagem_Edital_de_Selecao_Docente_1_2022.pdf",
+    "fonte": "Institucional direta",
+    "data_coleta": "2026-11-12",
+    "ultima_deteccao": "2026-11-12T01:23:22.836873+00:00",
+    "categoria": "Docência / pesquisa a confirmar",
+    "modalidade": "Não informada",
+    "remuneracao": "Não informada",
+    "prazo": "",
+    "status": "Não verificado",
+    "prioridade": "Aderência a revisar",
+    "consulta_documental_em": "2026-11-12T01:23:58.863842+00:00",
+    "url_documento": "https://www2.faccat.br/portal/sites/default/files/ckeditorfiles/Design_direito_Enfermagem_Edital_de_Selecao_Docente_1_2022.pdf",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    },
+    "documento_sha256": "d99c1eea261ad2ac224cc17f16dc30f321948532bec460e79a091d0eecf257be",
+    "documento_hash_formato": "texto-v1",
+    "indicios_documentais": {
+      "graduacao": [
+        "Graduação em Arquitetura e",
+        "Graduação em Enfermagem",
+        "3 Para a comprovação da titulação de pós-graduação stricto sensu concluída no"
+      ],
+      "doutorado": [
+        "Mestrado ou Doutorado em",
+        "b) comprovação de titulação de Mestre ou Doutor"
+      ],
+      "idioma": [],
+      "nacionalidade": [],
+      "residencia": [
+        "documentação civil (RG, CPF, título de eleitor e comprovante de residência), da Carteira de",
+        "Ementa: Conceitos e princípios para a concepção de espaços interiores residenciais,"
+      ],
+      "autorizacao_profissional": [],
+      "trabalho_do_brasil": [],
+      "prazo": [
+        "inscrição na OAB/RS com",
+        "comissão de 3 (três) professores, homologando-se as inscrições dos candidatos com a",
+        "4 Poderão ser homologadas até 5 (cinco) inscrições, considerando os critérios"
+      ],
+      "remuneracao": []
+    },
+    "resultado_documental": "Indícios extraídos; elegibilidade, anexos e retificações exigem revisão",
+    "verificacao": {
+      "graduacao": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "doutorado": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "idioma": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "nacionalidade": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "residencia": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "autorizacao_profissional": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "trabalho_do_brasil": {
+        "valor": "Não informado",
+        "evidencia": ""
+      }
+    },
+    "triagem": "Candidato",
+    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+  },
+  {
+    "id": "inst-18c9303f5d5f50cfda97",
+    "titulo": "Edital",
+    "instituicao": "FACCAT",
+    "pais": "Brasil",
+    "url": "https://www2.faccat.br/portal/sites/default/files/ckeditorfiles/Edital_de_selecao_docente_inovacao_externo_0.pdf",
+    "fonte": "Institucional direta",
+    "data_coleta": "2026-11-12",
+    "ultima_deteccao": "2026-11-12T01:23:22.836873+00:00",
+    "categoria": "Docência / pesquisa a confirmar",
+    "modalidade": "Não informada",
+    "remuneracao": "Não informada",
+    "prazo": "",
+    "status": "Não verificado",
+    "prioridade": "Aderência a revisar",
+    "consulta_documental_em": "2026-11-12T01:24:00.405445+00:00",
+    "url_documento": "https://www2.faccat.br/portal/sites/default/files/ckeditorfiles/Edital_de_selecao_docente_inovacao_externo_0.pdf",
+    "resultado_documental": "Falha: Texto documental indisponível; requer revisão manual/OCR",
+    "verificacao": {
+      "graduacao": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "doutorado": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "idioma": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "nacionalidade": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "residencia": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "autorizacao_profissional": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "trabalho_do_brasil": {
+        "valor": "Não informado",
+        "evidencia": ""
+      }
+    },
+    "triagem": "Candidato",
+    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+  },
+  {
+    "id": "inst-e17fe5b70565efcdca04",
+    "titulo": "Edital",
+    "instituicao": "FACCAT",
+    "pais": "Brasil",
+    "url": "https://www2.faccat.br/portal/sites/default/files/ckeditorfiles/Edital_selecao_de_docente_comunicacao.pdf",
+    "fonte": "Institucional direta",
+    "data_coleta": "2026-11-12",
+    "ultima_deteccao": "2026-11-12T01:23:22.836873+00:00",
+    "categoria": "Docência / pesquisa a confirmar",
+    "modalidade": "Não informada",
+    "remuneracao": "Não informada",
+    "prazo": "",
+    "status": "Não verificado",
+    "prioridade": "Aderência a revisar",
+    "consulta_documental_em": "2026-11-12T01:24:00.747851+00:00",
+    "resultado_documental": "Falha: Documento excede 4 MB",
+    "verificacao": {
+      "graduacao": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "doutorado": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "idioma": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "nacionalidade": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "residencia": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "autorizacao_profissional": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "trabalho_do_brasil": {
+        "valor": "Não informado",
+        "evidencia": ""
+      }
+    },
+    "triagem": "Candidato",
+    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+  },
+  {
+    "id": "inst-2598322475252c936a53",
+    "titulo": "Psicologia – Tempo Integral para Graduação e Pós-Graduação O/A docente atuará em disciplinas de Graduação e como docente na pós-Graduação Stricto Sensu.",
+    "instituicao": "PUCRS",
+    "pais": "Brasil",
+    "url": "https://portal.pucrs.br/wp-content/uploads/2026/11/ecsv-psicologia-edital-004_2026-contratacao_docente_integral_GRAD__PPGP-5nov26.pdf",
+    "fonte": "Institucional direta",
+    "data_coleta": "2026-11-12",
+    "ultima_deteccao": "2026-11-12T01:23:22.845447+00:00",
+    "categoria": "Docência / pesquisa a confirmar",
+    "modalidade": "Não informada",
+    "remuneracao": "Não informada",
+    "prazo": "",
+    "status": "Não verificado",
+    "prioridade": "Aderência a revisar",
+    "consulta_documental_em": "2026-11-12T01:24:01.229692+00:00",
+    "url_documento": "https://portal.pucrs.br/wp-content/uploads/2026/11/ecsv-psicologia-edital-004_2026-contratacao_docente_integral_GRAD__PPGP-5nov26.pdf",
+    "resultado_documental": "Falha: Texto documental indisponível; requer revisão manual/OCR",
+    "verificacao": {
+      "graduacao": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "doutorado": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "idioma": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "nacionalidade": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "residencia": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "autorizacao_profissional": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "trabalho_do_brasil": {
+        "valor": "Não informado",
+        "evidencia": ""
+      }
+    },
+    "triagem": "Candidato",
+    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+  },
+  {
+    "id": "inst-893011de72ff5bcc4a4a",
+    "titulo": "Edital PPGSAS Nº 01/2026 - Recredenciamento de meio-termo de docentes permanentes",
+    "instituicao": "UPF",
+    "pais": "Brasil",
+    "url": "https://www.upf.br/Media/Edital-Recredenciamento-PPGSAS-UPF_208685.pdf",
+    "fonte": "Institucional direta",
+    "data_coleta": "2026-11-12",
+    "ultima_deteccao": "2026-11-12T01:23:24.077171+00:00",
+    "categoria": "Docência / pesquisa a confirmar",
+    "modalidade": "Não informada",
+    "remuneracao": "Não informada",
+    "prazo": "",
+    "status": "Não verificado",
+    "prioridade": "Aderência a revisar",
+    "consulta_documental_em": "2026-11-12T01:24:01.666921+00:00",
+    "url_documento": "https://www.upf.br/Media/Edital-Recredenciamento-PPGSAS-UPF_208685.pdf",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    },
+    "documento_sha256": "c5cf821ad59401f0a6f3757baf303c10326150e81863d1d37bb93a81e28e22c5",
+    "documento_hash_formato": "texto-v1",
+    "indicios_documentais": {
+      "graduacao": [
+        "PROGRAMA DE PÓS-GRADUAÇÃO EM SISTEMAS AMBIENTAIS E SUSTENTABILIDADE – PPGSAS",
+        "O Colegiado do Programa de Pós -Graduação em Sistemas Ambientais e Sustentabilidade da Universidade de",
+        "Graduação em Sistemas Ambientais e Sustentabilidade"
+      ],
+      "doutorado": [],
+      "idioma": [],
+      "nacionalidade": [],
+      "residencia": [],
+      "autorizacao_profissional": [],
+      "trabalho_do_brasil": [],
+      "prazo": [
+        "DAS INSCRIÇÕES",
+        "1 As inscrições deverão ser realizadas no período de 26 de outubro a 16 de novembro de 2026, mediante envio",
+        "a) Formulário próprio de inscrição, conforme Anexo I deste Edital, devidamente preenchido e assinado"
+      ],
+      "remuneracao": []
+    },
+    "resultado_documental": "Indícios extraídos; elegibilidade, anexos e retificações exigem revisão",
+    "verificacao": {
+      "graduacao": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "doutorado": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "idioma": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "nacionalidade": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "residencia": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "autorizacao_profissional": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "trabalho_do_brasil": {
+        "valor": "Não informado",
+        "evidencia": ""
+      }
+    },
+    "triagem": "Candidato",
+    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+  },
+  {
+    "id": "inst-d93427c86621498509aa",
+    "titulo": "Edital Nº 325/2026",
+    "instituicao": "Unipampa",
+    "pais": "Brasil",
+    "url": "https://guri.unipampa.edu.br/psa/processos/downloadAnexo/33685/edital_325_2026___edital_de_selecao_simplificada_para_professor_regente_componente_curricular_de_libras.pdf",
+    "fonte": "Institucional direta",
+    "data_coleta": "2026-11-12",
+    "ultima_deteccao": "2026-11-12T01:23:28.687082+00:00",
+    "categoria": "Docência / pesquisa a confirmar",
+    "modalidade": "Não informada",
+    "remuneracao": "Não informada",
+    "prazo": "",
+    "status": "Não verificado",
+    "prioridade": "Aderência a revisar",
+    "consulta_documental_em": "2026-11-12T01:24:07.942953+00:00",
+    "url_documento": "https://guri.unipampa.edu.br/psa/processos/downloadAnexo/33685/edital_325_2026___edital_de_selecao_simplificada_para_professor_regente_componente_curricular_de_libras.pdf",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    },
+    "documento_sha256": "514e4eff3971b422ef4702d9f2ed6142c04135125202005ccb81dfe243ad48b7",
+    "documento_hash_formato": "texto-v1",
+    "indicios_documentais": {
+      "graduacao": [
+        "Estágios à docência realizados durante curso de pós-graduação não serão considerados",
+        "PDF do diploma de graduação (frente e verso) expedido por Instituição de Ensino"
+      ],
+      "doutorado": [
+        "Licenciatura com Mestrado e/ou Doutorado, e",
+        "Doutorado"
+      ],
+      "idioma": [
+        "Libras/Língua Portuguesa/Libras, comprovada"
+      ],
+      "nacionalidade": [],
+      "residencia": [],
+      "autorizacao_profissional": [
+        "Regente - componente curricular de LIBRAS a fim de atuar no Curso de Licenciatura em",
+        "Não estar em gozo de licença e/ou afastado de suas atividades profissionais da",
+        "Licenciatura com Mestrado e/ou Doutorado, e"
+      ],
+      "trabalho_do_brasil": [
+        "Pedagogia na modalidade a distância, no âmbito do Sistema Universidade Aberta do Brasil",
+        "Federal do Brasil, disponível no endereço",
+        "horário de Brasília"
+      ],
+      "prazo": [
+        "estatutárias, torna pública a abertura de inscrições para a seleção simplificada para Professor",
+        "Ao efetivar a inscrição, a pessoa candidata declara estar ciente do conteúdo deste edital e",
+        "inscrição não homologada"
+      ],
+      "remuneracao": [
+        "8º da Portaria CAPES nº 309, de 27 de setembro de 2024 as bolsas",
+        "do Sistema UAB não poderão ser acumuladas com outras bolsas pagas pela Capes, Conselho",
+        "A(s) bolsa(s) concedida(s) ao professor regente da componente curricular de LIBRAS não"
+      ]
+    },
+    "resultado_documental": "Indícios extraídos; elegibilidade, anexos e retificações exigem revisão",
+    "verificacao": {
+      "graduacao": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "doutorado": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "idioma": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "nacionalidade": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "residencia": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "autorizacao_profissional": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "trabalho_do_brasil": {
+        "valor": "Não informado",
+        "evidencia": ""
+      }
+    },
+    "triagem": "Candidato",
+    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+  },
+  {
+    "id": "inst-548caf1439bd734ff04d",
+    "titulo": "Modelo de Edital Livre Docente COM prova especifica",
+    "instituicao": "Unicamp",
+    "pais": "Brasil",
+    "url": "https://downloads.sg.unicamp.br/?f=c6f69971ffd4bc08989d188bdd5aa219&t=5bfbe908bd530d5c43f99eb09d2d37e4",
+    "fonte": "Institucional direta",
+    "data_coleta": "2026-11-12",
+    "ultima_deteccao": "2026-11-12T01:23:32.487135+00:00",
+    "categoria": "Docência / pesquisa a confirmar",
+    "modalidade": "Não informada",
+    "remuneracao": "Não informada",
+    "prazo": "",
+    "status": "Não verificado",
+    "prioridade": "Aderência a revisar",
+    "consulta_documental_em": "2026-11-12T01:24:09.061340+00:00",
+    "url_documento": "https://downloads.sg.unicamp.br/?f=c6f69971ffd4bc08989d188bdd5aa219&t=5bfbe908bd530d5c43f99eb09d2d37e4",
+    "seguranca_documental": {
+      "caracteres_formato": 205,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    },
+    "documento_sha256": "95c3f3e165aff2393e5730c302852cda0730ece24dc2773c4a84fd1e34d863ad",
+    "documento_hash_formato": "texto-v1",
+    "indicios_documentais": {
+      "graduacao": [],
+      "doutorado": [],
+      "idioma": [],
+      "nacionalidade": [],
+      "residencia": [],
+      "autorizacao_profissional": [],
+      "trabalho_do_brasil": [],
+      "prazo": [],
+      "remuneracao": [
+        "í6üÛ8ä < ¡·¯Öp�` £\u000féô`œÖ´òƒˆ\u001aÚ\u0019îœ…›Û D¢ÿÿa´Ö�\u0010 W\u0006Òÿ\u00134¾Ýñ€H‚>\u0000ÖÎ�\bK˜ < õFñÅ¼\u0013¤ô �Ç>v£µî„\u0000§zbØ8w\"Ì@(ˆ‡¿“",
+        "rels ¢\u0004\u0002( \u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        "\u001að¼Ñêz£¿§Å‰…, ¡ ‰/û|f\\\u0012ZþçŠæ\u0019"
+      ]
+    },
+    "resultado_documental": "Indícios extraídos; elegibilidade, anexos e retificações exigem revisão",
+    "verificacao": {
+      "graduacao": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "doutorado": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "idioma": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "nacionalidade": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "residencia": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "autorizacao_profissional": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "trabalho_do_brasil": {
+        "valor": "Não informado",
+        "evidencia": ""
+      }
+    },
+    "triagem": "Candidato",
+    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+  },
+  {
+    "id": "inst-ba661a17bd456b2c47b2",
+    "titulo": "Modelo de Edital Livre Docente SEM prova especifica",
+    "instituicao": "Unicamp",
+    "pais": "Brasil",
+    "url": "https://downloads.sg.unicamp.br/?f=efd1b57464bba646cd181eabf773525c&t=5bfbe908bd530d5c43f99eb09d2d37e4",
+    "fonte": "Institucional direta",
+    "data_coleta": "2026-11-12",
+    "ultima_deteccao": "2026-11-12T01:23:32.487135+00:00",
+    "categoria": "Docência / pesquisa a confirmar",
+    "modalidade": "Não informada",
+    "remuneracao": "Não informada",
+    "prazo": "",
+    "status": "Não verificado",
+    "prioridade": "Aderência a revisar",
+    "consulta_documental_em": "2026-11-12T01:24:09.548146+00:00",
+    "url_documento": "https://downloads.sg.unicamp.br/?f=efd1b57464bba646cd181eabf773525c&t=5bfbe908bd530d5c43f99eb09d2d37e4",
+    "seguranca_documental": {
+      "caracteres_formato": 188,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    },
+    "documento_sha256": "ac7090295969c284efaa0542b33e7a1caedeab58de5ac31429110bd0c2c5fa67",
+    "documento_hash_formato": "texto-v1",
+    "indicios_documentais": {
+      "graduacao": [],
+      "doutorado": [],
+      "idioma": [],
+      "nacionalidade": [],
+      "residencia": [],
+      "autorizacao_profissional": [],
+      "trabalho_do_brasil": [],
+      "prazo": [],
+      "remuneracao": [
+        "í6üÛ8ä < ¡·¯Öp�` £\u000féô`œÖ´òƒˆ\u001aÚ\u0019îœ…›Û D¢ÿÿa´Ö�\u0010 W\u0006Òÿ\u00134¾Ýñ€H‚>\u0000ÖÎ�\bK˜ < õFñÅ¼\u0013¤ô �Ç>v£µî„\u0000§zbØ8w\"Ì@(ˆ‡¿“",
+        "rels ¢\u0004\u0002( \u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        "\u001að¼Ñêz£¿§Å‰…, ¡ ‰/û|f\\\u0012ZþçŠæ\u0019"
+      ]
+    },
+    "resultado_documental": "Indícios extraídos; elegibilidade, anexos e retificações exigem revisão",
+    "verificacao": {
+      "graduacao": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "doutorado": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "idioma": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "nacionalidade": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "residencia": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "autorizacao_profissional": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "trabalho_do_brasil": {
+        "valor": "Não informado",
+        "evidencia": ""
+      }
+    },
+    "triagem": "Candidato",
+    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+  },
+  {
+    "id": "inst-b734d5a80bc5b4a010de",
+    "titulo": "Docentes",
+    "instituicao": "Universidade de Lisboa",
+    "pais": "Portugal",
+    "url": "https://www.ulisboa.pt/info/concursos-para-docentes",
+    "fonte": "Institucional direta",
+    "data_coleta": "2026-11-12",
+    "ultima_deteccao": "2026-11-12T01:23:35.764968+00:00",
+    "categoria": "Docência / pesquisa a confirmar",
+    "modalidade": "Não informada",
+    "remuneracao": "Não informada",
+    "prazo": "",
+    "status": "Não verificado",
+    "prioridade": "Aderência a revisar",
+    "consulta_documental_em": "2026-11-12T01:24:09.582883+00:00",
+    "url_documento": "https://www.ulisboa.pt/info/concursos-para-docentes",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    },
+    "documento_sha256": "cf9f6d5e1e784c83ecc39c06faf2a9c6663ef942233d08c7538b6f1930aadd3b",
+    "documento_hash_formato": "texto-v1",
+    "indicios_documentais": {
+      "graduacao": [
+        "Escola de Pós-Graduação",
+        "Escola de Pós-Graduação"
+      ],
+      "doutorado": [
+        "Doutoramentos (3",
+        "Doutoramento",
+        "Bolsas de Doutoramento"
+      ],
+      "idioma": [
+        "Foreign Languages Courses",
+        "Portuguese Language Course",
+        "Foreign Language Courses"
+      ],
+      "nacionalidade": [],
+      "residencia": [
+        "Facilitadores de Integração nas Residências",
+        "Facilitadores de Integração nas Residências",
+        "Presidente"
+      ],
+      "autorizacao_profissional": [
+        "Licenciaturas (1",
+        "Licenciaturas e Mestrados Integrados - 1",
+        "Licenciaturas (1"
+      ],
+      "trabalho_do_brasil": [],
+      "prazo": [],
+      "remuneracao": [
+        "Bolsas ERC",
+        "Bolsas de Doutoramento",
+        "Bolsas de Doutoramento Unite"
+      ]
+    },
+    "resultado_documental": "Indícios extraídos; elegibilidade, anexos e retificações exigem revisão",
+    "verificacao": {
+      "graduacao": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "doutorado": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "idioma": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "nacionalidade": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "residencia": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "autorizacao_profissional": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "trabalho_do_brasil": {
+        "valor": "Não informado",
+        "evidencia": ""
+      }
+    },
+    "triagem": "Candidato",
+    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+  },
+  {
+    "id": "inst-3365852f62f8ea4ed0ad",
+    "titulo": "Investigadores",
+    "instituicao": "Universidade de Lisboa",
+    "pais": "Portugal",
+    "url": "https://www.ulisboa.pt/info/concursos-para-investigadores",
+    "fonte": "Institucional direta",
+    "data_coleta": "2026-11-12",
+    "ultima_deteccao": "2026-11-12T01:23:35.764968+00:00",
+    "categoria": "Docência / pesquisa a confirmar",
+    "modalidade": "Não informada",
+    "remuneracao": "Não informada",
+    "prazo": "",
+    "status": "Não verificado",
+    "prioridade": "Aderência a revisar",
+    "consulta_documental_em": "2026-11-12T01:24:09.675457+00:00",
+    "url_documento": "https://www.ulisboa.pt/info/concursos-para-investigadores",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    },
+    "documento_sha256": "872181e0f168f28a4a7644e376360682f2ddfeb1bdbe095b14af493db85b4573",
+    "documento_hash_formato": "texto-v1",
+    "indicios_documentais": {
+      "graduacao": [
+        "Escola de Pós-Graduação",
+        "Escola de Pós-Graduação"
+      ],
+      "doutorado": [
+        "Doutoramentos (3",
+        "Doutoramento",
+        "Bolsas de Doutoramento"
+      ],
+      "idioma": [
+        "Foreign Languages Courses",
+        "Portuguese Language Course",
+        "Foreign Language Courses"
+      ],
+      "nacionalidade": [],
+      "residencia": [
+        "Facilitadores de Integração nas Residências",
+        "Facilitadores de Integração nas Residências",
+        "Presidente"
+      ],
+      "autorizacao_profissional": [
+        "Licenciaturas (1",
+        "Licenciaturas e Mestrados Integrados - 1",
+        "Licenciaturas (1"
+      ],
+      "trabalho_do_brasil": [],
+      "prazo": [],
+      "remuneracao": [
+        "Bolsas ERC",
+        "Bolsas de Doutoramento",
+        "Bolsas de Doutoramento Unite"
+      ]
+    },
+    "resultado_documental": "Indícios extraídos; elegibilidade, anexos e retificações exigem revisão",
+    "verificacao": {
+      "graduacao": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "doutorado": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "idioma": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "nacionalidade": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "residencia": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "autorizacao_profissional": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "trabalho_do_brasil": {
+        "valor": "Não informado",
+        "evidencia": ""
+      }
+    },
+    "triagem": "Candidato",
+    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+  },
+  {
+    "id": "inst-324ece0c9d14114ae89e",
+    "titulo": "Aviso 14818/2026/2 concurso para recrutamento de um investigador auxiliar na área científica de Oceanografia Física e Geofísica Interna",
+    "instituicao": "Universidade de Lisboa",
+    "pais": "Portugal",
+    "url": "https://www.ulisboa.pt/recrutamento/aviso-1481820262-concurso-para-recrutamento-de-um-investigador-auxiliar-na-area",
+    "fonte": "Institucional direta",
+    "data_coleta": "2026-11-12",
+    "ultima_deteccao": "2026-11-12T01:23:35.764968+00:00",
+    "categoria": "Docência / pesquisa a confirmar",
+    "modalidade": "Não informada",
+    "remuneracao": "Não informada",
+    "prazo": "",
+    "status": "Não verificado",
+    "prioridade": "Aderência a revisar",
+    "verificacao": {
+      "graduacao": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "doutorado": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "idioma": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "nacionalidade": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "residencia": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "autorizacao_profissional": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "trabalho_do_brasil": {
+        "valor": "Não informado",
+        "evidencia": ""
+      }
+    },
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal."
+  },
+  {
+    "id": "inst-b31cb6a77be658d834fa",
+    "titulo": "Aviso n.º 25721/2025/2 Concurso documental internacional para um investigador principal, na área científica de Tecnologias Nucleares e Proteção Radiológica",
+    "instituicao": "Universidade de Lisboa",
+    "pais": "Portugal",
+    "url": "https://www.ulisboa.pt/recrutamento/aviso-no-2572120252-concurso-documental-internacional-para-um-investigador-principal",
+    "fonte": "Institucional direta",
+    "data_coleta": "2026-11-12",
+    "ultima_deteccao": "2026-11-12T01:23:35.764968+00:00",
+    "categoria": "Docência / pesquisa a confirmar",
+    "modalidade": "Não informada",
+    "remuneracao": "Não informada",
+    "prazo": "",
+    "status": "Não verificado",
+    "prioridade": "Aderência a revisar",
+    "consulta_documental_em": "2026-11-12T01:24:11.713451+00:00",
+    "url_documento": "https://www.ulisboa.pt/recrutamento/aviso-no-2572120252-concurso-documental-internacional-para-um-investigador-principal",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    },
+    "documento_sha256": "ac954273634bea1fc132cce4390c72cb7be77f54bc9ececc20814c45852496e9",
+    "documento_hash_formato": "texto-v1",
+    "indicios_documentais": {
+      "graduacao": [
+        "Escola de Pós-Graduação",
+        "Escola de Pós-Graduação"
+      ],
+      "doutorado": [
+        "Doutoramentos (3",
+        "Doutoramento",
+        "Bolsas de Doutoramento"
+      ],
+      "idioma": [
+        "Foreign Languages Courses",
+        "Portuguese Language Course",
+        "Foreign Language Courses"
+      ],
+      "nacionalidade": [],
+      "residencia": [
+        "Facilitadores de Integração nas Residências",
+        "Facilitadores de Integração nas Residências",
+        "Presidente"
+      ],
+      "autorizacao_profissional": [
+        "Licenciaturas (1",
+        "Licenciaturas e Mestrados Integrados - 1",
+        "Licenciaturas (1"
+      ],
+      "trabalho_do_brasil": [],
+      "prazo": [],
+      "remuneracao": [
+        "Bolsas ERC",
+        "Bolsas de Doutoramento",
+        "Bolsas de Doutoramento Unite"
+      ]
+    },
+    "resultado_documental": "Indícios extraídos; elegibilidade, anexos e retificações exigem revisão",
+    "verificacao": {
+      "graduacao": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "doutorado": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "idioma": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "nacionalidade": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "residencia": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "autorizacao_profissional": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "trabalho_do_brasil": {
+        "valor": "Não informado",
+        "evidencia": ""
+      }
+    },
+    "triagem": "Candidato",
+    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+  },
+  {
+    "id": "inst-7c91979532c269b92380",
+    "titulo": "Aviso n.º 24081/2025/2 - concurso para recrutamento de um Investigador Principal, na área científica de Tecnologias Nucleares e Proteção Radiológica, do Departamento de Engenharia e Ciências Nucleares",
+    "instituicao": "Universidade de Lisboa",
+    "pais": "Portugal",
+    "url": "https://www.ulisboa.pt/recrutamento/aviso-no-2408120252-concurso-para-recrutamento-de-um-investigador-principal-na-area",
+    "fonte": "Institucional direta",
+    "data_coleta": "2026-11-12",
+    "ultima_deteccao": "2026-11-12T01:23:35.764968+00:00",
+    "categoria": "Docência / pesquisa a confirmar",
+    "modalidade": "Não informada",
+    "remuneracao": "Não informada",
+    "prazo": "",
+    "status": "Não verificado",
+    "prioridade": "Aderência a revisar",
+    "verificacao": {
+      "graduacao": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "doutorado": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "idioma": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "nacionalidade": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "residencia": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "autorizacao_profissional": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "trabalho_do_brasil": {
+        "valor": "Não informado",
+        "evidencia": ""
+      }
+    },
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal."
+  },
+  {
+    "id": "inst-ee59ae372a4c03d5113d",
+    "titulo": "Administrative, Professional and Managerial (APM) (13)",
+    "instituicao": "University of Nottingham",
+    "pais": "Reino Unido",
+    "url": "https://jobs.nottingham.ac.uk/vacancies.aspx?cat=204",
+    "fonte": "Institucional direta",
+    "data_coleta": "2026-11-12",
+    "ultima_deteccao": "2026-11-12T01:23:40.039634+00:00",
+    "categoria": "Docência / pesquisa a confirmar",
+    "modalidade": "Não informada",
+    "remuneracao": "Não informada",
+    "prazo": "",
+    "status": "Não verificado",
+    "prioridade": "Aderência a revisar",
+    "consulta_documental_em": "2026-11-12T01:24:11.789893+00:00",
+    "url_documento": "https://jobs.nottingham.ac.uk/vacancies.aspx?cat=204",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    },
+    "documento_sha256": "dd37ed9229928074cb73cf2094c9281d97e08cb4cbc14ae1e35847794c57286a",
+    "documento_hash_formato": "texto-v1",
+    "indicios_documentais": {
+      "graduacao": [],
+      "doutorado": [],
+      "idioma": [],
+      "nacionalidade": [],
+      "residencia": [
+        "Residential Experience Officer (Multiple positions)"
+      ],
+      "autorizacao_profissional": [],
+      "trabalho_do_brasil": [],
+      "prazo": [
+        "Closing Date: 19 November 2026",
+        "Closing Date: 19 November 2026",
+        "Closing Date: 26 November 2026"
+      ],
+      "remuneracao": [
+        "Salary: £46,049 to £58,225 per annum pro-rata depending on skills and experience",
+        "Salary: £29,740 to £36,446 per annum pro-rata depending on skills and experience",
+        "Salary: £95,574 to £122,094 per annum, depending on skills and experience"
+      ]
+    },
+    "resultado_documental": "Indícios extraídos; elegibilidade, anexos e retificações exigem revisão",
+    "verificacao": {
+      "graduacao": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "doutorado": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "idioma": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "nacionalidade": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "residencia": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "autorizacao_profissional": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "trabalho_do_brasil": {
+        "valor": "Não informado",
+        "evidencia": ""
+      }
+    },
+    "triagem": "Candidato",
+    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+  },
+  {
+    "id": "inst-e455eb2feb15b32ac9cc",
+    "titulo": "Research and Teaching (R&T) (9)",
+    "instituicao": "University of Nottingham",
+    "pais": "Reino Unido",
+    "url": "https://jobs.nottingham.ac.uk/vacancies.aspx?cat=210",
+    "fonte": "Institucional direta",
+    "data_coleta": "2026-11-12",
+    "ultima_deteccao": "2026-11-12T01:23:40.039634+00:00",
+    "categoria": "Pesquisador",
+    "modalidade": "Não informada",
+    "remuneracao": "Não informada",
+    "prazo": "",
+    "status": "Não verificado",
+    "prioridade": "Aderência a revisar",
+    "consulta_documental_em": "2026-11-12T01:24:12.378595+00:00",
+    "url_documento": "https://jobs.nottingham.ac.uk/vacancies.aspx?cat=210",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    },
+    "documento_sha256": "400d96ade2a00858ab508fea28840d6faa3bc4aed8161661fca0e259a4b02d98",
+    "documento_hash_formato": "texto-v1",
+    "indicios_documentais": {
+      "graduacao": [],
+      "doutorado": [
+        "Postdoctoral Research Fellow (Fixed Term)",
+        "Salary: £32,080 to £47,389 per annum, depending on skills and experience (minimum £35608 with relevant PhD)",
+        "Salary: £32,080 to £47,389 per annum, depending on skills and experience (minimum £35608 with relevant PhD)"
+      ],
+      "idioma": [],
+      "nacionalidade": [],
+      "residencia": [],
+      "autorizacao_profissional": [],
+      "trabalho_do_brasil": [],
+      "prazo": [
+        "Closing Date: 06 December 2026",
+        "Closing Date: 03 December 2026",
+        "Closing Date: 20 November 2026"
+      ],
+      "remuneracao": [
+        "Salary: £35,608 to £47,389 per annum, depending on skills and experience",
+        "Salary: £32,080 to £47,389 per annum, depending on skills and experience (minimum £35608 with relevant PhD)",
+        "Salary: £32,080 to £47,389 per annum, depending on skills and experience (minimum £35608 with relevant PhD)"
+      ]
+    },
+    "resultado_documental": "Indícios extraídos; elegibilidade, anexos e retificações exigem revisão",
+    "verificacao": {
+      "graduacao": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "doutorado": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "idioma": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "nacionalidade": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "residencia": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "autorizacao_profissional": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "trabalho_do_brasil": {
+        "valor": "Não informado",
+        "evidencia": ""
+      }
+    },
+    "triagem": "Candidato",
+    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+  },
+  {
+    "id": "inst-767e7272b70ef717d6e7",
+    "titulo": "Administrative, Professional and Managerial (APM) (13)",
+    "instituicao": "University of Nottingham",
+    "pais": "Reino Unido",
+    "url": "https://jobs.nottingham.ac.uk/vacancies.aspx?cat=204&type=5",
+    "fonte": "Institucional direta",
+    "data_coleta": "2026-11-12",
+    "ultima_deteccao": "2026-11-12T01:23:40.039634+00:00",
+    "categoria": "Docência / pesquisa a confirmar",
+    "modalidade": "Não informada",
+    "remuneracao": "Não informada",
+    "prazo": "",
+    "status": "Não verificado",
+    "prioridade": "Aderência a revisar",
+    "consulta_documental_em": "2026-11-12T01:24:12.709901+00:00",
+    "url_documento": "https://jobs.nottingham.ac.uk/vacancies.aspx?cat=204&type=5",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    },
+    "documento_sha256": "dd37ed9229928074cb73cf2094c9281d97e08cb4cbc14ae1e35847794c57286a",
+    "documento_hash_formato": "texto-v1",
+    "indicios_documentais": {
+      "graduacao": [],
+      "doutorado": [],
+      "idioma": [],
+      "nacionalidade": [],
+      "residencia": [
+        "Residential Experience Officer (Multiple positions)"
+      ],
+      "autorizacao_profissional": [],
+      "trabalho_do_brasil": [],
+      "prazo": [
+        "Closing Date: 19 November 2026",
+        "Closing Date: 19 November 2026",
+        "Closing Date: 26 November 2026"
+      ],
+      "remuneracao": [
+        "Salary: £46,049 to £58,225 per annum pro-rata depending on skills and experience",
+        "Salary: £29,740 to £36,446 per annum pro-rata depending on skills and experience",
+        "Salary: £95,574 to £122,094 per annum, depending on skills and experience"
+      ]
+    },
+    "resultado_documental": "Indícios extraídos; elegibilidade, anexos e retificações exigem revisão",
+    "verificacao": {
+      "graduacao": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "doutorado": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "idioma": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "nacionalidade": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "residencia": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "autorizacao_profissional": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "trabalho_do_brasil": {
+        "valor": "Não informado",
+        "evidencia": ""
+      }
+    },
+    "triagem": "Candidato",
+    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+  },
+  {
+    "id": "inst-e288717400307f503632",
+    "titulo": "Research and Teaching (R&T) (9)",
+    "instituicao": "University of Nottingham",
+    "pais": "Reino Unido",
+    "url": "https://jobs.nottingham.ac.uk/vacancies.aspx?cat=210&type=5",
+    "fonte": "Institucional direta",
+    "data_coleta": "2026-11-12",
+    "ultima_deteccao": "2026-11-12T01:23:40.039634+00:00",
+    "categoria": "Pesquisador",
+    "modalidade": "Não informada",
+    "remuneracao": "Não informada",
+    "prazo": "",
+    "status": "Não verificado",
+    "prioridade": "Aderência a revisar",
+    "consulta_documental_em": "2026-11-12T01:24:12.769930+00:00",
+    "url_documento": "https://jobs.nottingham.ac.uk/vacancies.aspx?cat=210&type=5",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    },
+    "documento_sha256": "400d96ade2a00858ab508fea28840d6faa3bc4aed8161661fca0e259a4b02d98",
+    "documento_hash_formato": "texto-v1",
+    "indicios_documentais": {
+      "graduacao": [],
+      "doutorado": [
+        "Postdoctoral Research Fellow (Fixed Term)",
+        "Salary: £32,080 to £47,389 per annum, depending on skills and experience (minimum £35608 with relevant PhD)",
+        "Salary: £32,080 to £47,389 per annum, depending on skills and experience (minimum £35608 with relevant PhD)"
+      ],
+      "idioma": [],
+      "nacionalidade": [],
+      "residencia": [],
+      "autorizacao_profissional": [],
+      "trabalho_do_brasil": [],
+      "prazo": [
+        "Closing Date: 06 December 2026",
+        "Closing Date: 03 December 2026",
+        "Closing Date: 20 November 2026"
+      ],
+      "remuneracao": [
+        "Salary: £35,608 to £47,389 per annum, depending on skills and experience",
+        "Salary: £32,080 to £47,389 per annum, depending on skills and experience (minimum £35608 with relevant PhD)",
+        "Salary: £32,080 to £47,389 per annum, depending on skills and experience (minimum £35608 with relevant PhD)"
+      ]
+    },
+    "resultado_documental": "Indícios extraídos; elegibilidade, anexos e retificações exigem revisão",
+    "verificacao": {
+      "graduacao": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "doutorado": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "idioma": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "nacionalidade": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "residencia": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "autorizacao_profissional": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "trabalho_do_brasil": {
+        "valor": "Não informado",
+        "evidencia": ""
+      }
+    },
+    "triagem": "Candidato",
+    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+  },
+  {
+    "id": "inst-23bf6666e0415a609824",
+    "titulo": "Resoluções de Critérios para Prova de Títulos (Professores Efetivos)",
+    "instituicao": "UFJF",
+    "pais": "Brasil",
+    "url": "https://www2.ufjf.br/concursos/normas-prova-de-titulos/resolucao-dos-criterios-para-prova-de-titulos/efetivos",
+    "fonte": "Institucional direta",
+    "data_coleta": "2026-11-12",
+    "ultima_deteccao": "2026-11-12T01:23:43.854494+00:00",
+    "categoria": "Professor efetivo",
+    "modalidade": "Não informada",
+    "remuneracao": "Não informada",
+    "prazo": "",
+    "status": "Não verificado",
+    "prioridade": "Aderência a revisar",
+    "consulta_documental_em": "2026-11-12T01:24:15.135215+00:00",
+    "url_documento": "https://www2.ufjf.br/concursos/normas-prova-de-titulos/resolucao-dos-criterios-para-prova-de-titulos/efetivos/",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    },
+    "documento_sha256": "767c534c5a14cda1bae62431ce8091b6f26291393d2d247496b79c3b0ea88c95",
+    "documento_hash_formato": "texto-v1",
+    "indicios_documentais": {
+      "graduacao": [],
+      "doutorado": [],
+      "idioma": [],
+      "nacionalidade": [],
+      "residencia": [],
+      "autorizacao_profissional": [],
+      "trabalho_do_brasil": [
+        "Portal do Governo Brasileiro"
+      ],
+      "prazo": [],
+      "remuneracao": []
+    },
+    "resultado_documental": "Indícios extraídos; elegibilidade, anexos e retificações exigem revisão",
+    "verificacao": {
+      "graduacao": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "doutorado": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "idioma": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "nacionalidade": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "residencia": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "autorizacao_profissional": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "trabalho_do_brasil": {
+        "valor": "Não informado",
+        "evidencia": ""
+      }
+    },
+    "triagem": "Candidato",
+    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+  },
+  {
+    "id": "inst-4ffc7a98eef3081b6004",
+    "titulo": "Resoluções de Critérios para Prova de Títulos (Professores Substitutos)",
+    "instituicao": "UFJF",
+    "pais": "Brasil",
+    "url": "https://www2.ufjf.br/concursos/normas-prova-de-titulos/resolucao-dos-criterios-para-prova-de-titulos/substitutos",
+    "fonte": "Institucional direta",
+    "data_coleta": "2026-11-12",
+    "ultima_deteccao": "2026-11-12T01:23:43.854494+00:00",
+    "categoria": "Professor substituto",
+    "modalidade": "Não informada",
+    "remuneracao": "Não informada",
+    "prazo": "",
+    "status": "Não verificado",
+    "prioridade": "Aderência a revisar",
+    "consulta_documental_em": "2026-11-12T01:24:15.408828+00:00",
+    "url_documento": "https://www2.ufjf.br/concursos/normas-prova-de-titulos/resolucao-dos-criterios-para-prova-de-titulos/substitutos/",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    },
+    "documento_sha256": "71924851ba6c69e1da7fb659107061a078c701ed92862472ed16e1da00e820d3",
+    "documento_hash_formato": "texto-v1",
+    "indicios_documentais": {
+      "graduacao": [],
+      "doutorado": [],
+      "idioma": [],
+      "nacionalidade": [],
+      "residencia": [],
+      "autorizacao_profissional": [],
+      "trabalho_do_brasil": [
+        "Portal do Governo Brasileiro"
+      ],
+      "prazo": [],
+      "remuneracao": []
+    },
+    "resultado_documental": "Indícios extraídos; elegibilidade, anexos e retificações exigem revisão",
+    "verificacao": {
+      "graduacao": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "doutorado": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "idioma": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "nacionalidade": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "residencia": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "autorizacao_profissional": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "trabalho_do_brasil": {
+        "valor": "Não informado",
+        "evidencia": ""
+      }
+    },
+    "triagem": "Candidato",
+    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+  },
+  {
+    "id": "inst-8f2d6fc4b34062aa6638",
+    "titulo": "Professor Doutor | Sistemas de Informação | 40h semanais | Curitiba/PR",
+    "instituicao": "UNINTER",
+    "pais": "Brasil",
+    "url": "https://www.uninter.com/trabalhe-conosco/wp-content/uploads/2026/11/EDITAL-304-2026_ESP_DOUTOR_BCH-EM-SISTEMAS-DA-INFORMACAO.pdf",
+    "fonte": "Institucional direta",
+    "data_coleta": "2026-11-12",
+    "ultima_deteccao": "2026-11-12T01:23:45.142290+00:00",
+    "categoria": "Docência / pesquisa a confirmar",
+    "modalidade": "Não informada",
+    "remuneracao": "Não informada",
+    "prazo": "",
+    "status": "Não verificado",
+    "prioridade": "Aderência a revisar",
+    "consulta_documental_em": "2026-11-12T01:24:18.734168+00:00",
+    "url_documento": "https://www.uninter.com/trabalhe-conosco/wp-content/uploads/2026/11/EDITAL-304-2026_ESP_DOUTOR_BCH-EM-SISTEMAS-DA-INFORMACAO.pdf",
+    "seguranca_documental": {
+      "caracteres_formato": 0,
+      "instrucao_suspeita": false,
+      "tratamento": "Conteúdo externo tratado como dados; nenhuma instrução executada"
+    },
+    "documento_sha256": "f9f357fd5f5d5e7a02bfd26cf27b4e1b94b2428632c99e5dfe5151ff26424688",
+    "documento_hash_formato": "texto-v1",
+    "indicios_documentais": {
+      "graduacao": [
+        "iniciando atividades na ESCOLA SUPERIOR POLITÉCNICA no curso de BACHARELADO EM SISTEMAS",
+        "Somente poderão se inscrever profissionais graduados em Sistemas de Informação, Ciência da",
+        "Digitalização (Frente e Verso) do Diploma de Graduação em Sistemas de Informação, Ciência da"
+      ],
+      "doutorado": [
+        "cadastro de reserva para PROFESSORES DE ENSINO SUPERIOR NÍVEL III – DOUTOR para atuar na",
+        "mínima e máxima de DOUTOR Ciência da Computação, Sistemas de Informação, Engenharia de",
+        "Digitalização (Frente e Verso ) do Diploma de DOUTOR Ciência da Computação, Sistemas de"
+      ],
+      "idioma": [],
+      "nacionalidade": [],
+      "residencia": [],
+      "autorizacao_profissional": [],
+      "trabalho_do_brasil": [
+        "As inscrições estarão abertas no período de 06/11/2026 a 26/11/2026 até às 17h00 (horário de Brasília)",
+        "devidamente registrado, válido em território brasileiro",
+        "devidamente registrado, válido em território brasileiro"
+      ],
+      "prazo": [
+        "A abertura de inscrições para o Processo Seletivo de provas e títulos para contratação e/ou formação de",
+        "DAS INSCRIÇÕES",
+        "As inscrições estarão abertas no período de 06/11/2026 a 26/11/2026 até às 17h00 (horário de Brasília)"
+      ],
+      "remuneracao": []
+    },
+    "resultado_documental": "Indícios extraídos; elegibilidade, anexos e retificações exigem revisão",
+    "verificacao": {
+      "graduacao": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "doutorado": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "idioma": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "nacionalidade": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "residencia": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "autorizacao_profissional": {
+        "valor": "Não informado",
+        "evidencia": ""
+      },
+      "trabalho_do_brasil": {
+        "valor": "Não informado",
+        "evidencia": ""
+      }
+    },
+    "triagem": "Candidato",
+    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
   }
 ]

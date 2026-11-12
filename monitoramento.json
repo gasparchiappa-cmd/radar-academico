@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-12T00:48:36.954825+00:00",
+  "atualizado_em": "2026-11-12T01:24:29.454947+00:00",
   "instituicoes": [
     {
       "id": "1",
@@ -8,17 +8,45 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T00:46:38.257582+00:00",
-      "status": "Consultada: candidatos a revisar",
+      "ultima_consulta": "2026-11-12T01:23:22.835999+00:00",
+      "status": "Consulta parcial: candidatos a revisar",
       "candidatos_encontrados": 25,
       "tentativas": [
         {
           "url": "https://ucpel.edu.br/editais/tags/selecao-docente",
-          "status": "HTTP OK"
+          "tipo": "configurada",
+          "url_final": "https://ucpel.edu.br/editais/tags/selecao-docente",
+          "status": "HTTP OK",
+          "resumo_sha256": "025f22f4d8412cc19383822a6b6ab5b44494d9e1f53e34452c5181666a05d7ef"
+        },
+        {
+          "url": "https://ucpel.edu.br/editais",
+          "tipo": "navegacao",
+          "url_final": "https://ucpel.edu.br/editais",
+          "status": "HTTP OK",
+          "resumo_sha256": "2ba59ec2827c67add1c3c654240209e9cb03337ab85f0cb1c09fe38c2fac8954"
+        },
+        {
+          "url": "https://ucpel.edu.br/trabalheconosco/",
+          "tipo": "navegacao",
+          "url_final": "https://atracaodetalentos.totvs.app/oportunidadesapac/extended/",
+          "status": "Falha",
+          "erro": "Redirecionamento fora dos domínios institucionais autorizados"
+        },
+        {
+          "url": "https://ucpel.edu.br/editais/tags/selecao-docente?page=1",
+          "tipo": "navegacao",
+          "url_final": "https://ucpel.edu.br/editais/tags/selecao-docente?page=1",
+          "status": "HTTP OK",
+          "resumo_sha256": "025f22f4d8412cc19383822a6b6ab5b44494d9e1f53e34452c5181666a05d7ef"
         }
       ],
+      "paginas_consultadas": 3,
+      "falhas_navegacao": 1,
       "url_final": "https://ucpel.edu.br/editais/tags/selecao-docente",
-      "resumo_sha256": "025f22f4d8412cc19383822a6b6ab5b44494d9e1f53e34452c5181666a05d7ef"
+      "links_academicos_extraidos": 25,
+      "limite_candidatos_atingido": false,
+      "resumo_sha256": "4ec0e7369d17bbc4b5384ce6624a1715371fa928254cc3ea4ae0b1adb9bd18c6"
     },
     {
       "id": "2",
@@ -31,17 +59,52 @@
         "https://www2.faccat.br/portal/"
       ],
       "limitacao": "Página inclui resultados históricos. Publicação de edital atual depende de link público extraível.",
-      "ultima_consulta": "2026-11-12T00:46:38.258324+00:00",
+      "ultima_consulta": "2026-11-12T01:23:22.836873+00:00",
       "status": "Consultada: candidatos a revisar",
-      "candidatos_encontrados": 1,
+      "candidatos_encontrados": 12,
       "tentativas": [
         {
           "url": "https://www2.faccat.br/portal/?q=node/4105",
-          "status": "HTTP OK"
+          "tipo": "configurada",
+          "url_final": "https://www2.faccat.br/portal/?q=node/4105",
+          "status": "HTTP OK",
+          "resumo_sha256": "f938d399bcdc643292cfd1da3c5977834a9c2b4122bbc50de0b3f95f00a6a7ee"
+        },
+        {
+          "url": "https://www2.faccat.br/portal/",
+          "tipo": "configurada",
+          "url_final": "https://www2.faccat.br/portal/",
+          "status": "HTTP OK",
+          "resumo_sha256": "f76df08c3a69475a4e607d80b802fcf441d7d9ec2c0b5ad309d4077e07109454"
+        },
+        {
+          "url": "https://www2.faccat.br/portal/sites/default/files/ckeditorfiles/2024/ANEXOA-EditalPIBIDCAPESFACCAT-Aluno.docx",
+          "tipo": "navegacao",
+          "url_final": "https://www2.faccat.br/portal/sites/default/files/ckeditorfiles/2024/ANEXOA-EditalPIBIDCAPESFACCAT-Aluno.docx",
+          "status": "HTTP OK",
+          "resumo_sha256": "062b88224e7c0c5a14888d21b4d5f99daa19bcf2ab86dc14dd6b9f5c29b1936e"
+        },
+        {
+          "url": "https://www2.faccat.br/portal/sites/default/files/ckeditorfiles/ANEXOA-EditalPIBIDCAPESFACCAT-Aluno.docx",
+          "tipo": "navegacao",
+          "url_final": "https://www2.faccat.br/portal/sites/default/files/ckeditorfiles/ANEXOA-EditalPIBIDCAPESFACCAT-Aluno.docx",
+          "status": "HTTP OK",
+          "resumo_sha256": "dde74f0e37cd07c0646da3bb720587f5814eaeae09e68d08bcf4148a5b595127"
+        },
+        {
+          "url": "https://www2.faccat.br/portal/sites/default/files/Edital%20PIBID%20CAPES%20FACCAT%20n%C2%BA%2002%202019%20-%20Aluno%20-Anexo%20A.docx",
+          "tipo": "navegacao",
+          "url_final": "https://www2.faccat.br/portal/sites/default/files/Edital%20PIBID%20CAPES%20FACCAT%20n%C2%BA%2002%202019%20-%20Aluno%20-Anexo%20A.docx",
+          "status": "HTTP OK",
+          "resumo_sha256": "b608b17d91bcc4910cf52c4f8a53190cccc0420c3e1e84c448615014c4518834"
         }
       ],
+      "paginas_consultadas": 5,
+      "falhas_navegacao": 0,
       "url_final": "https://www2.faccat.br/portal/?q=node/4105",
-      "resumo_sha256": "f938d399bcdc643292cfd1da3c5977834a9c2b4122bbc50de0b3f95f00a6a7ee"
+      "links_academicos_extraidos": 12,
+      "limite_candidatos_atingido": false,
+      "resumo_sha256": "b4d088d1f81321d02f7ad4ec057ff2f0cbe280eb0467019c1bb2ef8eaf59f9d1"
     },
     {
       "id": "3",
@@ -50,17 +113,31 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T00:46:38.258854+00:00",
+      "ultima_consulta": "2026-11-12T01:23:22.837720+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 1,
       "tentativas": [
         {
           "url": "https://cesuca.gupy.io/",
-          "status": "HTTP OK"
+          "tipo": "configurada",
+          "url_final": "https://cesuca.gupy.io/",
+          "status": "HTTP OK",
+          "resumo_sha256": "0cd0c63cb41b7d7a0f56bea5c419e1e918d3ce68417bffc640eff26e6791bd4d"
+        },
+        {
+          "url": "https://cesuca.gupy.io/jobs/12823696?jobBoardSource=gupy_public_page",
+          "tipo": "navegacao",
+          "url_final": "https://cesuca.gupy.io/jobs/12823696?jobBoardSource=gupy_public_page",
+          "status": "HTTP OK",
+          "resumo_sha256": "c26fb34da80d0f5ab1ef0cc802bafa19b0a5d9f7da86c3df618c6deb33a7f61a"
         }
       ],
+      "paginas_consultadas": 2,
+      "falhas_navegacao": 0,
       "url_final": "https://cesuca.gupy.io/",
-      "resumo_sha256": "0cd0c63cb41b7d7a0f56bea5c419e1e918d3ce68417bffc640eff26e6791bd4d"
+      "links_academicos_extraidos": 1,
+      "limite_candidatos_atingido": false,
+      "resumo_sha256": "b3d9d897c19b369e2ce200ef1db171d22857b8a429da046794efbaf6ff1309a5"
     },
     {
       "id": "4",
@@ -70,16 +147,23 @@
       "regiao": "RS",
       "enabled": true,
       "limitacao": "Página pública consultada é voltada a técnico-administrativos. Cobertura docente não demonstrada; não interpretar como ausência de vagas docentes.",
-      "ultima_consulta": "2026-11-12T00:46:38.259421+00:00",
+      "ultima_consulta": "2026-11-12T01:23:22.838399+00:00",
       "status": "Consulta parcial: nenhum link acadêmico extraído",
       "candidatos_encontrados": 0,
       "tentativas": [
         {
           "url": "https://www.ucs.br/site/trabalhe-na-ucs/",
-          "status": "HTTP OK"
+          "tipo": "configurada",
+          "url_final": "https://www.ucs.br/site/trabalhe-na-ucs/",
+          "status": "HTTP OK",
+          "resumo_sha256": "cca9593d999b884e9b8c41217c1e8a5df509794d6f4d57cf9eb27fc4a14bdf7e"
         }
       ],
+      "paginas_consultadas": 1,
+      "falhas_navegacao": 0,
       "url_final": "https://www.ucs.br/site/trabalhe-na-ucs/",
+      "links_academicos_extraidos": 0,
+      "limite_candidatos_atingido": false,
       "resumo_sha256": "cca9593d999b884e9b8c41217c1e8a5df509794d6f4d57cf9eb27fc4a14bdf7e"
     },
     {
@@ -89,17 +173,34 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T00:46:38.260227+00:00",
+      "urls_adicionais": [
+        "https://pucrs.gupy.io/"
+      ],
+      "ultima_consulta": "2026-11-12T01:23:22.845447+00:00",
       "status": "Consultada: candidatos a revisar",
-      "candidatos_encontrados": 3,
+      "candidatos_encontrados": 4,
       "tentativas": [
         {
           "url": "https://portal.pucrs.br/sobre-a-pucrs/trabalhe-conosco/",
-          "status": "HTTP OK"
+          "tipo": "configurada",
+          "url_final": "https://portal.pucrs.br/sobre-a-pucrs/trabalhe-conosco/",
+          "status": "HTTP OK",
+          "resumo_sha256": "7ccbec2082a1ec56e9bb67ddd326bbc5b719dfce306f138fc41751b6e42a6247"
+        },
+        {
+          "url": "https://pucrs.gupy.io/",
+          "tipo": "configurada",
+          "url_final": "https://pucrs.gupy.io/",
+          "status": "HTTP OK",
+          "resumo_sha256": "06887feefa8fdf3f9853d1aa0f1fa48e42f605cf29b5ae4099577cf9da1992e1"
         }
       ],
+      "paginas_consultadas": 2,
+      "falhas_navegacao": 0,
       "url_final": "https://portal.pucrs.br/sobre-a-pucrs/trabalhe-conosco/",
-      "resumo_sha256": "7ccbec2082a1ec56e9bb67ddd326bbc5b719dfce306f138fc41751b6e42a6247"
+      "links_academicos_extraidos": 4,
+      "limite_candidatos_atingido": false,
+      "resumo_sha256": "cb2e0f318e3c4a9067fe011e0c758c8b1ff1a17911252c172100a60001612f53"
     },
     {
       "id": "6",
@@ -108,16 +209,23 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T00:46:38.262494+00:00",
+      "ultima_consulta": "2026-11-12T01:23:22.847465+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 5,
       "tentativas": [
         {
           "url": "https://unisinos.gupy.io/",
-          "status": "HTTP OK"
+          "tipo": "configurada",
+          "url_final": "https://unisinos.gupy.io/",
+          "status": "HTTP OK",
+          "resumo_sha256": "3c3266c023e0d3e560b85bba697dc976aa1b0698a5fc025800625cfc7fb000eb"
         }
       ],
+      "paginas_consultadas": 1,
+      "falhas_navegacao": 0,
       "url_final": "https://unisinos.gupy.io/",
+      "links_academicos_extraidos": 5,
+      "limite_candidatos_atingido": false,
       "resumo_sha256": "3c3266c023e0d3e560b85bba697dc976aa1b0698a5fc025800625cfc7fb000eb"
     },
     {
@@ -130,21 +238,30 @@
       "urls_adicionais": [
         "https://editais.feevale.br/"
       ],
-      "ultima_consulta": "2026-11-12T00:46:39.090645+00:00",
-      "status": "Consulta parcial: nenhum link acadêmico extraído",
+      "ultima_consulta": "2026-11-12T01:23:23.488767+00:00",
+      "status": "Consulta parcial: sem cobertura integral",
       "candidatos_encontrados": 0,
       "tentativas": [
         {
           "url": "https://www.feevale.br/todas-as-oportunidades/editais",
+          "tipo": "configurada",
+          "url_final": "https://www.feevale.br/todas-as-oportunidades/editais",
           "status": "Falha",
-          "erro": "Resposta incompleta ou redirecionamento dependente de script"
+          "erro": "Conteúdo insuficiente: PDF, página curta ou dependente de script"
         },
         {
           "url": "https://editais.feevale.br/",
-          "status": "HTTP OK"
+          "tipo": "configurada",
+          "url_final": "https://editais.feevale.br/",
+          "status": "HTTP OK",
+          "resumo_sha256": "3fbf911e7ec7ea8d981aec0108eb5ea6c042e7076d8e725098105efbad5de491"
         }
       ],
+      "paginas_consultadas": 1,
+      "falhas_navegacao": 0,
       "url_final": "https://editais.feevale.br/",
+      "links_academicos_extraidos": 0,
+      "limite_candidatos_atingido": false,
       "resumo_sha256": "3fbf911e7ec7ea8d981aec0108eb5ea6c042e7076d8e725098105efbad5de491"
     },
     {
@@ -155,16 +272,23 @@
       "regiao": "RS",
       "enabled": true,
       "urls_adicionais": [],
-      "ultima_consulta": "2026-11-12T00:46:39.463237+00:00",
+      "ultima_consulta": "2026-11-12T01:23:23.877989+00:00",
       "status": "Consultada: portal informa nenhuma vaga",
       "candidatos_encontrados": 0,
       "tentativas": [
         {
           "url": "https://www.ulbra.br/carreiras/aelbra",
-          "status": "HTTP OK"
+          "tipo": "configurada",
+          "url_final": "https://www.ulbra.br/carreiras/aelbra",
+          "status": "HTTP OK",
+          "resumo_sha256": "8adc2d0ac00d80d4540529388f81c89211021cfcca7dec01fe1f862a51a18c01"
         }
       ],
+      "paginas_consultadas": 1,
+      "falhas_navegacao": 0,
       "url_final": "https://www.ulbra.br/carreiras/aelbra",
+      "links_academicos_extraidos": 0,
+      "limite_candidatos_atingido": false,
       "resumo_sha256": "8adc2d0ac00d80d4540529388f81c89211021cfcca7dec01fe1f862a51a18c01"
     },
     {
@@ -174,17 +298,45 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T00:46:39.629104+00:00",
+      "ultima_consulta": "2026-11-12T01:23:24.077171+00:00",
       "status": "Consultada: candidatos a revisar",
-      "candidatos_encontrados": 1,
+      "candidatos_encontrados": 2,
       "tentativas": [
         {
           "url": "https://www.upf.br/a-universidade/procad/selecaodocente",
-          "status": "HTTP OK"
+          "tipo": "configurada",
+          "url_final": "https://www.upf.br/a-universidade/procad/selecaodocente",
+          "status": "HTTP OK",
+          "resumo_sha256": "948b68f82c535d28bb40df04e7d81113f197b2610b1db2553e564f8cb936e1a6"
+        },
+        {
+          "url": "https://www.upf.br/trabalhe-com-a-upf",
+          "tipo": "navegacao",
+          "url_final": "https://www.upf.br/trabalhe-com-a-upf",
+          "status": "HTTP OK",
+          "resumo_sha256": "d28ee9778bddb648f323d4428a32fdc694636647ff8626b8d75e51ec1e2d662c"
+        },
+        {
+          "url": "https://www.upf.br/pesquisa-e-inovacao/pesquisa/editais-de-pesquisa",
+          "tipo": "navegacao",
+          "url_final": "https://www.upf.br/pesquisa-e-inovacao/pesquisa/editais-de-pesquisa",
+          "status": "HTTP OK",
+          "resumo_sha256": "e0e69ca82dc3b2a7a0a45c56ed16f5ab091cf8d099b0f57d61bcd188e0f4753d"
+        },
+        {
+          "url": "https://www.upf.br/editais",
+          "tipo": "navegacao",
+          "url_final": "https://www.upf.br/editais",
+          "status": "HTTP OK",
+          "resumo_sha256": "7c862a254549a9417934c20919ffe64d55d56962e4ee59854b05c77f785b0f8c"
         }
       ],
+      "paginas_consultadas": 4,
+      "falhas_navegacao": 0,
       "url_final": "https://www.upf.br/a-universidade/procad/selecaodocente",
-      "resumo_sha256": "948b68f82c535d28bb40df04e7d81113f197b2610b1db2553e564f8cb936e1a6"
+      "links_academicos_extraidos": 2,
+      "limite_candidatos_atingido": false,
+      "resumo_sha256": "c3577a2cfb384c44554a62525d8a7dd02c5d2533a9297f35d02b9ff21df02587"
     },
     {
       "id": "10",
@@ -194,17 +346,45 @@
       "regiao": "RS",
       "enabled": true,
       "urls_adicionais": [],
-      "ultima_consulta": "2026-11-12T00:46:40.127309+00:00",
-      "status": "Consultada: candidatos a revisar",
+      "ultima_consulta": "2026-11-12T01:23:24.368050+00:00",
+      "status": "Consulta parcial: candidatos a revisar",
       "candidatos_encontrados": 10,
       "tentativas": [
         {
           "url": "https://www.reitoria.uri.br/pt/editais",
-          "status": "HTTP OK"
+          "tipo": "configurada",
+          "url_final": "https://www.reitoria.uri.br/pt/editais",
+          "status": "HTTP OK",
+          "resumo_sha256": "2f7fcbe12458b87d069b425d345b5b8644a178919926c99c492c203831c2649e"
+        },
+        {
+          "url": "https://www.reitoria.uri.br/pt/page/trabalhe-conosco",
+          "tipo": "navegacao",
+          "url_final": "https://www.reitoria.uri.br/pt/page/trabalhe-conosco",
+          "status": "HTTP OK",
+          "resumo_sha256": "015daf43e37ab23a43d93cc38e170772a280d9a7637c6fe700b3e204e5c1502e"
+        },
+        {
+          "url": "https://www.reitoria.uri.br/pt/download-editals/7c3b29894c4b020ceaeb9d3a6659ea90",
+          "tipo": "navegacao",
+          "url_final": "https://www.reitoria.uri.br/pt/download-editals/7c3b29894c4b020ceaeb9d3a6659ea90",
+          "status": "Falha",
+          "erro": "Conteúdo insuficiente: PDF, página curta ou dependente de script"
+        },
+        {
+          "url": "https://www.reitoria.uri.br/pt/download-editals/140df020fb27d3846816c2b7709596bf",
+          "tipo": "navegacao",
+          "url_final": "https://www.reitoria.uri.br/pt/download-editals/140df020fb27d3846816c2b7709596bf",
+          "status": "Falha",
+          "erro": "Conteúdo insuficiente: PDF, página curta ou dependente de script"
         }
       ],
+      "paginas_consultadas": 2,
+      "falhas_navegacao": 2,
       "url_final": "https://www.reitoria.uri.br/pt/editais",
-      "resumo_sha256": "2f7fcbe12458b87d069b425d345b5b8644a178919926c99c492c203831c2649e"
+      "links_academicos_extraidos": 10,
+      "limite_candidatos_atingido": false,
+      "resumo_sha256": "93a4531ff2ad8a71269e1888107284ca94dbef1fe89e760f087290a76691c13d"
     },
     {
       "id": "11",
@@ -214,9 +394,21 @@
       "regiao": "RS",
       "enabled": true,
       "limitacao": "Acesso de rede externo pode falhar. Falha não indica ausência de edital.",
-      "ultima_consulta": "2026-11-12T00:46:40.511200+00:00",
+      "ultima_consulta": "2026-11-12T01:23:24.912225+00:00",
       "status": "Falha",
       "candidatos_encontrados": 0,
+      "tentativas": [
+        {
+          "url": "https://www.ufrgs.br/progesp/",
+          "tipo": "configurada",
+          "status": "Falha",
+          "erro": "<urlopen error [Errno 101] Network is unreachable>"
+        }
+      ],
+      "paginas_consultadas": 0,
+      "falhas_navegacao": 0,
+      "links_academicos_extraidos": 0,
+      "limite_candidatos_atingido": false,
       "erro": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
@@ -226,17 +418,45 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T00:46:42.139744+00:00",
+      "ultima_consulta": "2026-11-12T01:23:26.563828+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 12,
       "tentativas": [
         {
           "url": "https://www.ufsm.br/pro-reitorias/progep/busca?area=editais&order=DESC&orderby=modified&q=&sites%5B%5D=341",
-          "status": "HTTP OK"
+          "tipo": "configurada",
+          "url_final": "https://www.ufsm.br/pro-reitorias/progep/busca?area=editais&order=DESC&orderby=modified&q=&sites%5B%5D=341",
+          "status": "HTTP OK",
+          "resumo_sha256": "9d850049e6405f83d92ebcdabc4f9d03bed21d267428f966d91aea33216734b0"
+        },
+        {
+          "url": "https://www.ufsm.br/pro-reitorias/progep/busca/?q=&sites%5B%5D=341&orderby=modified&order=DESC&perpage=15&area=editais&tipo_edital=&licitacao_edital=&concurso_edital=&outro_edital=",
+          "tipo": "navegacao",
+          "url_final": "https://www.ufsm.br/pro-reitorias/progep/busca?q=&sites%5B%5D=341&orderby=modified&order=DESC&perpage=15&area=editais&tipo_edital=&licitacao_edital=&concurso_edital=&outro_edital=",
+          "status": "HTTP OK",
+          "resumo_sha256": "9d850049e6405f83d92ebcdabc4f9d03bed21d267428f966d91aea33216734b0"
+        },
+        {
+          "url": "https://www.ufsm.br/pro-reitorias/progep/coordenadoria-de-concursos-ccon",
+          "tipo": "navegacao",
+          "url_final": "https://www.ufsm.br/pro-reitorias/progep/coordenadoria-de-concursos-ccon",
+          "status": "HTTP OK",
+          "resumo_sha256": "df9649a2ee65fd312f480726ea89f1aae12b0094448decc6c22c20fc1827e997"
+        },
+        {
+          "url": "https://www.ufsm.br/pro-reitorias/progep/coordenadoria-de-concursos",
+          "tipo": "navegacao",
+          "url_final": "https://www.ufsm.br/pro-reitorias/progep/coordenadoria-de-concursos",
+          "status": "HTTP OK",
+          "resumo_sha256": "cf8021760350056e869c0122bcb04c02362b2a908af4d460fffa5f63b93a1519"
         }
       ],
+      "paginas_consultadas": 4,
+      "falhas_navegacao": 0,
       "url_final": "https://www.ufsm.br/pro-reitorias/progep/busca?area=editais&order=DESC&orderby=modified&q=&sites%5B%5D=341",
-      "resumo_sha256": "104d1d70f5729b086683c392abe888d884bb4b2f6b24a630b3613e5da7b04e2c"
+      "links_academicos_extraidos": 12,
+      "limite_candidatos_atingido": false,
+      "resumo_sha256": "ffe9a2894240e08cc80270c86d88f18ac62366b681263eb922cd441bd2cad1b8"
     },
     {
       "id": "13",
@@ -245,10 +465,23 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T00:46:43.904522+00:00",
+      "ultima_consulta": "2026-11-12T01:23:27.370649+00:00",
       "status": "Falha",
       "candidatos_encontrados": 0,
-      "erro": "Resposta incompleta ou redirecionamento dependente de script"
+      "tentativas": [
+        {
+          "url": "https://concursos.ufpel.edu.br/",
+          "tipo": "configurada",
+          "url_final": "https://concursos.ufpel.edu.br/",
+          "status": "Falha",
+          "erro": "Conteúdo insuficiente: PDF, página curta ou dependente de script"
+        }
+      ],
+      "paginas_consultadas": 0,
+      "falhas_navegacao": 0,
+      "links_academicos_extraidos": 0,
+      "limite_candidatos_atingido": false,
+      "erro": "Conteúdo insuficiente: PDF, página curta ou dependente de script"
     },
     {
       "id": "14",
@@ -257,17 +490,45 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T00:46:44.758819+00:00",
+      "ultima_consulta": "2026-11-12T01:23:28.474700+00:00",
       "status": "Consulta parcial: nenhum link acadêmico extraído",
       "candidatos_encontrados": 0,
       "tentativas": [
         {
           "url": "https://progep.furg.br/",
-          "status": "HTTP OK"
+          "tipo": "configurada",
+          "url_final": "https://progep.furg.br/",
+          "status": "HTTP OK",
+          "resumo_sha256": "3e4322c13d1a7f32e399100a62de2cbd74130217df340bbdde1a6107d82d387d"
+        },
+        {
+          "url": "https://progep.furg.br/bin/edital/index.php",
+          "tipo": "navegacao",
+          "url_final": "https://progep.furg.br/bin/edital/index.php",
+          "status": "HTTP OK",
+          "resumo_sha256": "bf8b54f675a1f1bb9df7992e4a77f42743b9b20609dce7fa1b6f2d85087fadaa"
+        },
+        {
+          "url": "https://progep.furg.br/bin/edital/index.php?id_edital=817",
+          "tipo": "navegacao",
+          "url_final": "https://progep.furg.br/bin/edital/index.php?id_edital=817",
+          "status": "HTTP OK",
+          "resumo_sha256": "b51e0e64d0ae3cbd2cabee6962f4c435da98867064886a99e1df47f50af508ac"
+        },
+        {
+          "url": "https://progep.furg.br/bin/edital/index.php?id_edital=808",
+          "tipo": "navegacao",
+          "url_final": "https://progep.furg.br/bin/edital/index.php?id_edital=808",
+          "status": "HTTP OK",
+          "resumo_sha256": "5c24aa605c499ea15cc2892da64348af82f6185278c89f02046cd248c82979e2"
         }
       ],
+      "paginas_consultadas": 4,
+      "falhas_navegacao": 0,
       "url_final": "https://progep.furg.br/",
-      "resumo_sha256": "3e4322c13d1a7f32e399100a62de2cbd74130217df340bbdde1a6107d82d387d"
+      "links_academicos_extraidos": 0,
+      "limite_candidatos_atingido": false,
+      "resumo_sha256": "8de837eb36ae4d9a917efeed35814e68b746131d64fafdf5ce28159445df2175"
     },
     {
       "id": "15",
@@ -276,17 +537,45 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T00:46:46.664299+00:00",
+      "ultima_consulta": "2026-11-12T01:23:28.687082+00:00",
       "status": "Consultada: candidatos a revisar",
-      "candidatos_encontrados": 7,
+      "candidatos_encontrados": 8,
       "tentativas": [
         {
           "url": "https://guri.unipampa.edu.br/psa/processos/",
-          "status": "HTTP OK"
+          "tipo": "configurada",
+          "url_final": "https://guri.unipampa.edu.br/psa/processos/",
+          "status": "HTTP OK",
+          "resumo_sha256": "dcf8e07748b5ea3d754435fb2c9cad1613594de1e73d54bd4a59bbf60a09dbd9"
+        },
+        {
+          "url": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/21758",
+          "tipo": "navegacao",
+          "url_final": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/21758",
+          "status": "HTTP OK",
+          "resumo_sha256": "6609e74cf3781051aeeb9b41058e4c3df51faea8516e0899875c34f7371ac164"
+        },
+        {
+          "url": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/19338",
+          "tipo": "navegacao",
+          "url_final": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/19338",
+          "status": "HTTP OK",
+          "resumo_sha256": "6df2a58616d6cbe6003599872a8c15603ed8dbea5fb5a582ddc7e01e6c5ef9e8"
+        },
+        {
+          "url": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/20798",
+          "tipo": "navegacao",
+          "url_final": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/20798",
+          "status": "HTTP OK",
+          "resumo_sha256": "2f5a03d7c15c4cf9e71f2d273a9c48d28d9aedd1b64c6a8e344a46adb11a9b70"
         }
       ],
+      "paginas_consultadas": 4,
+      "falhas_navegacao": 0,
       "url_final": "https://guri.unipampa.edu.br/psa/processos/",
-      "resumo_sha256": "dcf8e07748b5ea3d754435fb2c9cad1613594de1e73d54bd4a59bbf60a09dbd9"
+      "links_academicos_extraidos": 8,
+      "limite_candidatos_atingido": false,
+      "resumo_sha256": "03d598e9ad6b70e1a2d06990e26c87c18ed0085ff5a973c6ed1508ad41d9ead4"
     },
     {
       "id": "16",
@@ -295,17 +584,45 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T00:46:46.685984+00:00",
+      "ultima_consulta": "2026-11-12T01:23:30.999617+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 1,
       "tentativas": [
         {
           "url": "https://uergs.edu.br/concursos-publicos-e-processos-seletivos-funcionais",
-          "status": "HTTP OK"
+          "tipo": "configurada",
+          "url_final": "https://uergs.edu.br/concursos-publicos-e-processos-seletivos-funcionais",
+          "status": "HTTP OK",
+          "resumo_sha256": "e9cdbebc53cb1bab0f4946e4f882535096207ec86924c75525f92e26b6a35230"
+        },
+        {
+          "url": "https://uergs.edu.br/concursos-publicos",
+          "tipo": "navegacao",
+          "url_final": "https://uergs.edu.br/concursos-publicos",
+          "status": "HTTP OK",
+          "resumo_sha256": "fbd819e93275f1d3c61794fd90a35bc454a9398ae8c56817e1acc3034be7fbc5"
+        },
+        {
+          "url": "https://uergs.edu.br/probex",
+          "tipo": "navegacao",
+          "url_final": "https://uergs.edu.br/probex",
+          "status": "HTTP OK",
+          "resumo_sha256": "621e6f557792b220185f30b1bd4b31ed7da24dfe0760663f7979bbc382c4a3ce"
+        },
+        {
+          "url": "https://uergs.edu.br/editais-especificos",
+          "tipo": "navegacao",
+          "url_final": "https://uergs.edu.br/editais-especificos",
+          "status": "HTTP OK",
+          "resumo_sha256": "0c1ab6dba298eb4c3d1fcb92fa045d6ab5625fa8920ba04d2308b049e5bd491e"
         }
       ],
+      "paginas_consultadas": 4,
+      "falhas_navegacao": 0,
       "url_final": "https://uergs.edu.br/concursos-publicos-e-processos-seletivos-funcionais",
-      "resumo_sha256": "e9cdbebc53cb1bab0f4946e4f882535096207ec86924c75525f92e26b6a35230"
+      "links_academicos_extraidos": 1,
+      "limite_candidatos_atingido": false,
+      "resumo_sha256": "a0037682f85aaa6dc1f2cbc88b660024e80d1fdb4abbe4dfac4b1582ec66d4df"
     },
     {
       "id": "17",
@@ -315,17 +632,45 @@
       "regiao": "Expansão",
       "enabled": true,
       "urls_adicionais": [],
-      "ultima_consulta": "2026-11-12T00:46:48.140249+00:00",
+      "ultima_consulta": "2026-11-12T01:23:31.370682+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 7,
       "tentativas": [
         {
           "url": "https://concursos.unb.br/",
-          "status": "HTTP OK"
+          "tipo": "configurada",
+          "url_final": "https://concursos.unb.br/",
+          "status": "HTTP OK",
+          "resumo_sha256": "b2f62d4b3dcedfb9c4f1c7de31305e2f16a9e784349aa7cfa776caa5b0ebfe3c"
+        },
+        {
+          "url": "https://concursos.unb.br/index.php/temporarios-inicial",
+          "tipo": "navegacao",
+          "url_final": "https://concursos.unb.br/index.php/temporarios-inicial",
+          "status": "HTTP OK",
+          "resumo_sha256": "f0b5eef64aba2d9a58b83cbbc27088b1500b450b713837795cad3f86a80cf580"
+        },
+        {
+          "url": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2362-edital-de-abertura-n-174-2025",
+          "tipo": "navegacao",
+          "url_final": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2362-edital-de-abertura-n-174-2025",
+          "status": "HTTP OK",
+          "resumo_sha256": "df0747b2efab2adf8c4ac38ebbeac88e5e99d4d71212f06c1ed35239a3560ccf"
+        },
+        {
+          "url": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2361-edital-de-abertura-n-170-2025",
+          "tipo": "navegacao",
+          "url_final": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2361-edital-de-abertura-n-170-2025",
+          "status": "HTTP OK",
+          "resumo_sha256": "eef8b4c7b0182bb1e23d16b06f9cafe0818a6ec6ad396ec11ca66ab3162a30f3"
         }
       ],
+      "paginas_consultadas": 4,
+      "falhas_navegacao": 0,
       "url_final": "https://concursos.unb.br/",
-      "resumo_sha256": "b2f62d4b3dcedfb9c4f1c7de31305e2f16a9e784349aa7cfa776caa5b0ebfe3c"
+      "links_academicos_extraidos": 7,
+      "limite_candidatos_atingido": false,
+      "resumo_sha256": "cecd1cf956cfae7109868d5e87dba1dbff3278a52dc4598d56689786d9c0e3b8"
     },
     {
       "id": "18",
@@ -334,16 +679,23 @@
       "pais": "Brasil",
       "regiao": "Expansão",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T00:46:49.834332+00:00",
+      "ultima_consulta": "2026-11-12T01:23:31.705788+00:00",
       "status": "Consulta parcial: nenhum link acadêmico extraído",
       "candidatos_encontrados": 0,
       "tentativas": [
         {
           "url": "https://uspdigital.usp.br/gr/admissao",
-          "status": "HTTP OK"
+          "tipo": "configurada",
+          "url_final": "https://uspdigital.usp.br/gr/admissao",
+          "status": "HTTP OK",
+          "resumo_sha256": "6148e8a92d64180ab8aa7f0bdf80e730e2830212a7cb7c0aff7a134a5dfa401d"
         }
       ],
+      "paginas_consultadas": 1,
+      "falhas_navegacao": 0,
       "url_final": "https://uspdigital.usp.br/gr/admissao",
+      "links_academicos_extraidos": 0,
+      "limite_candidatos_atingido": false,
       "resumo_sha256": "6148e8a92d64180ab8aa7f0bdf80e730e2830212a7cb7c0aff7a134a5dfa401d"
     },
     {
@@ -353,17 +705,45 @@
       "pais": "Brasil",
       "regiao": "Expansão",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T00:46:50.111063+00:00",
-      "status": "Consultada: candidatos a revisar",
-      "candidatos_encontrados": 5,
+      "ultima_consulta": "2026-11-12T01:23:32.487135+00:00",
+      "status": "Consulta parcial: candidatos a revisar",
+      "candidatos_encontrados": 7,
       "tentativas": [
         {
           "url": "https://www.sg.unicamp.br/concursos",
-          "status": "HTTP OK"
+          "tipo": "configurada",
+          "url_final": "https://www.sg.unicamp.br/concursos",
+          "status": "HTTP OK",
+          "resumo_sha256": "074c41fc4176655084ae6e2d84a22c4ba06f3ec7b13a9c96ecbbb6d294b9924b"
+        },
+        {
+          "url": "https://login.sg.unicamp.br/v1.1/sign-in/?siteUrl=http%3A%2F%2Fwww.sg.unicamp.br%2Fconcursos&continue=https%3A%2F%2Fwww.sg.unicamp.br%2Fconcursos",
+          "tipo": "navegacao",
+          "url_final": "https://login.sg.unicamp.br/v1.1/sign-in/?siteUrl=http%3A%2F%2Fwww.sg.unicamp.br%2Fconcursos&continue=https%3A%2F%2Fwww.sg.unicamp.br%2Fconcursos",
+          "status": "Falha",
+          "erro": "Conteúdo insuficiente: PDF, página curta ou dependente de script"
+        },
+        {
+          "url": "https://www.sg.unicamp.br/gde/areas-e-disciplinas-concursaveis/catalogo",
+          "tipo": "navegacao",
+          "url_final": "https://www.sg.unicamp.br/gde/areas-e-disciplinas-concursaveis/catalogo",
+          "status": "HTTP OK",
+          "resumo_sha256": "08c8240978493ce16ead93f8f5ceffba6952d99af87c398a4e5f44538bb8f270"
+        },
+        {
+          "url": "https://www.sg.unicamp.br/gde/procedimentos-para-realizacao/concurso-livre-docente",
+          "tipo": "navegacao",
+          "url_final": "https://www.sg.unicamp.br/gde/procedimentos-para-realizacao/concurso-livre-docente",
+          "status": "HTTP OK",
+          "resumo_sha256": "6b24c81c6f3dc4ef0ba54bae575a7da87aa9c91c87e9675d24ae8c9009aa6081"
         }
       ],
+      "paginas_consultadas": 3,
+      "falhas_navegacao": 1,
       "url_final": "https://www.sg.unicamp.br/concursos",
-      "resumo_sha256": "a33de159b3104d8457cb90076e32c8dd07027627acf3c35b9532de4532ff9a26"
+      "links_academicos_extraidos": 7,
+      "limite_candidatos_atingido": false,
+      "resumo_sha256": "bf78d4619866da5679c5f97fa422d91726f48302d5881497b23812d9b95fc987"
     },
     {
       "id": "20",
@@ -372,17 +752,45 @@
       "pais": "Brasil",
       "regiao": "Expansão",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T00:46:51.099338+00:00",
+      "ultima_consulta": "2026-11-12T01:23:32.810464+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 9,
       "tentativas": [
         {
           "url": "https://www.ufmg.br/prorh/concursos/",
-          "status": "HTTP OK"
+          "tipo": "configurada",
+          "url_final": "https://www.ufmg.br/prorh/inform/concursos-e-processos-seletivos/",
+          "status": "HTTP OK",
+          "resumo_sha256": "688d3184599d0c8bc1cf771107f4fdf2e73bc434733060adc0010731decb583e"
+        },
+        {
+          "url": "https://www.ufmg.br/prorh/vacancia/",
+          "tipo": "navegacao",
+          "url_final": "https://www.ufmg.br/prorh/vacancia/",
+          "status": "HTTP OK",
+          "resumo_sha256": "24ec289a6b8655727237ae1eaea06ebe4609944a7864ae40c986b5b187a013a2"
+        },
+        {
+          "url": "https://www.ufmg.br/prorh/publicacoes/",
+          "tipo": "navegacao",
+          "url_final": "https://www.ufmg.br/prorh/publicacoes/",
+          "status": "HTTP OK",
+          "resumo_sha256": "61919bd3f058c2432c233d451fa75cf816b3aba28aa711b3e13aca7166d91ef8"
+        },
+        {
+          "url": "https://www.ufmg.br/prorh/tag/vacancia/",
+          "tipo": "navegacao",
+          "url_final": "https://www.ufmg.br/prorh/tag/vacancia/",
+          "status": "HTTP OK",
+          "resumo_sha256": "6e91c9c89c814383a4e792e0e1439ea4d95fb282d1995f95c89e582f5fbec1f0"
         }
       ],
+      "paginas_consultadas": 4,
+      "falhas_navegacao": 0,
       "url_final": "https://www.ufmg.br/prorh/inform/concursos-e-processos-seletivos/",
-      "resumo_sha256": "688d3184599d0c8bc1cf771107f4fdf2e73bc434733060adc0010731decb583e"
+      "links_academicos_extraidos": 9,
+      "limite_candidatos_atingido": false,
+      "resumo_sha256": "bcf32931ee66e7e482732555f75f0384a2cfcfcf15ec9477a9f22fcd04f17b63"
     },
     {
       "id": "21",
@@ -391,17 +799,45 @@
       "pais": "Portugal",
       "regiao": "Expansão",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T00:46:52.715400+00:00",
+      "ultima_consulta": "2026-11-12T01:23:35.764968+00:00",
       "status": "Consultada: candidatos a revisar",
-      "candidatos_encontrados": 25,
+      "candidatos_encontrados": 30,
       "tentativas": [
         {
           "url": "https://www.ulisboa.pt/info/concursos-para-docentes",
-          "status": "HTTP OK"
+          "tipo": "configurada",
+          "url_final": "https://www.ulisboa.pt/info/concursos-para-docentes",
+          "status": "HTTP OK",
+          "resumo_sha256": "cf9f6d5e1e784c83ecc39c06faf2a9c6663ef942233d08c7538b6f1930aadd3b"
+        },
+        {
+          "url": "https://www.ulisboa.pt/info/concursos-para-investigadores",
+          "tipo": "navegacao",
+          "url_final": "https://www.ulisboa.pt/info/concursos-para-investigadores",
+          "status": "HTTP OK",
+          "resumo_sha256": "872181e0f168f28a4a7644e376360682f2ddfeb1bdbe095b14af493db85b4573"
+        },
+        {
+          "url": "https://www.ulisboa.pt/info/concursos-para-dirigentes",
+          "tipo": "navegacao",
+          "url_final": "https://www.ulisboa.pt/info/concursos-para-dirigentes",
+          "status": "HTTP OK",
+          "resumo_sha256": "68081414f4d74c69eaa2380a4f53de4b3135cbb36c95a5aadfd169089e09086b"
+        },
+        {
+          "url": "https://www.ulisboa.pt/info/concursos-para-tecnicos-e-administrativos",
+          "tipo": "navegacao",
+          "url_final": "https://www.ulisboa.pt/info/concursos-para-tecnicos-e-administrativos",
+          "status": "HTTP OK",
+          "resumo_sha256": "b7232a32d8244dadddc82b7c7ca097da59371b6a3abe7f2b26d5d71b045739e9"
         }
       ],
+      "paginas_consultadas": 4,
+      "falhas_navegacao": 0,
       "url_final": "https://www.ulisboa.pt/info/concursos-para-docentes",
-      "resumo_sha256": "cf9f6d5e1e784c83ecc39c06faf2a9c6663ef942233d08c7538b6f1930aadd3b"
+      "links_academicos_extraidos": 30,
+      "limite_candidatos_atingido": false,
+      "resumo_sha256": "a32d1c8c14d9ef10721b69229bd6ed26f0f21d8a8ed7ade6ed318ecb6c120c70"
     },
     {
       "id": "22",
@@ -411,17 +847,45 @@
       "regiao": "Expansão",
       "enabled": true,
       "urls_adicionais": [],
-      "ultima_consulta": "2026-11-12T00:46:54.895765+00:00",
+      "ultima_consulta": "2026-11-12T01:23:37.198287+00:00",
       "status": "Consulta parcial: nenhum link acadêmico extraído",
       "candidatos_encontrados": 0,
       "tentativas": [
         {
           "url": "https://noticias.up.pt/oportunidades/",
-          "status": "HTTP OK"
+          "tipo": "configurada",
+          "url_final": "https://noticias.up.pt/oportunidades/",
+          "status": "HTTP OK",
+          "resumo_sha256": "7f58b6dcb929b1b89a506743b35186e5ae24374a1711b94d0e4a968f2768019d"
+        },
+        {
+          "url": "https://noticias.up.pt/oportunidades/?tipo=premios-e-concursos",
+          "tipo": "navegacao",
+          "url_final": "https://noticias.up.pt/oportunidades/?tipo=premios-e-concursos",
+          "status": "HTTP OK",
+          "resumo_sha256": "bfa050f5ff33ad93a2817f959146e938efbcb59a6f565db01306018a46f636ca"
+        },
+        {
+          "url": "https://noticias.up.pt/oportunidades/?prazo=abertas&tipo=premios-e-concursos",
+          "tipo": "navegacao",
+          "url_final": "https://noticias.up.pt/oportunidades/?prazo=abertas&tipo=premios-e-concursos",
+          "status": "HTTP OK",
+          "resumo_sha256": "90cfb06b70af41e4f52ae9e2570c398e51024515ef4b2b34bbc3ba65a5ccd68b"
+        },
+        {
+          "url": "https://noticias.up.pt/oportunidades/?prazo=encerradas&tipo=premios-e-concursos",
+          "tipo": "navegacao",
+          "url_final": "https://noticias.up.pt/oportunidades/?prazo=encerradas&tipo=premios-e-concursos",
+          "status": "HTTP OK",
+          "resumo_sha256": "b2b28edafb52e406084f41e8a8ede57f5d37a66db07266e7b3e534e679aa3f6f"
         }
       ],
+      "paginas_consultadas": 4,
+      "falhas_navegacao": 0,
       "url_final": "https://noticias.up.pt/oportunidades/",
-      "resumo_sha256": "7f58b6dcb929b1b89a506743b35186e5ae24374a1711b94d0e4a968f2768019d"
+      "links_academicos_extraidos": 0,
+      "limite_candidatos_atingido": false,
+      "resumo_sha256": "ceb16634b13a17519e2b65fdb5d327043ccddbedb2c37b3b04527c2c3b51a993"
     },
     {
       "id": "23",
@@ -430,17 +894,45 @@
       "pais": "Reino Unido",
       "regiao": "Expansão",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T00:46:56.365600+00:00",
-      "status": "Consulta parcial: nenhum link acadêmico extraído",
-      "candidatos_encontrados": 0,
+      "ultima_consulta": "2026-11-12T01:23:40.039634+00:00",
+      "status": "Consultada: candidatos a revisar",
+      "candidatos_encontrados": 4,
       "tentativas": [
         {
           "url": "https://jobs.nottingham.ac.uk/vacancies.aspx",
-          "status": "HTTP OK"
+          "tipo": "configurada",
+          "url_final": "https://jobs.nottingham.ac.uk/vacancies.aspx",
+          "status": "HTTP OK",
+          "resumo_sha256": "2134c90a1820e42b54a02a3fe1309109a3e6fd8e840f4685772e3cecc4777738"
+        },
+        {
+          "url": "https://jobs.nottingham.ac.uk/vacancies.aspx?type=5",
+          "tipo": "navegacao",
+          "url_final": "https://jobs.nottingham.ac.uk/vacancies.aspx?type=5",
+          "status": "HTTP OK",
+          "resumo_sha256": "2134c90a1820e42b54a02a3fe1309109a3e6fd8e840f4685772e3cecc4777738"
+        },
+        {
+          "url": "https://jobs.nottingham.ac.uk/vacancies.aspx?type=10",
+          "tipo": "navegacao",
+          "url_final": "https://jobs.nottingham.ac.uk/vacancies.aspx?type=10",
+          "status": "HTTP OK",
+          "resumo_sha256": "1a6cf6bbf1dc62049169bef8d0eb3787ddaa746ee69ffeef6844b40c07d09f6f"
+        },
+        {
+          "url": "https://jobs.nottingham.ac.uk/vacancies.aspx?type=9",
+          "tipo": "navegacao",
+          "url_final": "https://jobs.nottingham.ac.uk/vacancies.aspx?type=9",
+          "status": "HTTP OK",
+          "resumo_sha256": "2f37fb8a752b888ee5d9e4e698ae0ab8b282299ff84d53654e4ea7a2addded87"
         }
       ],
+      "paginas_consultadas": 4,
+      "falhas_navegacao": 0,
       "url_final": "https://jobs.nottingham.ac.uk/vacancies.aspx",
-      "resumo_sha256": "437233e1d02a2e7142c73b677dee632c80cf65cd3e23ecff741041604d487e13"
+      "links_academicos_extraidos": 4,
+      "limite_candidatos_atingido": false,
+      "resumo_sha256": "e218fcf86e5c8cfce88c37a7ff0dd2463bc16ff691f549b607d317a520d4f9cf"
     },
     {
       "id": "24",
@@ -452,9 +944,27 @@
       "urls_adicionais": [
         "https://about.unimelb.edu.au/careers/erecruitment"
       ],
-      "ultima_consulta": "2026-11-12T00:46:58.561606+00:00",
+      "ultima_consulta": "2026-11-12T01:23:41.171083+00:00",
       "status": "Falha",
       "candidatos_encontrados": 0,
+      "tentativas": [
+        {
+          "url": "https://about.unimelb.edu.au/careers",
+          "tipo": "configurada",
+          "status": "Falha",
+          "erro": "HTTP Error 403: Forbidden"
+        },
+        {
+          "url": "https://about.unimelb.edu.au/careers/erecruitment",
+          "tipo": "configurada",
+          "status": "Falha",
+          "erro": "HTTP Error 403: Forbidden"
+        }
+      ],
+      "paginas_consultadas": 0,
+      "falhas_navegacao": 0,
+      "links_academicos_extraidos": 0,
+      "limite_candidatos_atingido": false,
       "erro": "HTTP Error 403: Forbidden; HTTP Error 403: Forbidden"
     },
     {
@@ -464,9 +974,21 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T00:46:58.862062+00:00",
+      "ultima_consulta": "2026-11-12T01:23:41.226220+00:00",
       "status": "Falha",
       "candidatos_encontrados": 0,
+      "tentativas": [
+        {
+          "url": "https://ufcspa.edu.br/trabalhe-na-ufcspa/docentes",
+          "tipo": "configurada",
+          "status": "Falha",
+          "erro": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+        }
+      ],
+      "paginas_consultadas": 0,
+      "falhas_navegacao": 0,
+      "links_academicos_extraidos": 0,
+      "limite_candidatos_atingido": false,
       "erro": "<urlopen error [Errno -3] Temporary failure in name resolution>"
     },
     {
@@ -476,10 +998,23 @@
       "pais": "Brasil",
       "regiao": "Expansão",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T00:46:58.862453+00:00",
+      "ultima_consulta": "2026-11-12T01:23:42.257685+00:00",
       "status": "Falha",
       "candidatos_encontrados": 0,
-      "erro": "Resposta incompleta ou redirecionamento dependente de script"
+      "tentativas": [
+        {
+          "url": "https://phpu.unifesp.br/concurso/inscricao/",
+          "tipo": "configurada",
+          "url_final": "https://phpu.unifesp.br/concurso/inscricao/",
+          "status": "Falha",
+          "erro": "Conteúdo insuficiente: PDF, página curta ou dependente de script"
+        }
+      ],
+      "paginas_consultadas": 0,
+      "falhas_navegacao": 0,
+      "links_academicos_extraidos": 0,
+      "limite_candidatos_atingido": false,
+      "erro": "Conteúdo insuficiente: PDF, página curta ou dependente de script"
     },
     {
       "id": "27",
@@ -488,17 +1023,45 @@
       "pais": "Brasil",
       "regiao": "Expansão",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T00:46:58.940286+00:00",
+      "ultima_consulta": "2026-11-12T01:23:43.060434+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 3,
       "tentativas": [
         {
           "url": "https://www.unifal-mg.edu.br/dips/professor-substituto/",
-          "status": "HTTP OK"
+          "tipo": "configurada",
+          "url_final": "https://www.unifal-mg.edu.br/dips/professor-substituto/",
+          "status": "HTTP OK",
+          "resumo_sha256": "f1ca80bca112e56cb4347f4e539226ba01a1b9c9ef42f424e3cffc357d3ee3f6"
+        },
+        {
+          "url": "https://www.unifal-mg.edu.br/dips/concurso-processo-seletivo/",
+          "tipo": "navegacao",
+          "url_final": "https://www.unifal-mg.edu.br/dips/concurso-processo-seletivo/",
+          "status": "HTTP OK",
+          "resumo_sha256": "ed6f7a40ed80b1a2df91a2b2c627614c4cb6fb6230bdd937e8ec0fb4b2e6040a"
+        },
+        {
+          "url": "https://www.unifal-mg.edu.br/dips/edital-no-116-2026-processo-seletivo-para-professora-substitutoa-na-area-de-atuacao-em-ciencias-atuariais-instituto-de-ciencias-sociais-aplicadas/",
+          "tipo": "navegacao",
+          "url_final": "https://www.unifal-mg.edu.br/dips/edital-no-116-2026-processo-seletivo-para-professora-substitutoa-na-area-de-atuacao-em-ciencias-atuariais-instituto-de-ciencias-sociais-aplicadas/",
+          "status": "HTTP OK",
+          "resumo_sha256": "4ff78065123e9527354fafb56745a1620cd3def74b3fcf5ff3ec7791b8c5b313"
+        },
+        {
+          "url": "https://www.unifal-mg.edu.br/dips/edital-no-110-2026-processo-seletivo-para-professora-substitutoa-na-area-de-atuacao-em-linguistica-e-literatura-letras/",
+          "tipo": "navegacao",
+          "url_final": "https://www.unifal-mg.edu.br/dips/edital-no-110-2026-processo-seletivo-para-professora-substitutoa-na-area-de-atuacao-em-linguistica-e-literatura-letras/",
+          "status": "HTTP OK",
+          "resumo_sha256": "fc394fccc78319fdd08a3ad6d7526251e20b736b9bd8792a69c6824e1297f537"
         }
       ],
+      "paginas_consultadas": 4,
+      "falhas_navegacao": 0,
       "url_final": "https://www.unifal-mg.edu.br/dips/professor-substituto/",
-      "resumo_sha256": "f1ca80bca112e56cb4347f4e539226ba01a1b9c9ef42f424e3cffc357d3ee3f6"
+      "links_academicos_extraidos": 3,
+      "limite_candidatos_atingido": false,
+      "resumo_sha256": "580783d8d4f6b84806d5fcd54e9c75966d009c405780eb22d4a9f080f900c53e"
     },
     {
       "id": "28",
@@ -507,17 +1070,38 @@
       "pais": "Brasil",
       "regiao": "Expansão",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T00:46:59.147476+00:00",
+      "ultima_consulta": "2026-11-12T01:23:43.060936+00:00",
       "status": "Consulta parcial: nenhum link acadêmico extraído",
       "candidatos_encontrados": 0,
       "tentativas": [
         {
           "url": "https://sistemas.ufg.br/CONCURSOS_WEB/",
-          "status": "HTTP OK"
+          "tipo": "configurada",
+          "url_final": "https://sistemas.ufg.br/CONCURSOS_WEB/",
+          "status": "HTTP OK",
+          "resumo_sha256": "b138b7c5749b4c4e9db5fbfc59c908c32b6b7efd8d84e0076ef7941c6b9bffb7"
+        },
+        {
+          "url": "https://sistemas.ufg.br/CONCURSOS_WEB/painel/cadastro/",
+          "tipo": "navegacao",
+          "url_final": "https://sistemas.ufg.br/CONCURSOS_WEB/painel/cadastro/",
+          "status": "HTTP OK",
+          "resumo_sha256": "67ccf7ea8b7535ca02664c8969bea9c81f07b01bac42de920aa1ecc958d74574"
+        },
+        {
+          "url": "https://sistemas.ufg.br/CONCURSOS_WEB/painel/",
+          "tipo": "navegacao",
+          "url_final": "https://sistemas.ufg.br/CONCURSOS_WEB/painel/",
+          "status": "HTTP OK",
+          "resumo_sha256": "c2ef6170c684c7b570c09560598bae1311b078a4aef02d218910cad771f605da"
         }
       ],
+      "paginas_consultadas": 3,
+      "falhas_navegacao": 0,
       "url_final": "https://sistemas.ufg.br/CONCURSOS_WEB/",
-      "resumo_sha256": "b138b7c5749b4c4e9db5fbfc59c908c32b6b7efd8d84e0076ef7941c6b9bffb7"
+      "links_academicos_extraidos": 0,
+      "limite_candidatos_atingido": false,
+      "resumo_sha256": "5c047decdfd852a656c1c5bd4083cdf2dfc795a97778dac3f7606a44ef17fe54"
     },
     {
       "id": "29",
@@ -526,16 +1110,23 @@
       "pais": "Brasil",
       "regiao": "Expansão",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T00:46:59.642301+00:00",
+      "ultima_consulta": "2026-11-12T01:23:43.245119+00:00",
       "status": "Consulta parcial: nenhum link acadêmico extraído",
       "candidatos_encontrados": 0,
       "tentativas": [
         {
           "url": "https://www.udesc.br/processoseletivo",
-          "status": "HTTP OK"
+          "tipo": "configurada",
+          "url_final": "https://www.udesc.br/home",
+          "status": "HTTP OK",
+          "resumo_sha256": "2e844a07657e90977b01b485c938c7838960a8b1edaa25453c97cea5991fadba"
         }
       ],
+      "paginas_consultadas": 1,
+      "falhas_navegacao": 0,
       "url_final": "https://www.udesc.br/home",
+      "links_academicos_extraidos": 0,
+      "limite_candidatos_atingido": false,
       "resumo_sha256": "2e844a07657e90977b01b485c938c7838960a8b1edaa25453c97cea5991fadba"
     },
     {
@@ -545,17 +1136,44 @@
       "pais": "Brasil",
       "regiao": "Expansão",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T00:47:00.211236+00:00",
-      "status": "Consultada: candidatos a revisar",
-      "candidatos_encontrados": 16,
+      "ultima_consulta": "2026-11-12T01:23:43.854494+00:00",
+      "status": "Consulta parcial: candidatos a revisar",
+      "candidatos_encontrados": 18,
       "tentativas": [
         {
           "url": "https://www2.ufjf.br/concursos/",
-          "status": "HTTP OK"
+          "tipo": "configurada",
+          "url_final": "https://www2.ufjf.br/concursos/",
+          "status": "HTTP OK",
+          "resumo_sha256": "303d8a7290e96e86931adb7200db27863593a09728dfb583b5a8c4cb4fc0cf2b"
+        },
+        {
+          "url": "https://www2.ufjf.br/concursos/sitemap/",
+          "tipo": "navegacao",
+          "url_final": "https://www2.ufjf.br/concursos/sitemap/",
+          "status": "HTTP OK",
+          "resumo_sha256": "f5765054d6aca698cf4d63267666c8fd357ae28ea777a804cd6a6c515fdbaedb"
+        },
+        {
+          "url": "https://www2.ufjf.br/concursos/wp-content/themes/setoresMD_v4/acessibilidade.php",
+          "tipo": "navegacao",
+          "status": "Falha",
+          "erro": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://www2.ufjf.br/concursos/concursos-publicos-efetivos/",
+          "tipo": "navegacao",
+          "url_final": "https://www2.ufjf.br/concursos/concursos-publicos-efetivos/",
+          "status": "HTTP OK",
+          "resumo_sha256": "702e6fc6326fac3e321f4186359a1d42b94aad4c9d1a3a64f0e82827711e579c"
         }
       ],
+      "paginas_consultadas": 3,
+      "falhas_navegacao": 1,
       "url_final": "https://www2.ufjf.br/concursos/",
-      "resumo_sha256": "303d8a7290e96e86931adb7200db27863593a09728dfb583b5a8c4cb4fc0cf2b"
+      "links_academicos_extraidos": 18,
+      "limite_candidatos_atingido": false,
+      "resumo_sha256": "9917a7875a0385ba7a5317d7d2c87c3a8c22c5f7ceceb29513cb9af6118a79dd"
     },
     {
       "id": "31",
@@ -565,16 +1183,23 @@
       "regiao": "Expansão EAD",
       "enabled": true,
       "limitacao": "Docência EAD não implica teletrabalho integral; verificar edital, local de gravação/aulas e titulação mínima e máxima.",
-      "ultima_consulta": "2026-11-12T00:47:01.479438+00:00",
-      "status": "Consulta parcial: nenhum link acadêmico extraído",
-      "candidatos_encontrados": 0,
+      "ultima_consulta": "2026-11-12T01:23:45.142290+00:00",
+      "status": "Consultada: candidatos a revisar",
+      "candidatos_encontrados": 1,
       "tentativas": [
         {
           "url": "https://www.uninter.com/trabalhe-conosco/",
-          "status": "HTTP OK"
+          "tipo": "configurada",
+          "url_final": "https://www.uninter.com/trabalhe-conosco/",
+          "status": "HTTP OK",
+          "resumo_sha256": "39d0d71bcb9a02523739de98332e7261e3b8b33952075939c3656d5691dd10ac"
         }
       ],
+      "paginas_consultadas": 1,
+      "falhas_navegacao": 0,
       "url_final": "https://www.uninter.com/trabalhe-conosco/",
+      "links_academicos_extraidos": 1,
+      "limite_candidatos_atingido": false,
       "resumo_sha256": "39d0d71bcb9a02523739de98332e7261e3b8b33952075939c3656d5691dd10ac"
     }
   ],
@@ -617,7 +1242,7 @@
     {
       "consulta": "concurso professor fisioterapia universidade Portugal",
       "erro": null,
-      "resultados": 9
+      "resultados": 10
     },
     {
       "consulta": "bolsa investigação reabilitação cardiovascular Portugal",
@@ -640,17 +1265,22 @@
       "resultados": 0
     }
   ],
-  "total": 157,
+  "total": 185,
   "validadas": 0,
   "encerradas": 33,
-  "anuncios_verificados": 1,
+  "anuncios_verificados": 0,
   "triagem": {
-    "Candidato": 69,
+    "Candidato": 95,
     "Duplicata": 1,
     "Fonte de acompanhamento": 9,
-    "Fora da prioridade": 35,
+    "Fora da prioridade": 37,
     "Histórico": 42,
     "Não remunerada": 1
   },
+  "instituicoes_tentadas": 31,
+  "instituicoes_com_leitura": 26,
+  "consultas_parciais": 11,
+  "candidatos_coletados": 175,
+  "novos_registros": 28,
   "falhas": 5
 }
