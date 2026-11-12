@@ -813,7 +813,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Ingresso discente, não contratação acadêmica.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -1005,7 +1005,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/November2026/8w3gzofs9w0qFzTEtA1V.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:32.991404+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.786507+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -1075,7 +1075,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -1098,7 +1098,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2026/7cReCjBsgKdt3t3XFLPA.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:32.991404+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.786507+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -1194,7 +1194,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2026/cYUBknT6puOFwqRYBPlC.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:32.991404+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.786507+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -1290,14 +1290,14 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2026/xBSsHy0DqWP58jGBmCy5.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:32.991404+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.786507+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "2026-11-12",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T12:28:07.144963+00:00",
+    "consulta_documental_em": "2026-11-12T12:55:13.791131+00:00",
     "url_documento": "https://ucpel.edu.br/laravel/public/storage/editais/October2026/xBSsHy0DqWP58jGBmCy5.pdf",
     "documento_sha256": "5d3ed7b40ddd8bc94908a86ee04b9430a2a526f193330a2495426a39db612d1b",
     "indicios_documentais": {
@@ -1392,7 +1392,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2026/Nf16JQBkmlIferySmyAR.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:32.991404+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.786507+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -1461,8 +1461,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -1485,7 +1485,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/July2026/PwZ8gsC2qFSefqgQiYn7.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:32.991404+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.786507+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -1581,7 +1581,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/July2026/KhD8KrIoanu9YdcSaEol.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:32.991404+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.786507+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -1677,7 +1677,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/July2026/rkm26VWeS4p81WeRmkbd.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:32.991404+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.786507+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -1773,7 +1773,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/May2026/QlcHODyypSmxDBtZosKf.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:32.991404+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.786507+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -1841,8 +1841,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -1865,7 +1865,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/November2025/DgXiX15BuAVOcAXlo7U3.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:32.991404+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.786507+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -1937,8 +1937,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -1961,7 +1961,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/November2025/8c7Vk9Vb2Y1riW9Nv0oi.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:32.991404+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.786507+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -2056,7 +2056,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/TNLMoX2VpNv2yM3xQo2g.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:32.991404+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.786507+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -2124,8 +2124,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -2148,7 +2148,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/z7TtqugKhpXAjeskiHOU.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:32.991404+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.786507+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -2240,7 +2240,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/VIyXGP1qph3jkB401kGE.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:32.991404+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.786507+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -2308,8 +2308,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -2332,7 +2332,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/7hJsn7ifALkBdJRjeGEY.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:32.991404+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.786507+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -2400,8 +2400,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -2424,7 +2424,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/Y6rcuzsIMW1p8swMfTSy.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:32.991404+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.786507+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -2494,8 +2494,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -2518,7 +2518,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/3WsyW3rFnR1q41VydjZv.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:32.991404+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.786507+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -2586,8 +2586,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -2610,7 +2610,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/SdxSzvBZUrV1rbaFp1XY.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:32.991404+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.786507+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -2706,7 +2706,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/October2025/KmhCxcZbtAqQDSYWZN7Q.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:32.991404+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.786507+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -2776,8 +2776,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -2800,7 +2800,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/September2025/PGfU44itHjuiIuyPwbh6.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:32.991404+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.786507+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -2869,8 +2869,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -2893,7 +2893,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/September2025/iP265kPo6eAzajuoUs9S.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:32.991404+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.786507+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -2961,8 +2961,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -2985,7 +2985,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/June2025/GxGE2wGS82k5GdDHOZRd.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:32.991404+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.786507+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -3081,7 +3081,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/May2025/fTdgIEhsK6LAukGCMdNH.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:32.991404+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.786507+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -3149,8 +3149,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -3173,7 +3173,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/February2025/COQWrPjmremgJg2CjdOg.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:32.991404+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.786507+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -3241,8 +3241,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Prazo de inscrição encerrado, conforme documento oficial consultado.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -3265,7 +3265,7 @@
     "url": "https://ucpel.edu.br/laravel/public/storage/editais/February2025/bFwwoMG9WoE2h8nHISRw.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:32.991404+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.786507+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -3334,7 +3334,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -3353,7 +3353,7 @@
     "url": "https://www2.faccat.br/portal/sites/default/files/Resultado_selecao_docente_2019.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:32.992272+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.787158+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -3405,8 +3405,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Resultado ou ato de andamento; não é abertura de inscrições.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -3427,14 +3427,14 @@
     "url": "https://cesuca.gupy.io/jobs/12823696",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:32.992924+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.787649+00:00",
     "categoria": "Professor efetivo",
     "modalidade": "Presencial",
     "remuneracao": "Não informada",
     "prazo": "2026-11-15",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T12:28:15.075762+00:00",
+    "consulta_documental_em": "2026-11-12T12:55:13.793858+00:00",
     "url_documento": "https://cesuca.gupy.io/jobs/12823696",
     "documento_sha256": "c26fb34da80d0f5ab1ef0cc802bafa19b0a5d9f7da86c3df618c6deb33a7f61a",
     "indicios_documentais": {
@@ -3578,14 +3578,14 @@
     "url": "https://portal.pucrs.br/wp-content/uploads/2026/11/EP_Contrat-7_Chamada-para-Selecao-Docente_Graduacao-2026-v.2_2026_11_04V2.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:32.999352+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.791613+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T12:28:15.360384+00:00",
+    "consulta_documental_em": "2026-11-12T12:55:13.794064+00:00",
     "url_documento": "https://portal.pucrs.br/wp-content/uploads/2026/11/EP_Contrat-7_Chamada-para-Selecao-Docente_Graduacao-2026-v.2_2026_11_04V2.pdf",
     "documento_sha256": "89adc26a18881f89dc6602ea6c78ce448130894480e13fab8b62c362507ce229",
     "indicios_documentais": {
@@ -3640,8 +3640,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -3668,7 +3668,7 @@
     "url": "https://portal.pucrs.br/wp-content/uploads/2026/10/EP_Contrat-5_Rerratificacao-da-Chamada-para-Selecao-Docente_TI-PPG-PGETEMA_EngCivil_V42026_10_29.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:32.999352+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.791613+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -3731,7 +3731,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -3752,7 +3752,7 @@
     "url": "https://portal.pucrs.br/wp-content/uploads/2026/10/EP_Chamada-para-Selecao-Docente_06_2026_10_15.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:32.999352+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.791613+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -3815,7 +3815,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -3836,7 +3836,7 @@
     "url": "https://unisinos.gupy.io/jobs/11621585",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:33.002306+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.792734+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -3906,7 +3906,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -3927,7 +3927,7 @@
     "url": "https://unisinos.gupy.io/jobs/11621604",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:33.002306+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.792734+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -3997,7 +3997,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -4018,7 +4018,7 @@
     "url": "https://unisinos.gupy.io/jobs/11621468",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:33.002306+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.792734+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -4088,7 +4088,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -4109,7 +4109,7 @@
     "url": "https://unisinos.gupy.io/jobs/11613651",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:33.002306+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.792734+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -4179,7 +4179,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -4200,7 +4200,7 @@
     "url": "https://www.upf.br/a-universidade/procad/selecaodocente",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:34.166679+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:36.309117+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -4269,8 +4269,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fonte de acompanhamento",
-    "motivo_triagem": "Página geral ou procedimento; não representa uma vaga individual.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -4291,7 +4291,7 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/221-2026",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:36.561820+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:38.591614+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -4362,8 +4362,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Inscrições encerradas pelo item 3.2 do edital oficial de abertura.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -4386,7 +4386,7 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/252-2026",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:36.561820+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:38.591614+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -4455,7 +4455,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Edital atual aberto até 02/12/2026, mas as áreas são Computação, Artes Visuais, Economia e Física; requisitos de graduação específicos não correspondem a Fisioterapia.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -4478,14 +4478,14 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/343-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:36.561820+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:38.591614+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T12:28:20.699555+00:00",
+    "consulta_documental_em": "2026-11-12T12:55:13.794829+00:00",
     "url_documento": "https://www.ufsm.br/pro-reitorias/progep/editais/343-2025",
     "documento_sha256": "99606fb645cc397acde6287cb074a9c7f0c6ec1acd808be876ab319db52a98c4",
     "indicios_documentais": {
@@ -4546,8 +4546,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -4574,7 +4574,7 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/101-2026",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:36.561820+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:38.591614+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -4642,8 +4642,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Inscrições encerradas pelo item 3.2 do edital oficial de abertura.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -4666,7 +4666,7 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/198-2026",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:36.561820+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:38.591614+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -4734,8 +4734,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Inscrições encerradas pelo item 3.2 do edital oficial de abertura.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -4758,7 +4758,7 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/247-2026",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:36.561820+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:38.591614+00:00",
     "categoria": "Professor substituto",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -4844,7 +4844,7 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/288-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:36.561820+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:38.591614+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -4912,8 +4912,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Inscrições encerradas pelo item 3.2 do edital oficial de abertura.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -4936,7 +4936,7 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/250-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:36.561820+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:38.591614+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -5004,8 +5004,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Inscrições encerradas pelo item 3.2 do edital oficial de abertura.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -5028,7 +5028,7 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/198-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:36.561820+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:38.591614+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -5098,8 +5098,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Inscrições encerradas pelo item 3.2 do edital oficial de abertura.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -5190,8 +5190,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Inscrições encerradas pelo item 3.2 do edital oficial de abertura.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -5214,7 +5214,7 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/coordenadoria-de-concursos-ccon",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:36.561820+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:38.591614+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -5276,8 +5276,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fonte de acompanhamento",
-    "motivo_triagem": "Página geral ou procedimento; não representa uma vaga individual.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -5298,7 +5298,7 @@
     "url": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/19038",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:38.420974+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:40.794536+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -5357,7 +5357,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -5378,7 +5378,7 @@
     "url": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/19238",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:38.420974+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:40.794536+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -5437,7 +5437,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -5458,7 +5458,7 @@
     "url": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/19219",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:38.420974+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:40.794536+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -5517,7 +5517,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -5538,14 +5538,14 @@
     "url": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/19239",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:38.420974+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:40.794536+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T12:28:21.417662+00:00",
+    "consulta_documental_em": "2026-11-12T12:55:13.794972+00:00",
     "url_documento": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/19239",
     "documento_sha256": "22f4fd26eaa2144375874aecfcba2765f21c55e11dead443e088f25e5afa9590",
     "indicios_documentais": {
@@ -5596,8 +5596,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -5624,7 +5624,7 @@
     "url": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/21758",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:38.420974+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:40.794536+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -5681,7 +5681,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -5702,14 +5702,14 @@
     "url": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/20298",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:38.420974+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:40.794536+00:00",
     "categoria": "Professor substituto",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T12:28:21.574543+00:00",
+    "consulta_documental_em": "2026-11-12T12:55:13.795252+00:00",
     "url_documento": "https://guri.unipampa.edu.br/psa/processos/visualizarProcessoSeletivo/20298",
     "documento_sha256": "2781d82fdb318539ae8c4b0bbaebf42657ed8a29b4cc5b681c5220a49c7bb04a",
     "indicios_documentais": {
@@ -5793,7 +5793,7 @@
     "url": "https://guri.unipampa.edu.br/psa/acesso/preInsc/49236/21758",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:38.420974+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:40.794536+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -5846,7 +5846,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -5865,7 +5865,7 @@
     "url": "https://uergs.edu.br/processos-seletivos-professores-voluntarios",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:41.118769+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:42.355788+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -5904,8 +5904,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Não remunerada",
-    "motivo_triagem": "A própria publicação identifica atuação voluntária ou não remunerada.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -5926,7 +5926,7 @@
     "url": "https://www.sg.unicamp.br/cvnd/solicitacoes-de-vagas-nao-docentes",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:42.572594+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:43.683758+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -5978,8 +5978,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fonte de acompanhamento",
-    "motivo_triagem": "Página geral ou procedimento; não representa uma vaga individual.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -6000,7 +6000,7 @@
     "url": "https://www.sg.unicamp.br/gde/procedimentos-para-realizacao/concurso-livre-docente",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:42.572594+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:43.683758+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -6059,8 +6059,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fonte de acompanhamento",
-    "motivo_triagem": "Página geral ou procedimento; não representa uma vaga individual.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -6081,7 +6081,7 @@
     "url": "https://www.sg.unicamp.br/gde/procedimentos-para-realizacao/concurso-pesquisador",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:42.572594+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:43.683758+00:00",
     "categoria": "Pesquisador",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -6140,8 +6140,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fonte de acompanhamento",
-    "motivo_triagem": "Página geral ou procedimento; não representa uma vaga individual.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -6162,7 +6162,7 @@
     "url": "https://www.sg.unicamp.br/gde/procedimentos-para-realizacao/concurso-professor-doutor",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:42.572594+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:43.683758+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -6223,8 +6223,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fonte de acompanhamento",
-    "motivo_triagem": "Página geral ou procedimento; não representa uma vaga individual.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -6245,7 +6245,7 @@
     "url": "https://www.sg.unicamp.br/gde/procedimentos-para-realizacao/concurso-professor-titular",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:42.572594+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:43.683758+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -6304,8 +6304,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fonte de acompanhamento",
-    "motivo_triagem": "Página geral ou procedimento; não representa uma vaga individual.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -6326,7 +6326,7 @@
     "url": "https://www.ufmg.br/prorh/gestao-de-vagas-docentes",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:45.912447+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:44.118461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -6396,8 +6396,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Fonte de acompanhamento",
-    "motivo_triagem": "Página geral ou procedimento; não representa uma vaga individual.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -6416,7 +6416,7 @@
     "url": "https://www.ufmg.br/prorh/publicacoes",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:45.912447+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:44.118461+00:00",
     "categoria": "Professor substituto",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -6500,7 +6500,7 @@
     "url": "https://www.ufmg.br/prorh/wp-content/uploads/2022/10/Sessao-Publica-Relatorio-Resultado-21_10_2022.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:45.912447+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:44.118461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -6552,8 +6552,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Resultado ou ato de andamento; não é abertura de inscrições.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -6572,7 +6572,7 @@
     "url": "https://www.ufmg.br/prorh/wp-content/uploads/2023/03/Sessao-Publica-Relatorio-Resultado-06_03_2023.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:45.912447+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:44.118461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -6624,8 +6624,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Resultado ou ato de andamento; não é abertura de inscrições.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -6644,7 +6644,7 @@
     "url": "https://www.ufmg.br/prorh/wp-content/uploads/2023/11/Sessao-Publica-Relatorio-Resultado-01_11_2023.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:45.912447+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:44.118461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -6696,8 +6696,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Resultado ou ato de andamento; não é abertura de inscrições.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -6716,7 +6716,7 @@
     "url": "https://www.ufmg.br/prorh/wp-content/uploads/2024/09/Sessao-Publica-Relatorio-Resultado-16_09_2024.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:45.912447+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:44.118461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -6768,8 +6768,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Resultado ou ato de andamento; não é abertura de inscrições.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -6788,7 +6788,7 @@
     "url": "https://www.ufmg.br/prorh/wp-content/uploads/2025/04/Sessao-Publica-Relatorio-Resultado-31_03_2025.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:45.912447+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:44.118461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -6842,8 +6842,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Resultado ou ato de andamento; não é abertura de inscrições.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -6862,7 +6862,7 @@
     "url": "https://www.ufmg.br/prorh/wp-content/uploads/2025/09/Sessao-Publica-Relatorio-Resultado-19_09_2025.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:45.912447+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:44.118461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -6918,8 +6918,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Resultado ou ato de andamento; não é abertura de inscrições.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -6938,7 +6938,7 @@
     "url": "https://www.ufmg.br/prorh/wp-content/uploads/2026/02/Sessao-Publica-Relatorio-Resultado-10_02_2026.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:45.912447+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:44.118461+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -6994,8 +6994,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Resultado ou ato de andamento; não é abertura de inscrições.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -7014,7 +7014,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-14162026-concurso-para-um-professor-associado-area-disciplinar-de-fisica",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:46.055513+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:46.711305+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -7090,7 +7090,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -7111,14 +7111,14 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9712026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:46.055513+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:46.711305+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T12:28:23.849816+00:00",
+    "consulta_documental_em": "2026-11-12T12:55:13.928558+00:00",
     "url_documento": "https://www.ulisboa.pt/recrutamento/edital-no-9712026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "documento_sha256": "0f958e1fd15d47f384bca87eeb71e4a9de57f15a257c2e8ea4aa84f99ad01033",
     "indicios_documentais": {
@@ -7214,14 +7214,14 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9702026-concurso-para-recrutamento-de-um-professor-associado-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:46.055513+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:46.711305+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T12:28:24.342112+00:00",
+    "consulta_documental_em": "2026-11-12T12:55:13.947260+00:00",
     "url_documento": "https://www.ulisboa.pt/recrutamento/edital-no-9702026-concurso-para-recrutamento-de-um-professor-associado-na-area",
     "documento_sha256": "050faf0093d7c4a354c78b24b307d78d610e49fcc1b2d6e3077f9c1560ce6fa3",
     "indicios_documentais": {
@@ -7317,7 +7317,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9692026-concurso-para-recrutamento-de-um-professor-associado-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:46.055513+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:46.711305+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -7393,7 +7393,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -7414,7 +7414,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9682026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:46.055513+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:46.711305+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -7490,7 +7490,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -7511,7 +7511,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9602026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:46.055513+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:46.711305+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -7587,7 +7587,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -7608,7 +7608,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9592026-concurso-para-recrutamento-de-um-professor-associado-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:46.055513+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:46.711305+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -7684,7 +7684,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -7705,7 +7705,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9582026-concurso-para-recrutamento-de-um-professor-associado-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:46.055513+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:46.711305+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -7781,7 +7781,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -7802,7 +7802,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9572026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:46.055513+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:46.711305+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -7878,7 +7878,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -7899,7 +7899,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9562026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:46.055513+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:46.711305+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -7975,7 +7975,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -7996,7 +7996,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9452026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:46.055513+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:46.711305+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -8072,7 +8072,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -8093,7 +8093,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9442026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:46.055513+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:46.711305+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -8169,7 +8169,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -8190,7 +8190,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9432026-concurso-para-recrutamento-deum-professor-associado-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:46.055513+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:46.711305+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -8266,7 +8266,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -8287,7 +8287,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9422026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:46.055513+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:46.711305+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -8363,7 +8363,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -8384,7 +8384,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9412026-concurso-para-recrutamento-de-um-professor-associado-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:46.055513+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:46.711305+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -8460,7 +8460,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -8481,7 +8481,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-9402026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:46.055513+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:46.711305+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -8557,7 +8557,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -8578,7 +8578,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-14152026-concurso-para-1-um-professor-associado-area-disciplinar-de",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:46.055513+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:46.711305+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -8654,7 +8654,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -8675,7 +8675,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-12212026-concurso-para-recrutamento-de-um-professor-auxiliar-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:46.055513+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:46.711305+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -8751,7 +8751,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -8772,14 +8772,14 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-10962026-concurso-para-recrutamento-de-um-professor-auxiliar-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:46.055513+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:46.711305+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T12:28:24.982237+00:00",
+    "consulta_documental_em": "2026-11-12T12:55:14.669817+00:00",
     "url_documento": "https://www.ulisboa.pt/recrutamento/edital-no-10962026-concurso-para-recrutamento-de-um-professor-auxiliar-na-area",
     "documento_sha256": "e1311a9eee6789949d3f1c97d58efda1949ed79497adc204baf3a109d64ff5f7",
     "indicios_documentais": {
@@ -8847,8 +8847,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -8875,14 +8875,14 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-12742026-concurso-para-um-professor-auxiliar-area-disciplinar-de",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:46.055513+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:46.711305+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T12:28:25.087990+00:00",
+    "consulta_documental_em": "2026-11-12T12:55:14.706804+00:00",
     "url_documento": "https://www.ulisboa.pt/recrutamento/edital-no-12742026-concurso-para-um-professor-auxiliar-area-disciplinar-de",
     "documento_sha256": "ca6f79a5a2e1fa297382b68c5c586da01d06331ece1c6235a11a47265c13a1e4",
     "indicios_documentais": {
@@ -8950,8 +8950,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -8978,14 +8978,14 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-12362026-concurso-para-dois-professores-catedraticos-na-area-disciplinar-de",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:46.055513+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:46.711305+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T12:28:26.352485+00:00",
+    "consulta_documental_em": "2026-11-12T12:55:14.844440+00:00",
     "url_documento": "https://www.ulisboa.pt/recrutamento/edital-no-12362026-concurso-para-dois-professores-catedraticos-na-area-disciplinar-de",
     "documento_sha256": "0b52d853bef4d84c0daabe75d6e75a336cc98a33faf0c835a6404502a6cb81f1",
     "indicios_documentais": {
@@ -9053,8 +9053,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Área potencialmente pertinente; exige edital, prazo, remuneração e requisitos.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -9081,7 +9081,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-12112026-concurso-para-um-professor-auxiliar-na-area-disciplinar-de",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:46.055513+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:46.711305+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -9157,7 +9157,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -9178,7 +9178,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-11712026-concurso-para-recrutamento-em-regime-de-contrato-de-trabalho-em",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:46.055513+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:46.711305+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -9254,7 +9254,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -9275,14 +9275,14 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-10332026-concurso-para-professor-auxiliar-area-disciplinar-de-microbiologia",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:46.055513+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:46.711305+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
     "prazo": "",
     "status": "Não verificado",
     "prioridade": "Aderência a revisar",
-    "consulta_documental_em": "2026-11-12T12:28:26.806601+00:00",
+    "consulta_documental_em": "2026-11-12T12:55:15.355454+00:00",
     "url_documento": "https://www.ulisboa.pt/recrutamento/edital-no-10332026-concurso-para-professor-auxiliar-area-disciplinar-de-microbiologia",
     "documento_sha256": "1ba980108306394b51514629a3d36500a6fcc01b099c21b8c76ae508ed43c18e",
     "indicios_documentais": {
@@ -9350,8 +9350,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -9378,7 +9378,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/edital-no-10162026-concurso-para-recrutamento-de-um-professor-catedratico-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:46.055513+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:46.711305+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Documento alterado: rever",
@@ -9454,7 +9454,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal.",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -9475,7 +9475,7 @@
     "url": "https://www.reitoria.uri.br/pt/download-editals/a15d4fff4a91e067c745deb186596f05",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:34.332985+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:36.730673+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -9549,8 +9549,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 0,
@@ -9566,7 +9566,7 @@
     "url": "https://www.reitoria.uri.br/pt/download-editals/57c2f74fddca0d9a478d41e1c8e0ad78",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:34.332985+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:36.730673+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -9642,8 +9642,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 0,
@@ -9659,7 +9659,7 @@
     "url": "https://www.reitoria.uri.br/pt/download-editals/7b935a22a1162165691777f8e5c7b97e",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:34.332985+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:36.730673+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -9719,8 +9719,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 0,
@@ -9736,7 +9736,7 @@
     "url": "https://www.reitoria.uri.br/pt/download-editals/3c5680dfc00c70b56a50ae4b17ea1705",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:34.332985+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:36.730673+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -9792,8 +9792,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Histórico",
-    "motivo_triagem": "Resultado ou ato de andamento; não é abertura de inscrições.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1"
   },
   {
@@ -9804,7 +9804,7 @@
     "url": "https://www.reitoria.uri.br/pt/download-editals/cd5ae74a8269e0a02d85a4bcd970b52e",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:34.332985+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:36.730673+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -9878,8 +9878,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 0,
@@ -9895,7 +9895,7 @@
     "url": "https://www.reitoria.uri.br/pt/download-editals/26a57c5f44db3d751c0230870a47e77f",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:34.332985+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:36.730673+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -9967,8 +9967,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 0,
@@ -9984,7 +9984,7 @@
     "url": "https://www.reitoria.uri.br/pt/download-editals/e32c670717bcff0e3f9488466a72dc75",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:34.332985+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:36.730673+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -10040,8 +10040,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 0,
@@ -10057,7 +10057,7 @@
     "url": "https://www.reitoria.uri.br/pt/download-editals/64a3126b98424abf9623c145341844fe",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:34.332985+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:36.730673+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -10113,8 +10113,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 0,
@@ -10130,7 +10130,7 @@
     "url": "https://www.reitoria.uri.br/pt/download-editals/f5441ad9fcbd7f8ff1365bf01c954527",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:34.332985+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:36.730673+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -10182,8 +10182,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1"
   },
   {
@@ -10194,7 +10194,7 @@
     "url": "https://www.reitoria.uri.br/pt/download-editals/636260672232edfbdf24569970032d72",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:34.332985+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:36.730673+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -10261,8 +10261,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 0,
@@ -10278,7 +10278,7 @@
     "url": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2362-edital-de-abertura-n-174-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:41.163037+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:42.705151+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -10340,8 +10340,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 0,
@@ -10357,7 +10357,7 @@
     "url": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2361-edital-de-abertura-n-170-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:41.163037+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:42.705151+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -10419,8 +10419,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 0,
@@ -10436,7 +10436,7 @@
     "url": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2360-edital-de-abertura-n-163-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:41.163037+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:42.705151+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -10498,8 +10498,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 0,
@@ -10515,7 +10515,7 @@
     "url": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2359-edital-de-abertura-n-137-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:41.163037+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:42.705151+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -10577,8 +10577,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 0,
@@ -10594,7 +10594,7 @@
     "url": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2358-edital-de-abertura-n-132-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:41.163037+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:42.705151+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -10656,8 +10656,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 0,
@@ -10673,7 +10673,7 @@
     "url": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2357-edital-de-abertura-n-134-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:41.163037+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:42.705151+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -10735,8 +10735,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 0,
@@ -10752,7 +10752,7 @@
     "url": "https://concursos.unb.br/index.php/editais-temporario/temporario-2025/2356-edital-de-abertura-n-122-2026",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:41.163037+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:42.705151+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -10814,8 +10814,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 0,
@@ -10896,8 +10896,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1"
   },
   {
@@ -10908,7 +10908,7 @@
     "url": "https://ufcspa.edu.br/estude-na-ufcspa/pos-doutorado",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:52.837007+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:51.174979+00:00",
     "categoria": "Pós-doutorado",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -10980,8 +10980,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 0,
@@ -10997,7 +10997,7 @@
     "url": "https://ufcspa.edu.br/noticias/materias-de-capa/5858-ufcspa-realiza-concurso-publico-para-contratacao-de-10-professores",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:52.837007+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:51.174979+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -11067,8 +11067,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 0,
@@ -11084,7 +11084,7 @@
     "url": "https://www.unifal-mg.edu.br/dips/professor-do-magisterio-superior",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:53.567722+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:51.748522+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -11153,8 +11153,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 4,
@@ -11170,7 +11170,7 @@
     "url": "https://www.unifal-mg.edu.br/dips/edital-no-69-2026-reabertura-processo-de-selecao-para-professor-regente-dos-cursos-de-especializacao-do-programa-universidade-aberta-do-brasil-uab",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:53.567722+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:51.748522+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -11230,8 +11230,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 0,
@@ -11247,7 +11247,7 @@
     "url": "https://www.unifal-mg.edu.br/dips/edital-no-039-2026-reabertura-concurso-publico-para-professor-do-magisterio-superior-clinica-medica-cardiologia",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:53.567722+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:51.748522+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -11305,8 +11305,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Área potencialmente pertinente; exige edital, prazo, remuneração e requisitos.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 0,
@@ -11322,7 +11322,7 @@
     "url": "https://www2.ufjf.br/concursos/concursos-publicos-efetivos/concurso-docentes",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:56.113007+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:56.645459+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -11376,8 +11376,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 0,
@@ -11393,7 +11393,7 @@
     "url": "https://www2.ufjf.br/concursos/processos-seletivos-simplificados/selecao-docentes-temporarios",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:56.113007+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:56.645459+00:00",
     "categoria": "Professor substituto",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -11465,7 +11465,7 @@
     "url": "https://www2.ufjf.br/concursos/processos-seletivos-simplificados/selecao-professor-visitante",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:56.113007+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:56.645459+00:00",
     "categoria": "Professor visitante",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -11519,8 +11519,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 0,
@@ -11536,7 +11536,7 @@
     "url": "https://www2.ufjf.br/concursos/processos-seletivos-simplificados/selecao-docentes-temporarios/ano-2024",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:56.113007+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:56.645459+00:00",
     "categoria": "Professor substituto",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -11615,7 +11615,7 @@
     "url": "https://www2.ufjf.br/concursos/processos-seletivos-simplificados/selecao-docentes-temporarios/ano-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:56.113007+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:56.645459+00:00",
     "categoria": "Professor substituto",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -11696,7 +11696,7 @@
     "url": "https://www2.ufjf.br/concursos/processos-seletivos-simplificados/selecao-docentes-temporarios/ano-2026",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:56.113007+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:56.645459+00:00",
     "categoria": "Professor substituto",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -11775,7 +11775,7 @@
     "url": "https://www2.ufjf.br/concursos/2016/01/13/publicado-edital-de-concurso-publico-para-docentes-do-c-a-joao-xxiii",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:56.113007+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:56.645459+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -11831,8 +11831,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 0,
@@ -11848,7 +11848,7 @@
     "url": "https://www2.ufjf.br/concursos/2013/04/01/novos-periodos-de-inscricao-para-concursos-de-professores-sao-cancelados",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:56.113007+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:56.645459+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -11906,8 +11906,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 0,
@@ -11923,7 +11923,7 @@
     "url": "https://www2.ufjf.br/concursos/2013/02/01/ufjf-abre-inscricoes-para-dois-editais-de-concursos-publicos-para-professores-em-juiz-de-fora",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:56.113007+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:56.645459+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -11981,8 +11981,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 0,
@@ -11998,7 +11998,7 @@
     "url": "https://www2.ufjf.br/concursos/2012/12/21/ufjf-abre-vagas-em-concursos-publicos-para-professores-em-juiz-de-fora-2",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:56.113007+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:56.645459+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -12054,8 +12054,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 0,
@@ -12071,7 +12071,7 @@
     "url": "https://www2.ufjf.br/concursos/2012/12/07/novo-edital-para-contratacao-de-professores-temporarios",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:56.113007+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:56.645459+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -12127,8 +12127,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 0,
@@ -12144,7 +12144,7 @@
     "url": "https://www2.ufjf.br/concursos/2012/11/09/ufjf-abre-2-periodo-de-inscricoes-em-concurso-publico-para-professores-em-juiz-de-fora",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:56.113007+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:56.645459+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -12202,8 +12202,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 0,
@@ -12219,7 +12219,7 @@
     "url": "https://www2.ufjf.br/concursos/2012/11/09/ufjf-abre-vagas-em-concursos-publicos-para-professores-em-juiz-de-fora",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:56.113007+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:56.645459+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -12275,8 +12275,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 0,
@@ -12292,7 +12292,7 @@
     "url": "https://www2.ufjf.br/concursos/2012/06/19/concurso-para-professores-na-ufjf-abre-2-periodo-de-inscricao",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:56.113007+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:56.645459+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -12350,8 +12350,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 0,
@@ -12367,7 +12367,7 @@
     "url": "https://www2.ufjf.br/concursos/2012/05/15/ufjf-abre-vagas-em-concurso-publico-para-professores-para-juiz-de-fora-e-governador-valadares",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:56.113007+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:56.645459+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -12423,8 +12423,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 0,
@@ -12440,7 +12440,7 @@
     "url": "https://www2.ufjf.br/concursos/2011/05/25/novo-edital-18",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-10",
-    "ultima_deteccao": "2026-11-12T12:27:56.113007+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:56.645459+00:00",
     "categoria": "Professor substituto",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -12524,7 +12524,7 @@
     "data_coleta": "2026-11-10",
     "categoria": "Professor substituto",
     "modalidade": "Presencial",
-    "consulta_documental_em": "2026-11-12T12:28:33.280550+00:00",
+    "consulta_documental_em": "2026-11-12T12:55:16.228252+00:00",
     "url_documento": "https://phpu.unifesp.br/concurso/inscricao/editais/edital755-2026.htm",
     "documento_sha256": "5e00a0f6e6a329a72f9b960b8f6f78374183cbfe444d7f807cc3e345344ee674",
     "indicios_documentais": {
@@ -12694,7 +12694,7 @@
       "https://ufcspa.edu.br/documentos/ANEXOS_118.pdf",
       "https://ufcspa.edu.br/documentos/Retificacao_27_de_outubro_1.pdf"
     ],
-    "consulta_documental_em": "2026-11-12T12:28:33.611894+00:00",
+    "consulta_documental_em": "2026-11-12T12:55:16.379766+00:00",
     "resultado_documental": "Indícios extraídos; elegibilidade, anexos e retificações exigem revisão",
     "verificacao": {
       "graduacao": {
@@ -12736,7 +12736,7 @@
     },
     "status": "Revisão necessária",
     "triagem": "Candidato",
-    "motivo_triagem": "Edital remunerado com prazo e requisitos conferidos. Elegibilidade pessoal é condicional, não certificada.",
+    "motivo_triagem": "Documento alterado desde a revisão: prazo e requisitos exigem nova conferência.",
     "auditoria": {
       "data": "2026-11-10",
       "revisor": "Revisão assistida documental",
@@ -12798,15 +12798,16 @@
         "https://ufcspa.edu.br/documentos/EDITAL_118.pdf": "0f79e9176d4011b0e4322545783cf0283bff698fad9b02bfaa169440877d412a",
         "https://ufcspa.edu.br/documentos/ANEXOS_118.pdf": "924455d9bd70640a4ed2c018bf45fa4b9555c01466710d6b577f5d3eafc348e7",
         "https://ufcspa.edu.br/documentos/Retificacao_27_de_outubro_1.pdf": "c108696f02079732a475534a1902e45271eac05a64d5e6e24b7c95e8cabd14f0"
-      }
+      },
+      "desatualizada": true
     },
-    "prazo": "2026-11-17",
-    "remuneracao": "R$ 13.753,96 brutos/mês; 40h com dedicação exclusiva; 1 vaga por área",
+    "prazo": "",
+    "remuneracao": "Documento alterado: rever",
     "url_oficial": "https://ufcspa.edu.br/trabalhe-na-ufcspa/docentes/7872-edital-118-2026-progesp",
     "elegibilidade": "Condicionada: a comissão precisa confirmar a correspondência formal do diploma de Ciências Cardiovasculares às áreas aceitas. Fisioterapia exige CREFITO ativo. Considerar dedicação exclusiva.",
     "ultima_deteccao": "2026-11-10",
     "url_documento": "https://ufcspa.edu.br/trabalhe-na-ufcspa/docentes/7872-edital-118-2026-progesp",
-    "documento_sha256": "c459ddb8fddf41322b997eec9b5bb2ac8fd91621f6f9670862e09e6b89c32275",
+    "documento_sha256": "75dc6b726f028e4a2ef5264aa623521ed1f071f6c8d5e4cfe522b97e16c185b9",
     "indicios_documentais": {
       "graduacao": [
         "Introdução Conteúdo da carta de serviços Informações gerais Direcionamento estratégico Áreas de atuação acadêmica Horários de funcionamento Canais de comunicação Estrutura organizacional Formas de ingresso Cursos de graduação Programas de pós-graduação",
@@ -12837,14 +12838,10 @@
     },
     "anexos_sha256": {
       "https://ufcspa.edu.br/documentos/EDITAL_118.pdf": "0f79e9176d4011b0e4322545783cf0283bff698fad9b02bfaa169440877d412a",
+      "https://ufcspa.edu.br/documentos/ANEXOS_118.pdf": "924455d9bd70640a4ed2c018bf45fa4b9555c01466710d6b577f5d3eafc348e7",
       "https://ufcspa.edu.br/documentos/Retificacao_27_de_outubro_1.pdf": "c108696f02079732a475534a1902e45271eac05a64d5e6e24b7c95e8cabd14f0"
     },
-    "falhas_anexos": [
-      {
-        "url": "https://ufcspa.edu.br/documentos/ANEXOS_118.pdf",
-        "erro": "<urlopen error timed out>"
-      }
-    ],
+    "falhas_anexos": [],
     "documento_hash_formato": "texto-v1",
     "seguranca_documental": {
       "caracteres_formato": 0,
@@ -12860,7 +12857,7 @@
     "url": "https://unisinos.gupy.io/jobs/11621447",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-11",
-    "ultima_deteccao": "2026-11-12T12:27:33.002306+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.792734+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -12931,7 +12928,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal."
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas."
   },
   {
     "id": "inst-a30cea658dd683b2be8c",
@@ -12941,7 +12938,7 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/223-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T12:27:36.561820+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:38.591614+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -13010,8 +13007,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "seguranca_documental": {
       "caracteres_formato": 0,
       "instrucao_suspeita": false,
@@ -13026,7 +13023,7 @@
     "url": "https://www.ufsm.br/pro-reitorias/progep/editais/100-2025",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T12:27:36.561820+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:38.591614+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -13093,8 +13090,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "seguranca_documental": {
       "caracteres_formato": 0,
       "instrucao_suspeita": false,
@@ -13207,7 +13204,7 @@
     "url": "https://www2.faccat.br/portal/sites/default/files/ckeditorfiles/2025/Editalselecaodocente-externo.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T12:27:32.992272+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.787158+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -13247,8 +13244,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas."
   },
   {
     "id": "inst-32e9d52da96775be0ff9",
@@ -13258,7 +13255,7 @@
     "url": "https://www2.faccat.br/portal/sites/default/files/ckeditorfiles/2024/2025_Edital_de_Selecao_Docente.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T12:27:32.992272+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.787158+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -13297,8 +13294,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas."
   },
   {
     "id": "inst-b403488469480b87631e",
@@ -13308,7 +13305,7 @@
     "url": "https://www2.faccat.br/portal/sites/default/files/ckeditorfiles/2024/2024-Edital_PIBID_professores.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T12:27:32.992272+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.787158+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -13347,8 +13344,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas."
   },
   {
     "id": "inst-74469f4df983b154d261",
@@ -13358,7 +13355,7 @@
     "url": "https://www2.faccat.br/portal/sites/default/files/ckeditorfiles/Edital_para_Seleo_Docente_01_2024_Atualizado_em_02_01_2024%20-%20Assinado.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T12:27:32.992272+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.787158+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -13429,8 +13426,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas."
   },
   {
     "id": "inst-4ceaf84943aac943ce1d",
@@ -13440,7 +13437,7 @@
     "url": "https://www2.faccat.br/portal/sites/default/files/Edital_de_Selecao_Docente-Externo.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T12:27:32.992272+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.787158+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -13479,8 +13476,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas."
   },
   {
     "id": "inst-3aabec24e8758685ada2",
@@ -13490,7 +13487,7 @@
     "url": "https://www2.faccat.br/portal/sites/default/files/ckeditorfiles/Edital_de_Selecao_de_Docentes_n_01_2023.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T12:27:32.992272+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.787158+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -13530,8 +13527,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas."
   },
   {
     "id": "inst-b314d34ae27143ead8bc",
@@ -13541,7 +13538,7 @@
     "url": "https://www2.faccat.br/portal/sites/default/files/ckeditorfiles/Edital_selecao_Mestrado_Professor_2023.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T12:27:32.992272+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.787158+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -13580,8 +13577,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas."
   },
   {
     "id": "inst-bd177d61027f064b6ace",
@@ -13591,7 +13588,7 @@
     "url": "https://www2.faccat.br/portal/sites/default/files/ckeditorfiles/Edital%20de%20Sele%C3%A7%C3%A3o%20Docente%20%281%29.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T12:27:32.992272+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.787158+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -13663,8 +13660,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas."
   },
   {
     "id": "inst-054cba526b1ea6fb1c8b",
@@ -13674,7 +13671,7 @@
     "url": "https://www2.faccat.br/portal/sites/default/files/ckeditorfiles/Design_direito_Enfermagem_Edital_de_Selecao_Docente_1_2022.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T12:27:32.992272+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.787158+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -13746,8 +13743,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas."
   },
   {
     "id": "inst-18c9303f5d5f50cfda97",
@@ -13757,7 +13754,7 @@
     "url": "https://www2.faccat.br/portal/sites/default/files/ckeditorfiles/Edital_de_selecao_docente_inovacao_externo_0.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T12:27:32.992272+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.787158+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -13797,8 +13794,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas."
   },
   {
     "id": "inst-e17fe5b70565efcdca04",
@@ -13808,7 +13805,7 @@
     "url": "https://www2.faccat.br/portal/sites/default/files/ckeditorfiles/Edital_selecao_de_docente_comunicacao.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T12:27:32.992272+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.787158+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -13847,8 +13844,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas."
   },
   {
     "id": "inst-2598322475252c936a53",
@@ -13858,7 +13855,7 @@
     "url": "https://portal.pucrs.br/wp-content/uploads/2026/11/ecsv-psicologia-edital-004_2026-contratacao_docente_integral_GRAD__PPGP-5nov26.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T12:27:32.999352+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:35.791613+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -13898,8 +13895,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas."
   },
   {
     "id": "inst-893011de72ff5bcc4a4a",
@@ -13909,7 +13906,7 @@
     "url": "https://www.upf.br/Media/Edital-Recredenciamento-PPGSAS-UPF_208685.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T12:27:34.166679+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:36.309117+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -13975,8 +13972,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas."
   },
   {
     "id": "inst-d93427c86621498509aa",
@@ -13986,7 +13983,7 @@
     "url": "https://guri.unipampa.edu.br/psa/processos/downloadAnexo/33685/edital_325_2026___edital_de_selecao_simplificada_para_professor_regente_componente_curricular_de_libras.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T12:27:38.420974+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:40.794536+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -14068,8 +14065,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas."
   },
   {
     "id": "inst-548caf1439bd734ff04d",
@@ -14079,7 +14076,7 @@
     "url": "https://downloads.sg.unicamp.br/?f=c6f69971ffd4bc08989d188bdd5aa219&t=5bfbe908bd530d5c43f99eb09d2d37e4",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T12:27:42.572594+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:43.683758+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -14141,8 +14138,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas."
   },
   {
     "id": "inst-ba661a17bd456b2c47b2",
@@ -14152,7 +14149,7 @@
     "url": "https://downloads.sg.unicamp.br/?f=efd1b57464bba646cd181eabf773525c&t=5bfbe908bd530d5c43f99eb09d2d37e4",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T12:27:42.572594+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:43.683758+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -14214,8 +14211,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas."
   },
   {
     "id": "inst-b734d5a80bc5b4a010de",
@@ -14225,7 +14222,7 @@
     "url": "https://www.ulisboa.pt/info/concursos-para-docentes",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T12:27:46.055513+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:46.711305+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -14306,8 +14303,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas."
   },
   {
     "id": "inst-3365852f62f8ea4ed0ad",
@@ -14317,7 +14314,7 @@
     "url": "https://www.ulisboa.pt/info/concursos-para-investigadores",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T12:27:46.055513+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:46.711305+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -14398,8 +14395,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas."
   },
   {
     "id": "inst-324ece0c9d14114ae89e",
@@ -14409,7 +14406,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/aviso-1481820262-concurso-para-recrutamento-de-um-investigador-auxiliar-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T12:27:46.055513+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:46.711305+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -14447,7 +14444,7 @@
       }
     },
     "triagem": "Fora da prioridade",
-    "motivo_triagem": "Área anunciada fora do foco Fisioterapia/reabilitação/cardiometabólico. Não é juízo de impedimento legal."
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas."
   },
   {
     "id": "inst-b31cb6a77be658d834fa",
@@ -14457,7 +14454,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/aviso-no-2572120252-concurso-documental-internacional-para-um-investigador-principal",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T12:27:46.055513+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:46.711305+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -14549,7 +14546,7 @@
     "url": "https://www.ulisboa.pt/recrutamento/aviso-no-2408120252-concurso-para-recrutamento-de-um-investigador-principal-na-area",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T12:27:46.055513+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:46.711305+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -14597,7 +14594,7 @@
     "url": "https://jobs.nottingham.ac.uk/vacancies.aspx?cat=204",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T12:27:50.351512+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:50.094159+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -14665,8 +14662,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas."
   },
   {
     "id": "inst-e455eb2feb15b32ac9cc",
@@ -14676,7 +14673,7 @@
     "url": "https://jobs.nottingham.ac.uk/vacancies.aspx?cat=210",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T12:27:50.351512+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:50.094159+00:00",
     "categoria": "Pesquisador",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -14746,8 +14743,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas."
   },
   {
     "id": "inst-767e7272b70ef717d6e7",
@@ -14757,7 +14754,7 @@
     "url": "https://jobs.nottingham.ac.uk/vacancies.aspx?cat=204&type=5",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T12:27:50.351512+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:50.094159+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -14825,8 +14822,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas."
   },
   {
     "id": "inst-e288717400307f503632",
@@ -14836,7 +14833,7 @@
     "url": "https://jobs.nottingham.ac.uk/vacancies.aspx?cat=210&type=5",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T12:27:50.351512+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:50.094159+00:00",
     "categoria": "Pesquisador",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -14906,8 +14903,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas."
   },
   {
     "id": "inst-23bf6666e0415a609824",
@@ -14917,7 +14914,7 @@
     "url": "https://www2.ufjf.br/concursos/normas-prova-de-titulos/resolucao-dos-criterios-para-prova-de-titulos/efetivos",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T12:27:56.113007+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:56.645459+00:00",
     "categoria": "Professor efetivo",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -14977,8 +14974,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas."
   },
   {
     "id": "inst-4ffc7a98eef3081b6004",
@@ -14988,7 +14985,7 @@
     "url": "https://www2.ufjf.br/concursos/normas-prova-de-titulos/resolucao-dos-criterios-para-prova-de-titulos/substitutos",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T12:27:56.113007+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:56.645459+00:00",
     "categoria": "Professor substituto",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -15059,7 +15056,7 @@
     "url": "https://www.uninter.com/trabalhe-conosco/wp-content/uploads/2026/11/EDITAL-304-2026_ESP_DOUTOR_BCH-EM-SISTEMAS-DA-INFORMACAO.pdf",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T12:27:56.867228+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:56.729523+00:00",
     "categoria": "Docência / pesquisa a confirmar",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -15133,8 +15130,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "Anúncio geral; área e elegibilidade não demonstradas."
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas."
   },
   {
     "id": "inst-5b703415f4209424bb04",
@@ -15144,7 +15141,7 @@
     "url": "https://www.gov.br/cnpq/pt-br/acesso-a-informacao/acoes-e-programas/programas/profix",
     "fonte": "Institucional direta",
     "data_coleta": "2026-11-12",
-    "ultima_deteccao": "2026-11-12T12:27:58.742286+00:00",
+    "ultima_deteccao": "2026-11-12T12:54:56.817723+00:00",
     "categoria": "PROFIX / Fixação de doutores",
     "modalidade": "Não informada",
     "remuneracao": "Não informada",
@@ -15210,8 +15207,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "PROFIX: conferir modalidade de bolsa, área, prazo, remuneração e admissão de fisioterapeutas com doutorado; não é confirmação de cargo docente."
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas."
   },
   {
     "titulo": "Governo do Estado lança PROFIX 2025 com até 75 bolsas de pós-doutorado no valor de R$ 6,5 mil - FAPES",
@@ -15252,8 +15249,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "PROFIX: conferir modalidade de bolsa, área, prazo, remuneração e admissão de fisioterapeutas com doutorado; não é confirmação de cargo docente.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "ultima_deteccao": "2026-11-12"
   },
   {
@@ -15295,8 +15292,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "PROFIX: conferir modalidade de bolsa, área, prazo, remuneração e admissão de fisioterapeutas com doutorado; não é confirmação de cargo docente.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "ultima_deteccao": "2026-11-12"
   },
   {
@@ -15338,8 +15335,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "PROFIX: conferir modalidade de bolsa, área, prazo, remuneração e admissão de fisioterapeutas com doutorado; não é confirmação de cargo docente.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "ultima_deteccao": "2026-11-12"
   },
   {
@@ -15381,8 +15378,8 @@
         "evidencia": ""
       }
     },
-    "triagem": "Candidato",
-    "motivo_triagem": "PROFIX: conferir modalidade de bolsa, área, prazo, remuneração e admissão de fisioterapeutas com doutorado; não é confirmação de cargo docente.",
+    "triagem": "Fora da prioridade",
+    "motivo_triagem": "Aderência a Fisioterapia não demonstrada: cargo, titulação e nome da instituição não comprovam a área; exige anúncio de Fisioterapia ou admissão documentada de fisioterapeutas.",
     "ultima_deteccao": "2026-11-12"
   }
 ]
