@@ -25,5 +25,37 @@
       "https://ufcspa.edu.br/documentos/ANEXOS_118.pdf",
       "https://ufcspa.edu.br/documentos/Retificacao_27_de_outubro_1.pdf"
     ]
+  },
+  {
+    "id": "candidato-unirg-068-2026",
+    "titulo": "UnirG Edital 068/2026: seleção de professores de Fisioterapia",
+    "instituicao": "Universidade de Gurupi (UnirG)",
+    "pais": "Brasil",
+    "url": "https://www.unirg.edu.br/arquivos/documentos/Sele%C3%A7%C3%A3o%20Professores/2026/1Edital068-26_abertura_fisioterapia.pdf",
+    "fonte": "Edital institucional: revisão documental pendente",
+    "data_coleta": "2026-11-11",
+    "categoria": "Professor substituto",
+    "modalidade": "Presencial",
+    "remuneracao": "A confirmar no edital para titulação específica",
+    "prazo": "2026-11-15",
+    "status": "Não verificado",
+    "prioridade": "Fisioterapia",
+    "observacao": "Candidato à revisão: confirmar edital, retificações, prazo, remuneração, CREFITO-12 e aderência ao bloco de disciplinas; não classificar como elegível automaticamente."
+  },
+  {
+    "id": "candidato-unex-jequie-02-2026",
+    "titulo": "UNEX Jequié Edital 02/2026: cadastro de reserva docente de Fisioterapia",
+    "instituicao": "UNEX",
+    "pais": "Brasil",
+    "url": "https://unex.edu.br/wp-content/uploads/2026/11/EDITAL_UNEX_JEQUIE_2026_JEQUIE_02.pdf",
+    "fonte": "Edital institucional: revisão documental pendente",
+    "data_coleta": "2026-11-11",
+    "categoria": "Docência / cadastro de reserva",
+    "modalidade": "Presencial",
+    "remuneracao": "Não informada",
+    "prazo": "2026-11-15",
+    "status": "Não verificado",
+    "prioridade": "Fisioterapia",
+    "observacao": "Cadastro de reserva não é contratação garantida. Confirmar edital, retificações, remuneração, CREFITO-7 e aderência às disciplinas."
   }
 ]
