@@ -1,0 +1,24 @@
+name: Testar Radar sem publicar
+on:
+  pull_request:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  regressao:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '24'
+      - run: pip install pypdf==6.1.1
+      - run: python -m unittest discover -s tests -v
+      - run: node tests/test_catalogo.cjs
+      - run: python -m py_compile scripts/*.py

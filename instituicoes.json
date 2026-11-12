@@ -42,7 +42,10 @@
     "url": "https://portal.pucrs.br/sobre-a-pucrs/trabalhe-conosco/",
     "pais": "Brasil",
     "regiao": "RS",
-    "enabled": true
+    "enabled": true,
+    "urls_adicionais": [
+      "https://pucrs.gupy.io/"
+    ]
   },
   {
     "id": "6",
