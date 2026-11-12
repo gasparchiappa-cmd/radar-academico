@@ -1,6 +1,6 @@
 const fs=require('fs'),vm=require('vm'),assert=require('node:assert/strict');
 (async()=>{
- const elements=new Map();const element=id=>{if(!elements.has(id))elements.set(id,{value:id==='statusfilter'?'priority':'',textContent:'',innerHTML:'',addEventListener(){}});return elements.get(id)};
+ const elements=new Map();const element=id=>{if(!elements.has(id))elements.set(id,{value:id==='statusfilter'?'priority':'',textContent:'',innerHTML:'',listeners:{},addEventListener(type,handler){this.listeners[type]=handler}});return elements.get(id)};
  const stored={};stored['radar-fisio-v1']=JSON.stringify([{id:'personal-original',url:'https://example.edu/edital',title:'Título anterior',institution:'Universidade',country:'Brasil',favorite:true,stage:'Enviada',notes:'Nota pessoal preservada'}]);
  const data=[{id:'official-1',url:'https://example.edu/edital',titulo:'Título corrigido',instituicao:'Universidade',pais:'Brasil',prazo:'2099-12-31',remuneracao:'R$ 10.000',status:'Anúncio verificado',auditoria:{data:new Intl.DateTimeFormat('en-CA',{timeZone:'America/Sao_Paulo',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date())},triagem:'Candidato',elegibilidade:'Condicionada',verificacao:{graduacao:{valor:'Fisioterapia',fonte:'https://example.edu/edital'}}}];
  const context=vm.createContext({document:{getElementById:element,querySelectorAll(){return[]},addEventListener(){}},localStorage:{getItem:k=>stored[k],setItem:(k,v)=>stored[k]=v},URL,Intl,Date,console,setTimeout,fetch:async url=>({ok:true,json:async()=>url.includes('monitoramento')?{atualizado_em:new Date().toISOString(),falhas:0,instituicoes:[]}:data})});
@@ -52,6 +52,40 @@ const fs=require('fs'),vm=require('vm'),assert=require('node:assert/strict');
   assert.ok(!element('joblist').innerHTML.includes(title));assert.ok(!element('pendinglist').innerHTML.includes(title));assert.ok(element('archivelist').innerHTML.includes(title));
  }
  assert.equal(JSON.parse(stored['radar-fisio-v1']).length,10);
+ const expectedUFs={AC:'Norte',AL:'Nordeste',AP:'Norte',AM:'Norte',BA:'Nordeste',CE:'Nordeste',DF:'Centro-Oeste',ES:'Sudeste',GO:'Centro-Oeste',MA:'Nordeste',MT:'Centro-Oeste',MS:'Centro-Oeste',MG:'Sudeste',PA:'Norte',PB:'Nordeste',PR:'Sul',PE:'Nordeste',PI:'Nordeste',RJ:'Sudeste',RN:'Nordeste',RS:'Sul',RO:'Norte',RR:'Norte',SC:'Sul',SP:'Sudeste',SE:'Nordeste',TO:'Norte'};
+ for(const [uf,region] of Object.entries(expectedUFs)){
+  context.regionSample={country:'Brasil',stateCode:uf};assert.equal(vm.runInContext('jobRegions(regionSample)[0]',context),region,uf);
+ }
+ const regionalCases=[
+  [{country:'Brasil',title:'Professor de Fisioterapia - RS'},['Sul']],
+  [{country:'Brasil',title:'Professor - RSBanco de talentos'},['Sul']],
+  [{country:'Brasil',workStates:['PR','SP']},['Sul','Sudeste']],
+  [{country:'Brasil',workStates:['Espírito Santo']},['Sudeste']],
+  [{country:'Brasil',title:'Professor UFRGS',institution:'Universidade Federal do Rio Grande do Sul'},['unknown']],
+  [{country:'Brasil',title:'Professor UFAM',institution:'Universidade Federal do Amazonas',mode:'Remoto/EAD'},['unknown']],
+  [{country:'Portugal',title:'Professor - SP',workStates:['SP']},['exterior']],
+  [{country:'Não informado',title:'Professor - PA'},['unknown']]
+ ];
+ for(const [sample,expected] of regionalCases){context.regionSample=sample;assert.deepEqual(Array.from(vm.runInContext('jobRegions(regionSample)',context)),expected)}
+ const verified={status:'Anúncio verificado',prazo:'2099-12-31',auditoria:{data:reviewDate}};
+ for(const [name,uf] of [['SUL','RS'],['SUDESTE','SP'],['CENTRO','DF'],['NORTE','AM'],['NORDESTE','BA']])data.push(make('REGION_'+name,{...verified,uf}));
+ data.push(make('REGION_MULTI',{...verified,ufs:['SC','ES']}),make('REGION_EXTERIOR',{...verified,pais:'Portugal'}),make('REGION_UNKNOWN',{...verified}),make('PENDING_SUL',{uf:'RS'}),make('ARCHIVED_SUL',{uf:'RS',prazo:'2020-01-01'}));
+ await vm.runInContext('sincronizarVagas()',context);
+ const totalBeforeFilter=JSON.parse(stored['radar-fisio-v1']).length;
+ for(const [region,shown,other] of [['Sul','REGION_SUL','REGION_SUDESTE'],['Sudeste','REGION_SUDESTE','REGION_SUL'],['Centro-Oeste','REGION_CENTRO','REGION_NORTE'],['Norte','REGION_NORTE','REGION_NORDESTE'],['Nordeste','REGION_NORDESTE','REGION_SUL']]){
+  element('region').value=region;vm.runInContext('render()',context);assert.ok(element('joblist').innerHTML.includes(shown),region);assert.ok(!element('joblist').innerHTML.includes(other),region);
+  assert.ok(!element('joblist').innerHTML.includes('REGION_EXTERIOR'));assert.ok(!element('joblist').innerHTML.includes('REGION_UNKNOWN'));
+ }
+ element('region').value='Sul';vm.runInContext('render()',context);assert.equal(element('nopen').textContent,2);assert.ok(element('joblist').innerHTML.includes('REGION_MULTI'));assert.ok(element('pendinglist').innerHTML.includes('PENDING_SUL'));assert.ok(element('archivelist').innerHTML.includes('ARCHIVED_SUL'));
+ vm.runInContext("jobs.find(j=>j.title==='REGION_SUL').stage='Enviada';save()",context);assert.ok(element('applicationlist').innerHTML.includes('REGION_SUL'));
+ element('region').value='Sudeste';vm.runInContext('render()',context);assert.ok(!element('applicationlist').innerHTML.includes('REGION_SUL'));
+ element('region').value='unknown';vm.runInContext('render()',context);assert.ok(element('joblist').innerHTML.includes('REGION_UNKNOWN'));assert.ok(!element('joblist').innerHTML.includes('REGION_SUL'));
+ element('region').value='exterior';vm.runInContext('render()',context);assert.ok(element('joblist').innerHTML.includes('REGION_EXTERIOR'));assert.ok(!element('joblist').innerHTML.includes('REGION_SUL'));
+ element('clearregion').listeners.click();assert.equal(element('region').value,'');assert.ok(element('joblist').innerHTML.includes('REGION_SUL'));assert.ok(element('joblist').innerHTML.includes('REGION_EXTERIOR'));
+ assert.equal(JSON.parse(stored['radar-fisio-v1']).length,totalBeforeFilter);
+ assert.equal(JSON.parse(stored['radar-fisio-v1']).find(j=>j.id==='personal-original').notes,'Nota pessoal preservada');
+ assert.equal(JSON.parse(stored['radar-fisio-v1']).find(j=>j.title==='REGION_SUL').stage,'Enviada');
+ console.log('Filtro regional OK: 27 UFs, cinco regiões, exterior, local desconhecido, múltiplas regiões, quatro abas, limpar filtro e preservação de candidaturas.');
  console.log('Perfil Fisioterapia OK: Medicina e substitutos fora das listas de interesse; visitantes, adjuntos, assistentes e PROFIX preservados; histórico e candidaturas intactos.');
  console.log('Separação de vigentes, pendentes e histórico OK: data de coleta não comprova vigência; prorrogação de edital antigo aceita quando verificada; registros e candidaturas preservados.');
  console.log('Integração do catálogo OK: metadados, candidatura, favorita, notas e encerramento.');
