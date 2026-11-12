@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-12T11:41:19.674231+00:00",
+  "atualizado_em": "2026-11-12T12:28:59.709278+00:00",
   "instituicoes": [
     {
       "id": "1",
@@ -8,7 +8,7 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T11:40:02.030497+00:00",
+      "ultima_consulta": "2026-11-12T12:27:32.991404+00:00",
       "status": "Consulta parcial: candidatos a revisar",
       "candidatos_encontrados": 25,
       "tentativas": [
@@ -59,7 +59,7 @@
         "https://www2.faccat.br/portal/"
       ],
       "limitacao": "Página inclui resultados históricos. Publicação de edital atual depende de link público extraível.",
-      "ultima_consulta": "2026-11-12T11:40:02.031045+00:00",
+      "ultima_consulta": "2026-11-12T12:27:32.992272+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 12,
       "tentativas": [
@@ -113,7 +113,7 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T11:40:02.031453+00:00",
+      "ultima_consulta": "2026-11-12T12:27:32.992924+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 1,
       "tentativas": [
@@ -147,7 +147,7 @@
       "regiao": "RS",
       "enabled": true,
       "limitacao": "Página pública consultada é voltada a técnico-administrativos. Cobertura docente não demonstrada; não interpretar como ausência de vagas docentes.",
-      "ultima_consulta": "2026-11-12T11:40:02.031869+00:00",
+      "ultima_consulta": "2026-11-12T12:27:32.993798+00:00",
       "status": "Consulta parcial: nenhum link acadêmico extraído",
       "candidatos_encontrados": 0,
       "tentativas": [
@@ -176,7 +176,7 @@
       "urls_adicionais": [
         "https://pucrs.gupy.io/"
       ],
-      "ultima_consulta": "2026-11-12T11:40:02.032492+00:00",
+      "ultima_consulta": "2026-11-12T12:27:32.999352+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 4,
       "tentativas": [
@@ -209,7 +209,7 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T11:40:02.035243+00:00",
+      "ultima_consulta": "2026-11-12T12:27:33.002306+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 5,
       "tentativas": [
@@ -238,7 +238,7 @@
       "urls_adicionais": [
         "https://editais.feevale.br/"
       ],
-      "ultima_consulta": "2026-11-12T11:40:02.379574+00:00",
+      "ultima_consulta": "2026-11-12T12:27:33.392358+00:00",
       "status": "Consulta parcial: sem cobertura integral",
       "candidatos_encontrados": 0,
       "tentativas": [
@@ -272,7 +272,7 @@
       "regiao": "RS",
       "enabled": true,
       "urls_adicionais": [],
-      "ultima_consulta": "2026-11-12T11:40:02.774888+00:00",
+      "ultima_consulta": "2026-11-12T12:27:33.551423+00:00",
       "status": "Consultada: portal informa nenhuma vaga",
       "candidatos_encontrados": 0,
       "tentativas": [
@@ -298,7 +298,7 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T11:40:02.823518+00:00",
+      "ultima_consulta": "2026-11-12T12:27:34.166679+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 2,
       "tentativas": [
@@ -346,7 +346,7 @@
       "regiao": "RS",
       "enabled": true,
       "urls_adicionais": [],
-      "ultima_consulta": "2026-11-12T11:40:03.635453+00:00",
+      "ultima_consulta": "2026-11-12T12:27:34.332985+00:00",
       "status": "Consulta parcial: candidatos a revisar",
       "candidatos_encontrados": 10,
       "tentativas": [
@@ -394,7 +394,7 @@
       "regiao": "RS",
       "enabled": true,
       "limitacao": "Acesso de rede externo pode falhar. Falha não indica ausência de edital.",
-      "ultima_consulta": "2026-11-12T11:40:03.829486+00:00",
+      "ultima_consulta": "2026-11-12T12:27:34.572168+00:00",
       "status": "Falha",
       "candidatos_encontrados": 0,
       "tentativas": [
@@ -418,7 +418,7 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T11:40:05.348318+00:00",
+      "ultima_consulta": "2026-11-12T12:27:36.561820+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 12,
       "tentativas": [
@@ -434,7 +434,7 @@
           "tipo": "navegacao",
           "url_final": "https://www.ufsm.br/pro-reitorias/progep/busca?q=&sites%5B%5D=341&orderby=modified&order=DESC&perpage=15&area=editais&tipo_edital=&licitacao_edital=&concurso_edital=&outro_edital=",
           "status": "HTTP OK",
-          "resumo_sha256": "22db5a6e6e169cef010c10d0b18490f4000476e24c0677fa77ee6eed8ef58ef2"
+          "resumo_sha256": "92cc7ed1b61e5e1b98213523faa63e0ddd554ddbe1e99585ada881f1a84f16ba"
         },
         {
           "url": "https://www.ufsm.br/pro-reitorias/progep/coordenadoria-de-concursos-ccon",
@@ -456,7 +456,7 @@
       "url_final": "https://www.ufsm.br/pro-reitorias/progep/busca?area=editais&order=DESC&orderby=modified&q=&sites%5B%5D=341",
       "links_academicos_extraidos": 12,
       "limite_candidatos_atingido": false,
-      "resumo_sha256": "47796c3e441b1b256e342e5546b447a7f79870d85b71fadfdfdd92b69fb136f2"
+      "resumo_sha256": "01ed06ba4dd632038bb2ed837df0c2b53fee685f69db1510f396b051a955d835"
     },
     {
       "id": "13",
@@ -465,7 +465,7 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T11:40:06.670911+00:00",
+      "ultima_consulta": "2026-11-12T12:27:37.565495+00:00",
       "status": "Falha",
       "candidatos_encontrados": 0,
       "tentativas": [
@@ -490,7 +490,7 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T11:40:07.230003+00:00",
+      "ultima_consulta": "2026-11-12T12:27:38.366301+00:00",
       "status": "Consulta parcial: nenhum link acadêmico extraído",
       "candidatos_encontrados": 0,
       "tentativas": [
@@ -537,7 +537,7 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T11:40:07.504804+00:00",
+      "ultima_consulta": "2026-11-12T12:27:38.420974+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 8,
       "tentativas": [
@@ -584,7 +584,7 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T11:40:09.378268+00:00",
+      "ultima_consulta": "2026-11-12T12:27:41.118769+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 1,
       "tentativas": [
@@ -632,7 +632,7 @@
       "regiao": "Expansão",
       "enabled": true,
       "urls_adicionais": [],
-      "ultima_consulta": "2026-11-12T11:40:09.530238+00:00",
+      "ultima_consulta": "2026-11-12T12:27:41.163037+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 7,
       "tentativas": [
@@ -679,7 +679,7 @@
       "pais": "Brasil",
       "regiao": "Expansão",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T11:40:10.681507+00:00",
+      "ultima_consulta": "2026-11-12T12:27:41.622663+00:00",
       "status": "Consulta parcial: nenhum link acadêmico extraído",
       "candidatos_encontrados": 0,
       "tentativas": [
@@ -705,7 +705,7 @@
       "pais": "Brasil",
       "regiao": "Expansão",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T11:40:11.878816+00:00",
+      "ultima_consulta": "2026-11-12T12:27:42.572594+00:00",
       "status": "Consulta parcial: candidatos a revisar",
       "candidatos_encontrados": 7,
       "tentativas": [
@@ -714,7 +714,7 @@
           "tipo": "configurada",
           "url_final": "https://www.sg.unicamp.br/concursos",
           "status": "HTTP OK",
-          "resumo_sha256": "f99b05663719d421bbba6a543511078f56ee4fccb5e52cb2a51c10cf6edd79eb"
+          "resumo_sha256": "f1dc1b568477f59c3fa4e9494797bc776cacf4c7bfe1058dc3c2783a18a0a1a3"
         },
         {
           "url": "https://login.sg.unicamp.br/v1.1/sign-in/?siteUrl=http%3A%2F%2Fwww.sg.unicamp.br%2Fconcursos&continue=https%3A%2F%2Fwww.sg.unicamp.br%2Fconcursos",
@@ -728,14 +728,14 @@
           "tipo": "navegacao",
           "url_final": "https://www.sg.unicamp.br/gde/areas-e-disciplinas-concursaveis/catalogo",
           "status": "HTTP OK",
-          "resumo_sha256": "1889027cc88d6bff4a2fa2f5c75f432594fa2eca1ce5f6be95bb5a58bab5880e"
+          "resumo_sha256": "9f73c18ee51298dcf8de5887a5a158e9f082bb190e720e06bb254e4efc87e35f"
         },
         {
           "url": "https://www.sg.unicamp.br/gde/procedimentos-para-realizacao/concurso-livre-docente",
           "tipo": "navegacao",
           "url_final": "https://www.sg.unicamp.br/gde/procedimentos-para-realizacao/concurso-livre-docente",
           "status": "HTTP OK",
-          "resumo_sha256": "a112bd59e0e59d108ca95cb1d5734430e2c237d52f5ef1e596201a23e9f9d541"
+          "resumo_sha256": "31eaab9921036d14bd79e8b42f421c04af68e4c6921d128a982ab1c9335853c7"
         }
       ],
       "paginas_consultadas": 3,
@@ -743,7 +743,7 @@
       "url_final": "https://www.sg.unicamp.br/concursos",
       "links_academicos_extraidos": 7,
       "limite_candidatos_atingido": false,
-      "resumo_sha256": "a3b48705fd9ad4dfc04da30a690d3b8be5acb898a982940913152ecb51f8c00f"
+      "resumo_sha256": "bd794ceb858c7453f9c34d6ccdc8a3d6e956b727c7e8e8f3c077831327343489"
     },
     {
       "id": "20",
@@ -752,7 +752,7 @@
       "pais": "Brasil",
       "regiao": "Expansão",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T11:40:12.364531+00:00",
+      "ultima_consulta": "2026-11-12T12:27:45.912447+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 9,
       "tentativas": [
@@ -799,7 +799,7 @@
       "pais": "Portugal",
       "regiao": "Expansão",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T11:40:13.632904+00:00",
+      "ultima_consulta": "2026-11-12T12:27:46.055513+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 30,
       "tentativas": [
@@ -847,7 +847,7 @@
       "regiao": "Expansão",
       "enabled": true,
       "urls_adicionais": [],
-      "ultima_consulta": "2026-11-12T11:40:17.371446+00:00",
+      "ultima_consulta": "2026-11-12T12:27:50.007595+00:00",
       "status": "Consulta parcial: nenhum link acadêmico extraído",
       "candidatos_encontrados": 0,
       "tentativas": [
@@ -894,7 +894,7 @@
       "pais": "Reino Unido",
       "regiao": "Expansão",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T11:40:19.684459+00:00",
+      "ultima_consulta": "2026-11-12T12:27:50.351512+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 4,
       "tentativas": [
@@ -944,7 +944,7 @@
       "urls_adicionais": [
         "https://about.unimelb.edu.au/careers/erecruitment"
       ],
-      "ultima_consulta": "2026-11-12T11:40:19.965296+00:00",
+      "ultima_consulta": "2026-11-12T12:27:52.537072+00:00",
       "status": "Falha",
       "candidatos_encontrados": 0,
       "tentativas": [
@@ -974,7 +974,7 @@
       "pais": "Brasil",
       "regiao": "RS",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T11:40:21.057017+00:00",
+      "ultima_consulta": "2026-11-12T12:27:52.837007+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 2,
       "tentativas": [
@@ -1021,7 +1021,7 @@
       "pais": "Brasil",
       "regiao": "Expansão",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T11:40:21.096978+00:00",
+      "ultima_consulta": "2026-11-12T12:27:52.885453+00:00",
       "status": "Falha",
       "candidatos_encontrados": 0,
       "tentativas": [
@@ -1046,7 +1046,7 @@
       "pais": "Brasil",
       "regiao": "Expansão",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T11:40:21.830230+00:00",
+      "ultima_consulta": "2026-11-12T12:27:53.567722+00:00",
       "status": "Consultada: candidatos a revisar",
       "candidatos_encontrados": 3,
       "tentativas": [
@@ -1093,7 +1093,7 @@
       "pais": "Brasil",
       "regiao": "Expansão",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T11:40:22.152461+00:00",
+      "ultima_consulta": "2026-11-12T12:27:53.847053+00:00",
       "status": "Consulta parcial: nenhum link acadêmico extraído",
       "candidatos_encontrados": 0,
       "tentativas": [
@@ -1133,7 +1133,7 @@
       "pais": "Brasil",
       "regiao": "Expansão",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T11:40:22.610048+00:00",
+      "ultima_consulta": "2026-11-12T12:27:53.959133+00:00",
       "status": "Consulta parcial: nenhum link acadêmico extraído",
       "candidatos_encontrados": 0,
       "tentativas": [
@@ -1159,7 +1159,7 @@
       "pais": "Brasil",
       "regiao": "Expansão",
       "enabled": true,
-      "ultima_consulta": "2026-11-12T11:40:24.405911+00:00",
+      "ultima_consulta": "2026-11-12T12:27:56.113007+00:00",
       "status": "Consulta parcial: candidatos a revisar",
       "candidatos_encontrados": 18,
       "tentativas": [
@@ -1206,22 +1206,24 @@
       "regiao": "Expansão EAD",
       "enabled": true,
       "limitacao": "Docência EAD não implica teletrabalho integral; verificar edital, local de gravação/aulas e titulação mínima e máxima.",
-      "ultima_consulta": "2026-11-12T11:40:26.611756+00:00",
-      "status": "Falha",
-      "candidatos_encontrados": 0,
+      "ultima_consulta": "2026-11-12T12:27:56.867228+00:00",
+      "status": "Consultada: candidatos a revisar",
+      "candidatos_encontrados": 1,
       "tentativas": [
         {
           "url": "https://www.uninter.com/trabalhe-conosco/",
           "tipo": "configurada",
-          "status": "Falha",
-          "erro": "The read operation timed out"
+          "url_final": "https://www.uninter.com/trabalhe-conosco/",
+          "status": "HTTP OK",
+          "resumo_sha256": "bf7df5e964ccb4e8b24c68fff98692e0e7e2b30b79d200363158d34af1799217"
         }
       ],
-      "paginas_consultadas": 0,
+      "paginas_consultadas": 1,
       "falhas_navegacao": 0,
-      "links_academicos_extraidos": 0,
+      "url_final": "https://www.uninter.com/trabalhe-conosco/",
+      "links_academicos_extraidos": 1,
       "limite_candidatos_atingido": false,
-      "erro": "The read operation timed out"
+      "resumo_sha256": "bf7df5e964ccb4e8b24c68fff98692e0e7e2b30b79d200363158d34af1799217"
     },
     {
       "id": "32",
@@ -1231,7 +1233,7 @@
       "regiao": "Programa nacional",
       "enabled": true,
       "limitacao": "Índice oficial de chamadas PROFIX; a elegibilidade de Fisioterapia, o prazo e a modalidade de bolsa precisam ser conferidos em cada edital das FAPs/instituições. A página geral não é uma vaga.",
-      "ultima_consulta": "2026-11-12T11:40:27.162505+00:00",
+      "ultima_consulta": "2026-11-12T12:27:58.742286+00:00",
       "status": "Consulta parcial: candidatos a revisar",
       "candidatos_encontrados": 1,
       "tentativas": [
@@ -1294,7 +1296,7 @@
     {
       "consulta": "concurso professor assistente fisioterapia",
       "erro": null,
-      "resultados": 25
+      "resultados": 26
     },
     {
       "consulta": "edital PROFIX fisioterapia reabilitação",
@@ -1309,7 +1311,7 @@
     {
       "consulta": "professor fisioterapia convocatoria universidad",
       "erro": null,
-      "resultados": 21
+      "resultados": 20
     },
     {
       "consulta": "plaza profesor fisioterapia universidad España",
@@ -1319,7 +1321,7 @@
     {
       "consulta": "concurso professor fisioterapia universidade Portugal",
       "erro": null,
-      "resultados": 9
+      "resultados": 10
     },
     {
       "consulta": "assistant professor visiting professor physical therapy university",
@@ -1340,7 +1342,7 @@
   "total": 190,
   "validadas": 0,
   "encerradas": 33,
-  "anuncios_verificados": 1,
+  "anuncios_verificados": 0,
   "triagem": {
     "Candidato": 81,
     "Duplicata": 1,
@@ -1350,9 +1352,9 @@
     "Não remunerada": 1
   },
   "instituicoes_tentadas": 32,
-  "instituicoes_com_leitura": 27,
+  "instituicoes_com_leitura": 28,
   "consultas_parciais": 12,
-  "candidatos_coletados": 189,
-  "novos_registros": 5,
-  "falhas": 5
+  "candidatos_coletados": 190,
+  "novos_registros": 0,
+  "falhas": 4
 }
