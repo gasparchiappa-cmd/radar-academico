@@ -47,25 +47,22 @@ function archiveReason(j){
   return '';
 }
 function isProfileRelevant(j){
-  const n=s=>String(s||'').normalize('NFKD').replace(/[\\u0300-\\u036f]/g,'').toLowerCase();
+  const n=s=>String(s||'').normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
   const title=n(j.title),degree=n(j.degreeRequirement),role=n(j.type);
   const physio=/fisioterap|physiotherap|physical therap/;
   const explicit=physio.test(title)||(!!validUrl(j.degreeSource)&&physio.test(degree));
-  const excluded=/\\bsubstitut[oa]s?\\b|\\bsustitut[oa]s?\\b|substitute (professor|lecturer|teacher)/.test(title+' '+role);
-  const otherArea=/engenharia|engineering|enfermagem|nursing|pediatr|medicina|medicine|sistemas de informacao|computer science|quimica|chemistry|odontolog|direito|law\\b/.test(title);
+  const excluded=/\bsubstitut[oa]s?\b|\bsustitut[oa]s?\b|substitute (professor|lecturer|teacher)/.test(title+' '+role);
+  const otherArea=/engenharia|engineering|enfermagem|nursing|pediatr|medicina|medicine|sistemas de informacao|computer science|quimica|chemistry|odontolog|direito|\blaw\b/.test(title);
   return explicit&&!excluded&&!otherArea&&!profileExclusion(j);
 }
 function isDisplayable(j){
-  const status=effectiveStatus(j);
-  const oldYears=(j.title||'').match(/\\b(?:19|20)\\d{2}\\b/g)||[];
-  if(oldYears.length&&Math.max(...oldYears.map(Number))<Number(today().slice(0,4))&&!future(j))return false;
-  return isProfileRelevant(j)&&future(j)&&!['Encerrada','Revisão necessária'].includes(status)&&!archiveReason(j);
+  return isProfileRelevant(j);
 }
 function isCurrent(j){return !archiveReason(j) && future(j) && ['Anúncio verificado','Validada'].includes(effectiveStatus(j))}
 function render(){
   jobs.forEach(j=>{j.verification=effectiveStatus(j)});
   const visible=jobs.filter(isDisplayable);const current=visible.filter(isCurrent),archived=visible.filter(j=>archiveReason(j)),pending=visible.filter(j=>!isCurrent(j)&&!archiveReason(j));
-  $('nall').textContent=visible.length;$('nopen').textContent=current.filter(matchesRegion).length;$('nsaved').textContent=jobs.filter(j=>j.favorite).length;$('napplied').textContent=jobs.filter(j=>j.stage==='Enviada').length;
+  $('nall').textContent=jobs.length;$('nopen').textContent=current.filter(matchesRegion).length;$('nsaved').textContent=jobs.filter(j=>j.favorite).length;$('napplied').textContent=jobs.filter(j=>j.stage==='Enviada').length;
   const countries=[...new Set(current.filter(matchesRegion).map(j=>j.country).filter(Boolean))].sort();const selected=$('country').value;
   $('country').innerHTML='<option value="">Todos os países</option>'+countries.map(c=>`<option value="${esc(c)}">${esc(c)}</option>`).join('');$('country').value=countries.includes(selected)?selected:'';
   const q=$('q').value.toLowerCase(),country=$('country').value,mode=$('mode').value,filter=$('statusfilter').value;
