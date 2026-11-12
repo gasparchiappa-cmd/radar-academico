@@ -1,0 +1,107 @@
+[
+  {
+    "name": "substituto_fisio",
+    "title": "Professor Substituto de Fisioterapia",
+    "excluded": true
+  },
+  {
+    "name": "substituta",
+    "title": "Seleção de professora substituta de Fisioterapia",
+    "excluded": true
+  },
+  {
+    "name": "categoria_sem_titulo",
+    "title": "UnirG Edital seleção Fisioterapia",
+    "category": "Professor substituto",
+    "excluded": true
+  },
+  {
+    "name": "medicine",
+    "title": "Concurso Professor Medicina Cirurgia",
+    "excluded": true
+  },
+  {
+    "name": "medical_specialty",
+    "title": "Docente de Oftalmologia",
+    "excluded": true
+  },
+  {
+    "name": "clinical_no_physio",
+    "title": "Professor Medicina Saúde Coletiva",
+    "excluded": true
+  },
+  {
+    "name": "medicine_degree",
+    "title": "Professor de Fisioterapia",
+    "degree": "Graduação em Medicina e CRM ativo",
+    "excluded": true
+  },
+  {
+    "name": "med_school_physio",
+    "title": "Faculdade de Medicina contrata Professor Adjunto de Fisioterapia",
+    "excluded": false
+  },
+  {
+    "name": "med_school_degree_physio",
+    "title": "Faculdade de Medicina seleciona Professor de Fisiologia",
+    "degree": "Graduação em Fisioterapia ou Medicina",
+    "excluded": false
+  },
+  {
+    "name": "assistant",
+    "title": "Professor Assistente de Fisioterapia",
+    "excluded": false
+  },
+  {
+    "name": "adjunct",
+    "title": "Professor Adjunto de Fisioterapia",
+    "excluded": false
+  },
+  {
+    "name": "visiting",
+    "title": "Professor Visitante de Fisioterapia",
+    "excluded": false
+  },
+  {
+    "name": "profix",
+    "title": "Edital PROFIX-CB Fixação de Doutores Reabilitação",
+    "excluded": false
+  },
+  {
+    "name": "temp_visiting",
+    "title": "Professor Visitante de Fisioterapia por tempo determinado",
+    "excluded": false
+  },
+  {
+    "name": "assistant_en",
+    "title": "Assistant Professor of Physical Therapy",
+    "excluded": false
+  },
+  {
+    "name": "substitute_en",
+    "title": "Substitute Lecturer in Physiotherapy",
+    "excluded": true
+  },
+  {
+    "name": "sustituto_es",
+    "title": "Profesor sustituto de Fisioterapia",
+    "excluded": true
+  },
+  {
+    "name": "biomed",
+    "title": "Professor de Fisioterapia na Escola de Biomedicina",
+    "excluded": false
+  },
+  {
+    "name": "med_not_required",
+    "title": "Professor de Fisiologia",
+    "degree": "Não há exigência de graduação em Medicina",
+    "excluded": false
+  },
+  {
+    "name": "physio_rejected",
+    "title": "Professor de Ciências da Saúde",
+    "degree": "Graduação em Medicina; Fisioterapia não aceita",
+    "excluded": true
+  }
+]

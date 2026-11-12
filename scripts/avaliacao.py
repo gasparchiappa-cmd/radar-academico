@@ -3,14 +3,32 @@ import re
 from datetime import date, timedelta
 from urllib.parse import urlsplit
 
+def profile_exclusion(item, normalize):
+    title=normalize(item.get('titulo',''))
+    role=normalize(item.get('categoria',''))
+    degree=normalize(item.get('verificacao',{}).get('graduacao',{}).get('valor',''))
+    physio=r'fisioterap|physiotherap|physical therap'
+    if re.search(r'\bsubstitut[oa]s?\b|\bsustitut[oa]s?\b|\bsubstitute (professor|lecturer|teacher)\b',title+' '+role):
+        return 'Professor substituto excluído por preferência expressa do usuário, inclusive em Fisioterapia.'
+    degree_physio=bool(re.search(physio,degree)) and not re.search(r'fisioterap.{0,20}(nao admit|nao aceit|exclu)|nao.{0,20}(admit|aceit).{0,20}fisioterap',degree)
+    if degree and not degree_physio and re.search(r'\bmedicina\b|medical degree|bachelor of medicine|\bcrm\b',degree) and not re.search(r'nao.{0,30}(exig|necess)|not.{0,20}requir',degree):
+        return 'Requisito de graduação em Medicina sem admissão de Fisioterapia documentada.'
+    medical=r'\bmedicina\b|\bmedicine\b|\bmedical\b|oftalmol|ophthalmol|pediatr|psiquiatr|psychiatr|ginecolog|obstetric|cirurg|radiolog'
+    if re.search(medical,title) and not re.search(physio,title) and not degree_physio:
+        return 'Área médica sem admissão de Fisioterapia documentada; fora das listas de interesse.'
+    return ''
+
 def screen(item, normalize):
     t=normalize(item.get('titulo',''));u=item.get('url','')
+    excluded=profile_exclusion(item,normalize)
+    if excluded:return 'Fora da prioridade',excluded
     if item.get('duplicata_de'):return 'Duplicata','Mesmo edital identificado; registro preservado para candidaturas.'
     if re.search(r'voluntari|unpaid|unremunerated',t):return 'Não remunerada','A própria publicação identifica atuação voluntária ou não remunerada.'
     if re.search(r'resultado|homologacao|inscricoes homologadas|candidatos aprovados|^aprovados$|banca examinadora|relatorio da apuracao|classificacao final|conclusao do concurso',t):return 'Histórico','Resultado ou ato de andamento; não é abertura de inscrições.'
     if re.search(r'solicitacoes de vagas|gestao de vagas|procedimentos-para-realizacao|coordenadoria-de-concursos|/prorh/publicacoes',t+' '+u) or t in ['comissao de selecao docente','concurso livre docente','concurso pesquisador','concurso professor doutor','concurso professor titular']:
         return 'Fonte de acompanhamento','Página geral ou procedimento; não representa uma vaga individual.'
     if re.search(r'mestrado em reabilitacao.*recebe inscricoes',t):return 'Fora da prioridade','Ingresso discente, não contratação acadêmica.'
+    if re.search(r'profix|fixacao de doutores',t):return 'Candidato','PROFIX: conferir modalidade de bolsa, área, prazo, remuneração e admissão de fisioterapeutas com doutorado; não é confirmação de cargo docente.'
     relevant=re.search(r'fisioterap|physiotherap|physical therap|reabilita|rehabilita|cardi|fisiologia|physiology|saude coletiva|saude publica|bioquimica|public health|clinical|saude|health|biomateriais|regenerativa|psicologia aplicada',t)
     if relevant:return 'Candidato','Área potencialmente pertinente; exige edital, prazo, remuneração e requisitos.'
     if re.search(r'engenharia|direito|matematica|linguistica|comput|eletron|fisica|quimica|pedagogia|agronom|turismo|libras|geometria|ecologia|educacao|servico social',t):
@@ -33,6 +51,10 @@ def apply_reviews(records, reviews, normalize, today=None):
         if review.get('triagem'):item['triagem']=review['triagem']
         if review.get('motivo'):item['motivo_triagem']=review['motivo']
         if item.get('duplicata_de'):item['triagem']='Duplicata'
+    # Preference filters are current user criteria and cannot be undone by an older review.
+    for item in records:
+        excluded=profile_exclusion(item,normalize)
+        if excluded:item['triagem']='Fora da prioridade';item['motivo_triagem']=excluded
     return records
 
 def valid_deadline(value):

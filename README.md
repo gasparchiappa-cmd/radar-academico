@@ -59,3 +59,9 @@ A proposta usa Ubuntu 24.04, checkout v5, setup-python v6 e setup-node v5 com No
 ## Separação entre vigentes, pendentes e histórico
 
 A proposta de interface mantém a aba Vigentes exclusivamente para anúncios com data real de encerramento ainda aberta e revisão documental positiva vigente. Favoritas e candidaturas não furam essa regra. Anúncios sem vigência comprovada ficam em A verificar. Encerrados, resultados, fontes gerais, outras classes fora da prioridade e publicações de anos anteriores sem prazo futuro documentado ficam em Histórico. O ano no título não encerra uma seleção: um edital antigo prorrogado e verificado continua elegível para Vigentes. A data de coleta não é tratada como data de publicação. Nenhum registro é apagado, e candidaturas permanecem acessíveis independentemente da vigência.
+
+## Perfil de interesse (12/11/2026)
+
+Docência de Fisioterapia em instituições de ensino superior, incluindo professor visitante, adjunto, assistente e chamadas PROFIX. Professores substitutos estão excluídos, inclusive quando a área é Fisioterapia. Seleções que exigem graduação em Medicina, ou anunciam área médica sem admissão de Fisioterapia documentada, ficam fora das listas Vigentes e A verificar. O nome de uma faculdade de Medicina não exclui uma vaga que aceite Fisioterapia expressamente. Todos os registros continuam no histórico e as candidaturas pessoais são preservadas.
+
+A preferência atual prevalece sobre revisões antigas. A interface aplica a exclusão imediatamente também aos registros locais e o coletor mantém a triagem nas próximas atualizações. PROFIX é modalidade de fixação de doutores/bolsa a conferir no edital, sem presunção de cargo docente efetivo, salário ou elegibilidade pessoal. Novas consultas de visitante/adjunto/assistente/PROFIX são complementares; área, titulação e prazo continuam exigindo comprovação institucional.

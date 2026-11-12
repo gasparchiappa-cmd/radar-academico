@@ -14,15 +14,16 @@ ARQUIVO = Path("vagas.json")
 
 BUSCAS = [
     "concurso professor fisioterapia universidade inscrições",
-    "edital professor visitante fisioterapia universidade",
-    "seleção pesquisador reabilitação cardiovascular universidade",
-    "concurso docente fisiologia do exercício universidade",
+    "professor fisioterapia centro universitário contratação",
+    "edital professor visitante fisioterapia doutorado",
+    "concurso professor adjunto fisioterapia",
+    "concurso professor assistente fisioterapia",
+    "edital PROFIX fisioterapia reabilitação",
+    "PROFIX fixação doutores ciências da saúde",
     "professor fisioterapia convocatoria universidad",
-    "convocatoria investigador rehabilitación cardiovascular",
     "plaza profesor fisioterapia universidad España",
     "concurso professor fisioterapia universidade Portugal",
-    "bolsa investigação reabilitação cardiovascular Portugal",
-    "research fellowship physiotherapy rehabilitation university",
+    "assistant professor visiting professor physical therapy university",
 ]
 
 TERMOS_OPORTUNIDADE = [
@@ -32,7 +33,7 @@ TERMOS_OPORTUNIDADE = [
     "convocatoria", "plaza", "plazas",
     "oferta de empleo", "contratación",
     "recruitment", "vacancy", "vacancies",
-    "fellowship", "postdoctoral", "hiring",
+    "fellowship", "postdoctoral", "hiring", "profix",
 ]
 
 TERMOS_ACADEMICOS = [
@@ -40,7 +41,7 @@ TERMOS_ACADEMICOS = [
     "instituto", "institut", "faculdade",
     "faculty", "research", "pesquisa",
     "investigação", "investigacion",
-    "docente", "professor", "profesor",
+    "docente", "professor", "profesor", "profix",
     "pesquisador", "investigador",
 ]
 
@@ -85,7 +86,7 @@ def relevante(titulo):
     oportunidade = any(t in texto for t in TERMOS_OPORTUNIDADE)
     academico = any(t in texto for t in TERMOS_ACADEMICOS)
     area = any(t in texto for t in TERMOS_AREAS)
-    return oportunidade and academico and area
+    return oportunidade and academico and (area or "profix" in texto)
 
 def identificar_pais(titulo):
     texto = normalizar(titulo)

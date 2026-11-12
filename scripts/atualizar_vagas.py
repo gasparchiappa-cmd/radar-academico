@@ -75,17 +75,17 @@ def fetch(url):
 
 def category(title):
     t=norm(title)
-    for key,value in [('substitut','Professor substituto'),('visitant','Professor visitante'),('postdoc','Pós-doutorado'),('pos-dout','Pós-doutorado'),('research','Pesquisador'),('pesquisador','Pesquisador'),('efetivo','Professor efetivo')]:
+    for key,value in [('substitut','Professor substituto'),('visitant','Professor visitante'),('profix','PROFIX / Fixação de doutores'),('adjunt','Professor adjunto'),('assistente','Professor assistente'),('assistant professor','Professor assistente'),('postdoc','Pós-doutorado'),('pos-dout','Pós-doutorado'),('research','Pesquisador'),('pesquisador','Pesquisador'),('efetivo','Professor efetivo')]:
         if key in t:return value
     return 'Docência / pesquisa a confirmar'
 
 def candidate(title,url=""):
     t=norm(title)
     path=norm(unquote(urlsplit(url).path))
-    academic_terms=r'docent|profess|profesor|lecturer|postdoc|pos.doutor|research|pesquisador|investigador|fellowship'
+    academic_terms=r'docent|profess|profesor|lecturer|postdoc|pos.doutor|research|pesquisador|investigador|fellowship|profix|fixacao.de.doutores'
     generic=bool(re.fullmatch(r'(edital|baixar|download)(\s+.*)?',t))
     academic=bool(re.search(academic_terms,t)) or (generic and bool(re.search(academic_terms,path.rsplit('/',1)[-1])))
-    recruitment=bool(re.search(r'edital|selec|concurso|vaga|vacanc|recruit|job|contrat|fellow|postdoc|pos.doutor|convocatoria|plaza',t+' '+path))
+    recruitment=bool(re.search(r'edital|selec|concurso|vaga|vacanc|recruit|job|contrat|fellow|postdoc|pos.doutor|convocatoria|plaza|profix|fixacao.de.doutores',t+' '+path))
     job_page=bool(re.search(r'/jobs/[^/?#]+|/vacanc(?:y|ies)/[^/?#]+',urlsplit(url).path,re.I))
     return academic and (recruitment or job_page)
 
