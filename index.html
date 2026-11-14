@@ -61,7 +61,7 @@ function isDisplayable(j){
 function isCurrent(j){return !archiveReason(j) && future(j) && ['Anúncio verificado','Validada'].includes(effectiveStatus(j))}
 function render(){
   jobs.forEach(j=>{j.verification=effectiveStatus(j)});
-  const visible=jobs.filter(isDisplayable);const current=visible.filter(isCurrent),archived=visible.filter(j=>archiveReason(j)),pending=visible.filter(j=>!isCurrent(j)&&!archiveReason(j));
+  const visible=jobs.filter(isDisplayable);const current=visible.filter(isCurrent),archived=jobs.filter(j=>archiveReason(j)),pending=visible.filter(j=>!isCurrent(j)&&!archiveReason(j));
   $('nall').textContent=jobs.length;$('nopen').textContent=current.filter(matchesRegion).length;$('nsaved').textContent=jobs.filter(j=>j.favorite).length;$('napplied').textContent=jobs.filter(j=>j.stage==='Enviada').length;
   const countries=[...new Set(current.filter(matchesRegion).map(j=>j.country).filter(Boolean))].sort();const selected=$('country').value;
   $('country').innerHTML='<option value="">Todos os países</option>'+countries.map(c=>`<option value="${esc(c)}">${esc(c)}</option>`).join('');$('country').value=countries.includes(selected)?selected:'';
